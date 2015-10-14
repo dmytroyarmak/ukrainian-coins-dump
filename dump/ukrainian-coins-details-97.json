@@ -1,0 +1,20 @@
+{
+  "id": 97,
+  "name": "Trypillia",
+  "metal": "bimetal from precious metals (Ag 925 - Au 916)",
+  "denomination": "20 hryvnias",
+  "date": "20 December 2000",
+  "weight": 14.7,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "unspecified",
+  "edge": "sectoral corrugation",
+  "mintage": 3000,
+  "categoryId": 5924,
+  "category": "Monuments of ancient cultures of Ukraine",
+  "generalDescription": "The coin is dedicated to Trypillia culture, one of the brightest agricultural and cattle-breeding cultures of Neolithic (4th - 3d century B.C.). Archeological finds of this culture are the important historical sources for those who study Old European history. The name originates from the settlement of the same name in Kyiv region, investigated at the end of 19th century",
+  "averseDescription": "On the coin obverse in the centre of the insert ring and against the background of rye ears there is depicted of a symbolic wheel of history with a falcon sitting on it, underneath it there is depicted a snake; above and to the left there is the small National Emblem of Ukraine; within the outer ring, there are depicted a herdboy (on the left) and a girl with ears in her hands (on the right), as well as the logotype of the NBU Mint and the inscriptions: УКРАЇНА / 2000 / 20 / ГРИВЕНЬ (Ukraine/ 20/ hryvnia/ 2000).",
+  "reverseDescription": "On the coin reverse within the insert ring there is depicted a clay antroph-amorphous statuette from Volodymyrivka (a settlement in Kirovograd region); within the outer ring there is depicted specimens of ware of Trypillia culture and the conventionalized inscription: ТРИПІЛЛЯ (Trypillia).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=97",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=97"
+}

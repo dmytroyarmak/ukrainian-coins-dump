@@ -1,0 +1,20 @@
+{
+  "id": 349,
+  "name": "Marmot",
+  "metal": "gold (Au 999,9)",
+  "denomination": "2 hryvnias",
+  "date": "1 March 2007",
+  "weight": 1.24,
+  "diameter": 13.92,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "smooth",
+  "mintage": 10000,
+  "categoryId": 5926,
+  "category": "The smallest golden coin",
+  "generalDescription": "The coin is dedicated to a rodent, which inhabits the Ukrainian steppes and since autumn till spring falls into hibernation hiding in a burrow. The time of marmot’s awakening is a sign of early or delayed spring.",
+  "averseDescription": "On the coin obverse the Small National Emblem of Ukraine, the coin issue year 2007, designation of Au 999,9 (on the left) and weight in fineness 1,24 and the NBU Mint logotype (on the right) are placed within the beads ring; between the beads ring and the coin rim there are inscriptions: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) (above), and 2 ГРИВНІ (2 Hryvnias) (below)",
+  "reverseDescription": "On the coin reverse a marmot is depicted and the following inscriptions are placed: MARMOTA BOBAK (on the left) and БАБАК (БАЙБАК) (Marmot) (on the right).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=349",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=349"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 248,
+  "name": "Bandura",
+  "metal": "bimetal from nonprecious metals",
+  "denomination": "5 hryvnias",
+  "date": "23 December 2003",
+  "weight": 9.4,
+  "diameter": 28,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "sectoral corrugation",
+  "mintage": 30000,
+  "categoryId": 5927,
+  "category": "Folk Musical Instruments",
+  "generalDescription": "The coin is dedicated to the bandura, a stringed plucking-played musical instrument.",
+  "averseDescription": "The raised obverse symbolizes bandura strings. Here a Ukrainian song is reproduced as a conventionalized Baroque ornamentation. Above there is the small National Emblem of Ukraine, conventionalized inscriptions in the Cossack script - УКРАЇНА (Ukraine). Beneath there are inscriptions: 2003, the coin issue year, 5 ГРИВЕНЬ (5 hryvnia) and the NBU Mint logotype.",
+  "reverseDescription": "On the coin reverse a bandura is depicted encircled with a Baroque ornament and the conventionalized inscription БАНДУРА (bandura) made to look like the Cossack script.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=248",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=248"
+}

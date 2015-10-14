@@ -1,0 +1,20 @@
+{
+  "id": 254,
+  "name": "Volodymyr Filatov",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "12 January 2005",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "uncirculated",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to 130th anniversary of Volodymyr Filatov, an outstanding ophthalmologist and surgeon, whose greatest discovery was a tissue therapy - a principally new medical treatment method. Volodymyr Filatov is a brilliant representative of a Pleiad of scientists who have enriched world medical science with distinguished achievements. He was the founder of the national scientific school of ophthalmologists, a foundation initiator and director of Odesa scientific and research institute for eye-diseases and tissue therapy",
+  "averseDescription": "On the coin obverse there is depicted a conventionalized diagram of the human optical system and the inscription 2 ГРИВНІ (2 / hryvnia), the coin face value; above there is the small National Emblem of Ukraine under which there is the semicircular inscription: УКРАЇНА (Ukraine), beneath - 2005 (the coin issue year) as well as the Mint logotype of the National Bank of Ukraine",
+  "reverseDescription": "On the coin reverse there is a portrait of Volodymyr Filatov, displaced to the right from the centre; on the left there is the inscription: ВОЛОДИМИР ФІЛАТОВ (Volodymyr Filatov) 1875/1956, made as a chart for eyesight checking.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=254",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=254"
+}

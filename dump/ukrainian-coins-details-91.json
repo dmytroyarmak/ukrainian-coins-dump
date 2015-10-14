@@ -1,0 +1,20 @@
+{
+  "id": 91,
+  "name": "Vikentii Khvoika",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "29 March 2000",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "uncirculated",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to the 150th birth anniversary of Vikentii Khvoika (1900-1993), an outstanding Ukrainian archeologist, the discoverer of Trypillia (4-2 milleniums B.C.), Zarubynetska (3 century B.C.- 4 century A.D.) and Chernyakhivska (2-7 centuries A.D.) civilizations, as well as Scythian and Eastern-Slavic artefacts. He is one of the founders of the Kyiv Municipal Museum (now - the National Museum of the History of Ukraine).",
+  "averseDescription": "On the coin obverse within the concentric circles separated by solar marks there is depicted the small National Emblem of Ukraine set in the ceramics of the Trypillia culture discovered by Vikentii Khvoika during his archeological investigations. On the coin there is a conventionalized four-line inscription: УКРАЇНА, 2000, ДВІ, ГРИВНІ . (Ukraine/ 2000/ 2 /hryvnia).",
+  "reverseDescription": "On the coin reverse there is a bust of the scientist and the circular conventionalized inscriptions: ВІКЕНТІЙ ХВОЙКА (Vikentii Khvoika) and 1850-1914.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=91",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=91"
+}

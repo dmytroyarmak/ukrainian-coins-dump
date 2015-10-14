@@ -1,0 +1,20 @@
+{
+  "id": 232,
+  "name": "125 Years of the Chernivtsi State University",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "15 September 2000",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 50000,
+  "categoryId": 5919,
+  "category": "Higher educational establishments of Ukraine",
+  "generalDescription": "The coin is dedicated to one of the leading high schools of Ukraine - the Chernivtsi State University named after Jurii Fedkovich.",
+  "averseDescription": "On the coin obverse there is the small National Emblem of Ukraine framed with the ornamental cartouches depicting stucco ceiling of the main university building, the logotype of the NBU Mint and the inscriptions: УКРАЇНА, 2000, 2 ГРИВНІ. (Ukraine/ 2000/ 2 /hryvnia)",
+  "reverseDescription": "On the coin reverse there is a depiction of the main university facade (architect Joseph Hlavka) within the vaulted opening and two lines inscriptions: ЧЕРНІВЕЦЬКИЙ ДЕРЖАВНИЙ УНІВЕРСИТЕТ 125 років (125 Years of the Chernivtsi State University)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=232",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=232"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 101,
+  "name": "10 Years of the National Bank of Ukraine",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "29 March 2001",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 3000,
+  "categoryId": 5933,
+  "category": "Rebirth of Ukrainian Statehood",
+  "generalDescription": "The coin is dedicated to the central bank of Ukraine, the only issuing centre of the state, which carries out consistent monetary policy and secures the efficient operation of the banking system of Ukraine and stability of the national monetary unit -Hryvnia",
+  "averseDescription": "On the coin obverse between two ornamental slits there are depicted the small National Emblem of Ukraine and the inscriptions: on the silver coin: УКРАЇНА, 2001, 10, ГРИВЕНЬ (Ukraine/ 10 Hryvnia 2001), as well as the designation of the metal, its fineness and its weight in fineness. There is also the depiction of the logotype of the Mint of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse there is depicted the facade of the bank`s capital building (architects: O.Kobeliev and O.Verbytskyi) above the building there is depicted the logotype of the National Bank of Ukraine and the circular inscription: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) and below: 10 РОКІВ (10 years).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=101",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=101"
+}

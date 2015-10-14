@@ -1,0 +1,20 @@
+{
+  "id": 434,
+  "name": "Turtle",
+  "metal": "gold (Au 999,9)",
+  "denomination": "2 hryvnias",
+  "date": "29 April 2009",
+  "weight": 1.24,
+  "diameter": 13.92,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "smooth",
+  "mintage": 10000,
+  "categoryId": 5926,
+  "category": "The smallest golden coin",
+  "generalDescription": "The coin is dedicated to the turtle symbolizing longevity and wisdom.",
+  "averseDescription": "On the coin obverse within the circle of beads there is the Small National Emblem of Ukraine, above it - 2009 (the coin issue year), on the left Au 999,9 (coin metal and its fineness) and on the right - the logotype of the National Bank of Ukraine Mint and the coin weight in fineness - 1,24; between the circle and the coin edge there are the semicircular legends: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) above and 2 ГРИВНІ (2 hryvnias) underneath.",
+  "reverseDescription": "On the coin reverse there is depicted a turtle and are the bow-shaped inscriptions: ЧЕРЕПАХА (Turtle) above and TESTUDINES beneath.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=434",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=434"
+}

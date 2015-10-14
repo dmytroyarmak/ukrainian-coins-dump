@@ -1,0 +1,20 @@
+{
+  "id": 117,
+  "name": "Sviatoslav",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "24 October 2002",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 3000,
+  "categoryId": 5930,
+  "category": "Ukraine",
+  "generalDescription": "The coin is dedicated to the Kievan Duke Sviatoslav (964-972), whose rule over the Kyiv an Rus inaugurated a new era in the history of the ancient state. As a result of his continuous fight against Khasares, Volga Bulgars, Byzantium and the mighty Bulgarian Kingdom, he significantly expanded and strengthened the territory of the Kyivan Rus.",
+  "averseDescription": "On the coin obverse set in the old-Rus ornament recreated from the images on the brim of a ritual cup made from an aurochs horn discovered in the Chorna Mohyla (Black Tomb) burial mound (Chernihiv region, the 10th century) there are engraved the small National Emblem of Ukraine and conventionalized inscriptions: 2002 / УКРАЇНА / 10 / ГРИВЕНЬ / (Ukraine/ 10/ hryvnia/2002), аs well as designation of metal, its fineness, and the coin weight in fineness. There is also the logotype of the NBU Mint.",
+  "reverseDescription": "On the coin reverse against the background of pagan idols and a battle scene there are depicted a half-length figure of the warrior Duke holding a sword above his head in his right hand and a shield with the picture of the sun in his left hand, as well as conventionalized inscriptions: 964 СВЯТОСЛАВ 972 (964/ Sviatoslav /972) -above and КНЯЖА / УКРАЇНА (Princes of Ukraine) - below.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=117",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=117"
+}

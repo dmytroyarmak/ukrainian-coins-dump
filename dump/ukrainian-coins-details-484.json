@@ -1,0 +1,20 @@
+{
+  "id": 484,
+  "name": "Weaver",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "28 July 2010",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 45000,
+  "categoryId": 5922,
+  "category": "Folk Crafts of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to the weaving that was one of the most important economic activities of Ukrainian peasantry households and an element of the art and culture of Ukrainians. On the territory of Ukraine from the earliest times processed have been the fibres from flax, hemp and wool.",
+  "averseDescription": "Obverse: above there are the Small Coat of Arms of Ukraine and the conventionalized legend: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) thereunder; in the centre there are depicted in a conventionalized manner two cockerels and (to the left of them) the spinning wheel, and (to the right) - weaving products; below there is the legend: 5/ГРИВЕНЬ/2010 (5 hryvnias) together with the National Bank of Ukraine Mint logo.",
+  "reverseDescription": "Reverse: there is depicted a woman working at the loom. Above, against the background of a conventionalized linen, there is the legend ТКАЛЯ (woman weaver). To the left and right of the central composition there are ornamental flower patterns.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=484",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=484"
+}

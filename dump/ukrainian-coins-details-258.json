@@ -1,0 +1,20 @@
+{
+  "id": 258,
+  "name": "Pure water is source of life",
+  "metal": "bimetal from precious metals (Ag 925 - Au 916)",
+  "denomination": "20 hryvnias",
+  "date": "25 May 2007",
+  "weight": 14.7,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "proof-like",
+  "edge": "sectoral corrugation",
+  "mintage": 3000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The coins are dedicated to water, one of the fundamental sources of life on the Earth. These coins have to attract attention of the society to economical treatment of natural resources, in particular, rivers, lakes and seas.",
+  "averseDescription": "On the coin obverse within the internal ring there are depicted circles dispersing on the water surface from a drop of water, at the upper ring part - the next drop. Along the external ring there are depicted: the small National Emblem of Ukraine (on the left), 2007, the coin mintage year (on the right), the inscriptions: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) (above), the coin face value: on the precious metal coin - 20 ГРИВЕНЬ (20 Hryvnia); on the nonprecious metal coin - 5 ГРИВЕНЬ (5 Hryvnia) (below) and the NBU Mint logotype.",
+  "reverseDescription": "On the coin reverse within the internal ring there is depicted a symbolic composition: a human being and waterfall. Along the external ring there is the inscription: ЧИСТА ВОДА – ДЖЕРЕЛО ЖИТТЯ (Pure water is a source of life)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=258",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=258"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5,
+  "name": "Hero-City of Odesa",
+  "metal": "german silver",
+  "denomination": "200000 karbovanets",
+  "date": "23 August 1995",
+  "weight": 14.35,
+  "diameter": 33,
+  "thickness": 1.85,
+  "quality": "proof-like",
+  "edge": "corrugated",
+  "mintage": 75000,
+  "categoryId": 5940,
+  "category": "Hero-Cities of Ukraine",
+  "generalDescription": "The coin is dedicated to the Ukrainian hero-city of Odesa.",
+  "averseDescription": "On the coin obverse there is the Small State Emblem of Ukraine in the middle of the beads circumference decoration, framed with guelder-rose sprays. There are per five leaves and three bunch of berries on each spray. Upper bunch consists of seven berries, middle - of five, lower - of six berries. Above the State Emblem, there is the year of coin issue -1995. Beneath the small State Emblem, there is a two line inscription: 200000 КАРБОВАНЦІВ, the coin face value (200000 number is split by the beads ornamentation). Around the coin circumference, between the external edge and the beads ornamentation, there is an inscription: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ split with rhombic marks from the word: КАРБОВАНЦІВ.",
+  "reverseDescription": "On the coin reverse in the centre there is a depiction of the monument for an Unknown Seaman erected at Shevchenko Central recreation Park in honour of the perished warriors of Special Prymorsk Army, seamen of the Black Sea Navy, Odesa division of emergency volunteer corps who defended Odesa for 73 days against regular troops of Hitler Germany and its allies in August-October 1941. Left and right from the monument, against a background of sea waves there are depictions of a fragment of seaport with port cranes, a ship near the moorage and Odesa lighthouse, respectively. At the coin upper part there are silhouettes of three flying sea-gulls: one - to the obelisk left side, another - to its right. Around the coin circumference there are inscriptions: МІСТО-ГЕРОЙ ОДЕСА - at the upper part and 1941-1945 - at the lower part.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=5",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=5"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 653,
+  "name": "Andrei Sheptytskyi",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "15 July 2015",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to the 150th anniversary of the birth of Andrei Sheptytskyi (his unreligious name being Roman-Maria-Aleksander), a prominent cleric, political and public figure, philanthropist and the Metropolitan of the Ukrainian Greek Catholic Church, who contributed to the national self-preservation of the Ukrainian people. Sheptytskyi`s self-sacrificing work reaching out for mutual understanding in the Christian world and building peace between the Eastern and Western Churches, his ecumenical ideas were well in advance of his time.",
+  "averseDescription": "Obverse: above there is depicted the Small Coat of Arms of Ukraine with the semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine); in the center - the composition with clerical attributes; below - the face value 2/ГРИВНІ (2/hryvnias) and the issue year - 2015; there is the mark of the Mint of the National Bank of Ukraine (to the right).",
+  "reverseDescription": "On the reverse: there is depicted Andrei Sheptytskyi sitting in an armchair with a book on his laps; there is a miter to the left; to the right there are semicircular inscriptions: МИТРОПОЛИТ АНДРЕЙ ШЕПТИЦЬКИЙ (Metropolitan Andrei Sheptytskyi) (below) and 1865 - 1944 (above).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=653",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=653"
+}

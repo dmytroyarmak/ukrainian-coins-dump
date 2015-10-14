@@ -1,0 +1,20 @@
+{
+  "id": 193,
+  "name": "Mykola Lysenko",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "26 March 2002",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to 160th anniversary of Mykola Lysenko, an outstanding Ukrainian composer, founder of the Ukrainian classic music, pianist, pedagogue, chorus conductor, public figure and ethnographer who was born in Hrynki village of Poltava region. The composer`s creative work is of great importance for the Ukrainian music. He is the author of 9 operas (Natalka Poltavka, Taras Bulba, Oneida, Christmas night, Drowned woman, Naughty nanny-goat etc.) and of numerous works. The pleiad of such Ukrainian composers as Stetsenko, Stepovyi, Leontovich, Ludkevich and Revutskyi was formed due to his direct influence",
+  "averseDescription": "On the coin obverse there depicted a music fragment of the `Prayer for Ukraine` composition (1885), above which there is small National Emblem of Ukraine. At the top there is circular inscription УКРАЇНА (Ukraine), beneath there are conventionalized flowers and inscriptions: 2, ГРИВНІ (2 hryvnia), 2002 and the Mint logotype of the National Bank of Ukraine",
+  "reverseDescription": "On the coin reverse there is a depiction of Mykola Lysenko`s portrait; around the coin circumference there are inscriptions: МИКОЛА ЛИСЕНКО (Mykola Lysenko) (on the right) and 1842 - 1912, his years of life (on the left).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=193",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=193"
+}

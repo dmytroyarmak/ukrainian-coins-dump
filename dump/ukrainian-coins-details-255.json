@@ -1,0 +1,20 @@
+{
+  "id": 255,
+  "name": "Boris Liatoshynsky",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "5 January 2005",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "uncirculated",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to 110th anniversary of Boris Liatoshynsky, a Ukrainian composer and a conductor; who was also a very talented pedagogue and founded his own conductor school. Among his pupils were such composers as L.Hrabovsky, I.Karabyts, V. Silvestrov, Y. Stankovych, I.Shamo and I.Belza, a musicologist. He had composed two operas, five symphonies, chamber music, romances, piano miniatures, etc.",
+  "averseDescription": "On the coin obverse above there is the semicircular inscription УКРАЇНА (Ukraine), under it - the small National Emblem of Ukraine. Against the background of music lines there is a depiction of a treble clef within an ornamental pattern made on motives of folk wall-paintings, above the music lines there is the inscription: 2 ГРИВНІ (2 / hryvnia), the coin face value, beneath - the Mint logotype of the National Bank of Ukraine and 2005, the coin issue year",
+  "reverseDescription": "On the coin reverse there is a depiction of a portrait of Liatoshynsky and semicircular inscriptions: БОРИС ЛЯТОШИНСЬКИЙ (Boris Liatoshynsky) 1895 – 1968.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=255",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=255"
+}

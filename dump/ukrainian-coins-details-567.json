@@ -1,0 +1,20 @@
+{
+  "id": 567,
+  "name": "Volodymyr Vernadsky",
+  "metal": "silver (Ag 925)",
+  "denomination": "5 hryvnias",
+  "date": "25 February 2013",
+  "weight": 15.55,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "smooth with in-depth legends",
+  "mintage": 5000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to Volodymyr Ivanovych Vernadsky, a world-famous scientist in the area of natural history, mineralogist, crystallographer, the founder of geochemistry, biogeochemistry and radiogeology, a thinker, philosopher, the first president of the Ukrainian Academy of Sciences and founder of the first research library in Ukraine.",
+  "averseDescription": "Obverse: above there is the Small Coat of Arms of Ukraine with the semicircular legend НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine); in the centre there is a composition whose constituents mirror the scientist`s view of life: the terrestrial globe, crystal lattice of silicon, human figurine and burst of light symbolizing the new life birth; below there are the coin face value П`ЯТЬ ГРИВЕНЬ (five hryvnias) and issue year indication 2013.",
+  "reverseDescription": "Reverse: in the foreground to the right there is a portrait of Volodymyr Ivanovych Vernadsky; to the left above there is depicted the terrestrial globe with the scholar`s dictum `ЦАРСТВО МОЇХ ІДЕЙ ПОПЕРЕДУ` (The realm of my ideas is yet to come) and his years of life 1863/1945 thereunder; below there is the inscription В. І. ВЕРНАДСЬКИЙ (V.I.Vernadsky).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=567",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=567"
+}

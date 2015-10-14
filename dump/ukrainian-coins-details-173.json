@@ -1,0 +1,20 @@
+{
+  "id": 173,
+  "name": "Celebration of Christmas in Ukraine",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "20 December 2002",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5941,
+  "category": "Ritual Holidays of Ukraine",
+  "generalDescription": "The coin is dedicated to Christmas, one of the significant events in the history of Christianity in whose celebration many folk customs and rituals are preserved",
+  "averseDescription": "On the coin obverse there is depicted the Christmas star, a traditional attribute associated with the evangelic legend about Jesus Christ. In the middle of the star there is the small National Emblem of Ukraine with the issue year (2002) above it. At the both sides of the obverse there is engraved a baroque ornament between which at the bottom of the coin there are inscriptions:",
+  "reverseDescription": "On the coin reverse there is a depiction of a traditional festive scene: a group of people singing Christmas carol with the Christmas star circumscribed by СВЯТО РІЗДВА ХРИСТОВОГО (Celebration of Christmas).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=173",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=173"
+}

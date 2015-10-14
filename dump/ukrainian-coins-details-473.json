@@ -1,0 +1,20 @@
+{
+  "id": 473,
+  "name": "Ivan Kozhedub",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "1 June 2010",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The commemorative coin `Ivan Kozedub` with the face value of 2 hryvnias is dedicated to Ivan Mykytovych Kozhedub, a famous son of Ukrainian people, fighter ace, Hero of the Soviet Union on three occasions, Marshal of Aviation.",
+  "averseDescription": "On the obverse there are: above - the Small Coat of Arms of Ukraine with the semicircular inscription Національний банк України (National Bank of Ukraine), below - the coin face value 2/ГРИВНІ (2/hryvnias) and the National Bank of Ukraine Mint logo, to the left - the coin issue year 2010; in the centre there is depicted searchlighted La-7 aircraft (side number 27), which was piloted by I.M.Kozhedub.",
+  "reverseDescription": "On the reverse there is Ivan Kozhedub`s portrait against the background of a conventionalized airfield with an aircraft thereon; under the aircraft there is the inscription ІВАН/КОЖЕДУБ/1920/1991 (Ivan/Kozhedub).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=473",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=473"
+}

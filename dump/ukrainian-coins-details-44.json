@@ -1,0 +1,20 @@
+{
+  "id": 44,
+  "name": "Solomiya Krushelnytska",
+  "metal": "german silver",
+  "denomination": "2 hryvnias",
+  "date": "12 November 1997",
+  "weight": 14.35,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "proof-like",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to 125th anniversary of Solomiya Krushelnytska, an outstanding Ukrainian singer (1872-1952).",
+  "averseDescription": "On the coin obverse there is the small State Emblem of Ukraine in the middle of the beads circumference decoration, framed with guelder-rose sprays. Above the State Emblem there is the year of issue - 1997. Around the coin circumference there are inscriptions: УКРАЇНА - above and 2 ГРИВНІ - underneath in two lines. The inscriptions are separated from one another with decorative signs.",
+  "reverseDescription": "On the coin reverse there is a depiction of Solomiya Krushelnytska`profile portrait. Around the coin circumference there are inscriptions: СОЛОМІЯ КРУШЕЛЬНИЦЬКА (Solomiya Krushelnytska) - above and 1872-1952, years of birth and death-underneath.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=44",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=44"
+}

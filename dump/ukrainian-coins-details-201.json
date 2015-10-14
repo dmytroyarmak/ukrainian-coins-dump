@@ -1,0 +1,20 @@
+{
+  "id": 201,
+  "name": "Andrii Malyshko",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "31 October 2003",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to the Ukrainian poet and songwriter Andrii Malyshko (02.11.1912 - 17.02.1970). Malyshko`s lyrics set to music by the Ukrainian composer P.Maiboroda (`The Kyivan waltz`, `Song about rushnyk`, `Small path`, etc.) became folk songs.",
+  "averseDescription": "On the coin obverse there is represented a towel whereon there are conventionalized images of a bird (on the left) and flowers (on the right). Above and below the towel there is the semicircular inscription: УКРАЇНА (Ukraine) as well as the small National Emblem of Ukraine. At the bottom of the coin there is the inscription: 2 ГРИВНІ 2003 (2 hryvnia /2003) and the Mint logotype of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse there is a portrait of Andrii Malyshko; against the background of a rural scene consisting of the sun and trees (on the left) and a peasant`s hut and mallow flowers (on the right). Beneath there is the semicircular inscription: 1912-1970, АНДРІЙ МАЛИШКО (Andrii Malyshko)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=201",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=201"
+}

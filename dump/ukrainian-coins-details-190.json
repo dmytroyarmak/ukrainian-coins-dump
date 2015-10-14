@@ -1,0 +1,20 @@
+{
+  "id": 190,
+  "name": "Mykhailo Drahomanov",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "26 September 2001",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to 160th anniversary since the birth of Mykhailo Drahomanov (18.09.1841 - 20.06.1895), an outstanding Ukrainian politician, historian scientist, literary critic and ethnographer, who was born in Hadyach, Poltava region.",
+  "averseDescription": "On the coin obverse at its centre within the frame of a conventionalized vegetable ornamental pattern there is the small National Emblem of Ukraine and a four-line inscription: УКРАЇНА, 2001, 2, ГРИВНІ (Ukraine/ 2001 /2 hryvnia) and the Mint logo of the National Bank of Ukraine",
+  "reverseDescription": "On the coin reverse within the circle there is a depiction of Mykhailo Drahomanov who sits leaning on a table with a book in his hand. Around the coin circumference there is an inscription: МИХАЙЛО ДРАГОМАНОВ 1841 - 1895 (Mykhailo Drahomanov)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=190",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=190"
+}

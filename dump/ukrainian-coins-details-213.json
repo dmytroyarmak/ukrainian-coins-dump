@@ -1,0 +1,20 @@
+{
+  "id": 213,
+  "name": "1100 Years of the city of Poltava",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "15 August 2001",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 50000,
+  "categoryId": 5931,
+  "category": "Ancient cities of Ukraine",
+  "generalDescription": "The coin of 5 Hryvnias denomination is dedicated to the ancient city first mentioned in Ipatiiv chronicle under the name of Ltava. The latest archeological findings testify that the city was founded in the 9th century. Under the present name the city was first mentioned in 1430. In the 17th century it was granted the Magdeburg Right",
+  "averseDescription": "On the coin obverse within the frame of vegetable ornamentation and outline of a heraldic shield there are depicted the small National Emblem of Ukraine, the inscriptions: 2001, УКРАЇНА, 5, ГРИВЕНЬ(2001/ Ukraine/ 5/ hryvnia) and the Mint logotype of the National Bank of Ukraine",
+  "reverseDescription": "On the coin reverse in the coin upper part there is a panoramic picture of famous historic and architectural monuments of the city; in its lower - the city coat of arms within the frame of vegetable ornamentation, as well as inscriptions: ПОЛТАВА (Poltava) (above) and 1100 РОКІВ (1100 Years) (beneath).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=213",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=213"
+}

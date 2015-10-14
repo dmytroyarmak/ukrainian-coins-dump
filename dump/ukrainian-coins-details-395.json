@@ -1,0 +1,20 @@
+{
+  "id": 395,
+  "name": "Leo",
+  "metal": "gold (Au 999,9)",
+  "denomination": "2 hryvnias",
+  "date": "18 July 2008",
+  "weight": 1.24,
+  "diameter": 13.92,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "smooth",
+  "mintage": 10000,
+  "categoryId": 5918,
+  "category": "Signs of the Zodiac",
+  "generalDescription": "These commemorative coins are dedicated to one of 12 Zodiac constellations – Leo.",
+  "averseDescription": "On the obverse there is a circle diagonally divided into sectors symbolizing four elements: earth, air, water, fire; in the center of the circle there is a conventionalized image of the Sun. To the left of the circle there is the Small National Emblem of Ukraine, to the right – the year of issue: 2008 as well as the indication of the metal, its fineness – Au 999.9, weight of the precious metal in fineness – 1.24; there are the circumferential legends: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) above, 2 ГРИВНІ (2 hryvnias) below and the logotype of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the reverse a conventionalized image of a lion with stars around it is depicted, and its Sign of Zodiac symbol above it.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=395",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=395"
+}

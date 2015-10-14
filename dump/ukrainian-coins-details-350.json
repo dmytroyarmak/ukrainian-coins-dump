@@ -1,0 +1,20 @@
+{
+  "id": 350,
+  "name": "Oleh Olzhych",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "26 June 2007",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The jubilee coin is dedicated to the 100th anniversary of birth of Oleh Olzhych (Oleh Oleksandrovych Kandyba) – a poet, public figure and archeologist. During the World War II he headed a patriotic anti-fascist underground resistance group and was one of the organizers of the Ukrainian National Council in Kyiv (1941). In 1944, arrested by Gestapo men, he perished in a fascist concentration camp.",
+  "averseDescription": "On the coin obverse against the glass background there are: above - the Small National Emblem of Ukraine, thereunder – the inscription НАЦІОНАЛЬНИЙ / БАНК / УКРАЇНИ (National Bank of Ukraine), below to the right – 2 / ГРИВНІ (2 hryvnias), the coin face value, beneath - the year of coinage: 2007, to the left there is a depiction of a chestnut leaf fallen on the block pavement and the logotype of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the coin reverse Oleh Olzhych is portrayed, and the following inscriptions are placed: 1907 / 1944 (to the left) and ОЛЕГ ОЛЬЖИЧ (Oleh Olzhych).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=350",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=350"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 79,
+  "name": "55 years of Victory in the Second World War",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "20 November 2000",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 3000,
+  "categoryId": 6053,
+  "category": "Перемога у Великій Вітчизняній війні 1941-1945 рр.",
+  "generalDescription": "The coin is dedicated to the 55th anniversary of the Victory in the Second World War of 1941-1945.",
+  "averseDescription": "On the obverse of coins of both types there are depicted the small National Emblem of Ukraine set in the wreath of soldier glory with Georgian ribbon and the inscriptions: УКРАЇНА, 2, ГРИВНІ, 2000 (Ukraine/ 2/ hryvnia/ 2000).",
+  "reverseDescription": "On the reverse of coins of both types there is a symbolic depiction of Victory - a female figure with a olive branch against the background of the terrestrial globe framed with laurel branches and the circular inscriptions,: 55 РОКІВ ПЕРЕМОГИ У ВЕЛИКІЙ ВІТЧИЗНЯНІЙ ВІЙНІ (55 years of Victory in the Second World War) and 1941-1945, separated by solar marks.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=79",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=79"
+}

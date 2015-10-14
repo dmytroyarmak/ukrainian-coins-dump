@@ -1,0 +1,20 @@
+{
+  "id": 122,
+  "name": "Boxing",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "28 February 2003",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 15000,
+  "categoryId": 5936,
+  "category": "Sport",
+  "generalDescription": "The coin is dedicated to the 28th Summer Olympic Games held in Athens (Greece) in 2004",
+  "averseDescription": "On the coin obverse in the square there is depicted an allegoric scene of the opening of the Olympic Games: two female figures dressed in tunics are holding a cup with flame and laurel branches, the symbol of peace. Above the square there is engraved the small National Emblem of Ukraine and inscriptions: on the silver coin: УКРАЇНА (Ukraine) (above), 10 ГРИВЕНЬ (10/ Hryvnia) (beneath), 2003 (on the left), as well as the designation of the metal, its fineness and its weight in fineness.",
+  "reverseDescription": "On the coin reverse in the square there is represented a helmet boxer. Around the square there are the following inscriptions: ІГРИ/ XXVIII ОЛІМПІАДИ (Olympic Games) (above), OLYMPIC GAMES/ XXVIII (beneath), АФІНИ 2004 (to the left), ATHENS 2004 (on the right).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=122",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=122"
+}

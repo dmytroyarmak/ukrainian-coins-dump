@@ -1,0 +1,20 @@
+{
+  "id": 285,
+  "name": "Tsymbaly",
+  "metal": "bimetal from nonprecious metals",
+  "denomination": "5 hryvnias",
+  "date": "22 December 2006",
+  "weight": 9.4,
+  "diameter": 28,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "sectoral corrugation",
+  "mintage": 100000,
+  "categoryId": 5927,
+  "category": "Folk Musical Instruments",
+  "generalDescription": "The commemorative coin is dedicated to a stringed striking instrument, well known in Ukraine – tsymbaly (hammered dulcimer variety) consisting of a trapezoidal wooden frame with metal strings, which is played with two beaters (sticks or hammers) against the strings. The tsymbaly (pl.) have a reach musical palette and are used by folk instrumental ensembles (e.g. troisti muzyky – a sort of a consort of three instruments; troisti = triple).",
+  "averseDescription": "On the obverse a fan-shaped relief on the coin represents symbolically a tsymbaly melody. There are a baroque decorative pattern and inscriptions in simulated Cossack script, above – НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (The National Bank of Ukraine), below – 2006 / 5 / ГРИВЕНЬ (hryvnias) and the logotype of the NBU Mint.",
+  "reverseDescription": "On the reverse there is a picture of tsymbaly circled by a baroque decorative pattern and inscriptions in simulated Cossack script—ЦИМБАЛИ (tsymbaly).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=285",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=285"
+}

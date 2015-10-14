@@ -1,0 +1,20 @@
+{
+  "id": 49,
+  "name": "The 80th Anniversary of the Battle of Kruty",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "30 January 1998",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "uncirculated",
+  "edge": "corrugated",
+  "mintage": 50000,
+  "categoryId": 5933,
+  "category": "Rebirth of Ukrainian Statehood",
+  "generalDescription": "The coin is dedicated to the 80th anniversary of the Battle of Kruty (29 January 1918), the event that came into the history of Ukraine as a heroic deed of three hundred Kyivan students, who defended the Independence of Ukrainian People`s Republic against the Bilshovyk troops.",
+  "averseDescription": "On the coin obverse there is the small National Emblem of Ukraine against the background of a multifigured composition, personifying the idea of the shot revival of the statehood: a column of the armed young people is moving through the target center, designated with three concentric circles. At the right and at the left of the picture there is an inscription: 1918-1998. Around the coin circumference there is an inscription: УКРАЇНА (Ukraine)(above) and 2 ГРИВНІ (2 hryvnias)- underneath in two lines.",
+  "reverseDescription": "On the coin reverse there is a two-part composition, which reflects the historic moment of two forces withstanding : static figures of young heroes as personification of defense of the Independence of the Ukrainian the - at the left and a stretched arm which directs attacking mounted troops as an allegory of the Bilshovyk intervention - on the right. Around the picture there are inscriptions: 80-РІЧЧЯ БОЮ ПІД КРУТАМИ (the 80th anniversary of the Battle of Kruty) and 29.01.1918, split with a solar mark",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=49",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=49"
+}

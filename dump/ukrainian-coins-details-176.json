@@ -1,0 +1,20 @@
+{
+  "id": 176,
+  "name": "Easter Holiday",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "22 April 2003",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 50000,
+  "categoryId": 5941,
+  "category": "Ritual Holidays of Ukraine",
+  "generalDescription": "The coin is dedicated to Easter, the greatest Christian holiday. The holiday is associated with the all-night service, solemn religious processions, ringing of church bells and singing songs, glorifying Jesus Christ, whose resurrection has become a triumph of eternal life over death.",
+  "averseDescription": "On the coin obverse there is a composition made of seven Easter eggs decorated with ornaments peculiar to various regions of Ukraine. In the middle of the composition there is the small National Emblem of Ukraine, above there is the coin issue year - 2003. Set in the conventionalized image of willow twigs there are the following inscriptions:",
+  "reverseDescription": "On the coin reverse there is pictured a ceremonial procession of believers headed by a priest carrying the shroud of Christ, crosses, gonfalons and candles, as well as the ritual of consecration, above which there is the inscription: ВЕЛИКДЕНЬ (Easter).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=176",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=176"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 424,
+  "name": "Igor Sikorsky",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "29 May 2009",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The commemorative coin with the face value of 2 hryvnias is dedicated to Igor Ivanovich Sikorsky, a pioneer of aviation, designer of aircrafts and helicopters, an industrialist. When studying at the Kiev Polytechnic Institute (1907-1914) he set to work on development of the first helicopters to be. From 1910 Igor Sikorsky constructed aircrafts. The first multi-engine aircrafts in the world - `Le Grand`, `Ilya Muromets`, `Russky Vityaz` - were of his design. Being a native of Ukraine, Igor Sikorsky became well-known all over the world as one of the most famous aircraft designers.",
+  "averseDescription": "On the obverse there are: the image of Ilya Muromets aircraft, as for its development in 1913 Sikorsky became well known all over the world; above, against the relief background, the semicircular inscription Національний банк України (National Bank of Ukraine) and the Small Coat of Arms of Ukraine thereunder, below - the coin issue year 2009, face value 2 ГРИВНІ (2 hryvnias) and the logotype of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the reverse there is a portrait of Sikorsky dressed in the airman uniform; to the right, against the background of Leonardo da Vinci`s drawing, there is the bow-shaped inscription: ІГОР СІКОРСЬКИЙ (Ihor Sikorskyi) together with indication of the years of his life: 1889-1972.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=424",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=424"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 561,
+  "name": "The Year of the Snake",
+  "metal": "silver (Ag 925)",
+  "denomination": "5 hryvnias",
+  "date": "10 December 2012",
+  "weight": 15.55,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 25000,
+  "categoryId": 5921,
+  "category": "Oriental calendar",
+  "generalDescription": "The commemorative coin is dedicated to the year of the snake according to a calendar of Chinese origin, which is based on the twelve-year orbit of Jupiter, the largest solar planet.",
+  "averseDescription": "Obverse: above, there is an image of the Small Coat of Arms of Ukraine; in the middle, there is a stylized ornament and the following legends: НАЦІОНАЛЬНИЙ БАНК/ УКРАЇНИ/ 5/ ГРИВЕНЬ (National Bank/ of Ukraine/ 5/ hryvnias); below, against a smooth background, there is the coin issue year - 2013, metal fineness - Ag 925, coin weight - 15.55 (to the left), and the logo of the Mint of the National Bank of Ukraine (to the right).",
+  "reverseDescription": "Reverse: there is an image of the snake done in a lubok style and surrounded by a stylized floral ornament (the snake has a green eye). Above and below the composition, there are silhouettes of all 12 animals that represent the Chinese (oriental) calendar.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=561",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=561"
+}

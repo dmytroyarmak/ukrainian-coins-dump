@@ -1,0 +1,20 @@
+{
+  "id": 206,
+  "name": "Mykhailo Maksymovych",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "17 August 2004",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to the second birth centenary of Mykhailo Maksymovych, a naturalist scientist, historian, archeologist, linguist, pedagogue and writer",
+  "averseDescription": "On the coin obverse there is depicted a structure of the university (from the side of the Botanical garden) as well as the inscriptions: above there is a semicircular inscription: УКРАЇНА (Ukraine), under which - the small National Emblem of Ukraine and the coin issue year: 2004. Below there is the coin denomination: 2/ГРИВНІ (2 hryvnia) and the Mint logotype of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse there is a profile portrait of Maksymovych and the following inscriptions: МИХАЙЛО (Mykhailo) (on the left) -on both sides and in a half circle; МАКСИМОВИЧ (Maksymovych) (on the right) and beneath - 1804 - 1873, his years of life.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=206",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=206"
+}

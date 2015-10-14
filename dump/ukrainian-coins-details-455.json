@@ -1,0 +1,20 @@
+{
+  "id": 455,
+  "name": "International Year of Astronomy",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "14 October 2009",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 10000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The commemorative coin is dedicated to the International Year of Astronomy, i.e. 2009, proclaimed by United Nations. Four hundred years ago Galileo Galilei for the first time made use of the telescope to observe objects of the Universe. Yurii Drohobych (Kotermak, circa 1450 - 1494) was a well-known scientist - an astronomer, humanistic thinker, person of encyclopaedic knowledge, whom Ukraine is proud of. He was born and grew up in the city of Drohobych. In 1481-1482 he was the rector of University of Bologna. His work IUDICIUM PRONOSTICON ANNI 1483 CURRENTIS (Prognostic Estimation of the Year 1483) was the first printed book of a Ukrainian author.",
+  "averseDescription": "On the obverse there are depicted: the Small Coat of Arms of Ukraine and the semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) (above); a composition symbolizing the Cosmos: to the left there is the image of Urania, the patroness of astronomy, one of the nine Muses in the Greek mythology, and the cosmic space together with a fragment of a scheme showing the motion of solar system planets; below there are the coin issue year 2009, logotype of the National Bank of Ukraine Mint and the coin face value 5 ГРИВЕНЬ (5 hryvnias) on the conventionalized scroll.",
+  "reverseDescription": "On the reverse there are: Yurii Drohobych`s portrait (to the right) with his life years ca 1450 - 1494 thereunder, the International Year of Astronomy logo (to the left) with the legend МІЖНАРОДНИЙ/РІК/АСТРОНОМІЇ (International/year/of astronomy) thereunder; below there are depicted artifacts of cosmic space researchers.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=455",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=455"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 497,
+  "name": "Potter",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "6 December 2010",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "smooth with in-depth legends",
+  "mintage": 10000,
+  "categoryId": 5922,
+  "category": "Folk Crafts of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to the pottery that was one of the most important types of economic activities and artistic culture of Ukrainians; the pottery during many centuries was before others among the peasantry crafts and absorbed the technical skills and artistic traditions existing since the Neolithic Age.",
+  "averseDescription": "Obverse: above there are the Small Coat of Arms of Ukraine and the conventionalized legend: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) thereunder; in the centre there are depicted in a conventionalized manner two little birds and (to the left and right of them) different potteries; below there are the legends: 10/ГРИВЕНЬ/2010 (10 hryvnias) together with the National Bank of Ukraine Mint logo.",
+  "reverseDescription": "Reverse: there is depicted a potter at work against the background of conventionalized potteries. Above, there is the legend ГОНЧАР (potter). To the left and right of the central composition there are ornamental flower patterns.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=497",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=497"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 487,
+  "name": "Ukrainian Medical Association",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "24 September 2010",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The commemorative coin is dedicated to the centenary of the first nonprofit professional organization of health care providers founded in Lviv, i.e. the Ukrainian Medical Association. After resumption of its activities in 1990 under the name of All-Ukrainian Medical Association it is a united national professional organization incorporating all medical practitioners of Ukraine. The All-Ukrainian Medical Association has become a member of main European and world organizations of health care professionals.",
+  "averseDescription": "On the obverse there are: above - the Small Coat of Arms of Ukraine with the semicircular inscription Національний банк України (National Bank of Ukraine) and the coin issue year 2010 thereunder; in the centre there is depicted the logo of the All-Ukrainian Medical Association within the conventionalized plant ornament; below there are the coin face value 2/ГРИВНІ (2/hryvnias) and the National Bank of Ukraine Mint logo (to the right).",
+  "reverseDescription": "On the reverse there is depicted the emblem of the Ukrainian Medical Association in Lviv (where the first professional organization of medical practitioners was founded) with the semicircular legends: УКРАЇНСЬКЕ ЛІКАРСЬКЕ ТОВАРИСТВО (Ukrainain Medical Association) above and 100 РОКІВ (100 years) below.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=487",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=487"
+}

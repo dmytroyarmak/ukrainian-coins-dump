@@ -1,0 +1,20 @@
+{
+  "id": 291,
+  "name": "Lyre",
+  "metal": "bimetal from nonprecious metals",
+  "denomination": "5 hryvnias",
+  "date": "21 December 2004",
+  "weight": 9.4,
+  "diameter": 28,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "sectoral corrugation",
+  "mintage": 30000,
+  "categoryId": 5927,
+  "category": "Folk Musical Instruments",
+  "generalDescription": "The coin is dedicated to an ancient musical instrument which has been popular in Ukraine since 15th-16th centuries. Lyre is a string-keyboard and bow folk musical instrument.",
+  "averseDescription": "On the coin obverse its horizontal surface symbolically represents lyre strings tuning a melody like a conventionalized baroque ornamental pattern. Above there is depicted the small National Emblem of Ukraine and `Ukraine` inscription made to look like the Cossack script; beneath - 5 ГРИВЕНЬ (5/ hryvnia), 2004 (right) and the NBU Mint logotype.",
+  "reverseDescription": "On the coin reverse a lyre is depicted, around its circumference there is a baroque ornament and ЛІРА (Lyre) inscription made to look like the Cossack script.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=291",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=291"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 152,
+  "name": "The Kyiv-Pechersk Assumption Cathedral",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "24 December 1998",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 200000,
+  "categoryId": 5928,
+  "category": "Spiritual Treasures of Ukraine",
+  "generalDescription": "The commemorative coins are dedicated to restoration of the Assumption Cathedral of the Kyiv-Pechersk Lavra monastery, the outstanding historical and cultural monument of Ukraine of the 11th-18th centuries",
+  "averseDescription": "On the coin obverse within a frame of a baroque ornament decorated with seraphim`s heads there is depicted the Small National Emblem of Ukraine and a four line legend: УКРАЇНА (Ukraine), 5 ГРИВЕНЬ (5 Hryvnia), 1998 (on the German silver coin).",
+  "reverseDescription": "On the coin reverse there are depictions of the Assumption Cathedral, destroyed in 1941, and its ruins as well as the inscription: УСПЕНСКИЙ СОБОР КИЄВО-ПЕРЕРСЬКОЇ ЛАВРИ Х1 СТ. (the Kyiv-Pechersk Assumption Cathedral of the 11th century)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=152",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=152"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 151,
+  "name": "St.Michael Golden-Domed Cathedral",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "28 December 1998",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 200000,
+  "categoryId": 5928,
+  "category": "Spiritual Treasures of Ukraine",
+  "generalDescription": "The coin is dedicated to the restoration of St.Michael`s Golden-Domed Cathedral, historical and architectural monument of Rus-Ukraine of the 12th-18th centuries.",
+  "averseDescription": "On the coin obverse within a frame made of a vegetal ornament of the Eucharist mosaic from the cathedral, there is a depiction of the Small National Emblem of Ukraine and a four line legend:",
+  "reverseDescription": "On the coin reverse against a background of the picture of St.Michael`s Golden-Domed Cathedral, there are the silhouettes of the twelve apostles from the symbolic communion scene of the Eucharist mosaic. On the coin there is a legend: МИХАЙЛІВСЬКИЙ ЗОЛОТОВЕРХИЙ СОБОР XII СТ. (St.Michael`s Golden-Domed Cathedral, 12th century)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=151",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=151"
+}

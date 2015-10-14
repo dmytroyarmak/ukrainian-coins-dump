@@ -1,0 +1,20 @@
+{
+  "id": 294,
+  "name": "Oleh Antonov",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "3 February 2006",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 45000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to the centenary of birth of Oleh K. Antonov (1906 - 1984), an aircraft designer, under whose guidance various transport, training, sporting airplanes and gliders were built. Oleh Antonov always wished his airplanes, including such giants as `Antei` and `Ruslan`, to be versatile and good-looking, able to convey many cargos and passengers over a long distance. At present the specialist of the Aviation Scientific and Technical Complex named after O.K.Antonov continue the work of the talented aircraft designer.",
+  "averseDescription": "On the coin obverse there are airplanes (AN-2 and AN-124 `Ruslan`) depicted in the centre of the composition, under which the denomination of the coin 2 ГРИВНІ (2 / hryvnias) is placed; above there is a semicircular inscription: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) with the small State Emblem of Ukraine and the year of issue -2006, as well as the logotype of the National Bank of Ukraine Mint thereunder",
+  "reverseDescription": "On the coin reverse against the background of a conventionalized engineering drawing there is a portrait of Antonov, to the right of the portrait - the logotype `АN`(AN); there are also semi-circular inscriptions: ОЛЕГ АНТОНОВ (Oleh Antonov) - to the right and 1906 - 1984, the years of his birth and death - left below.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=294",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=294"
+}

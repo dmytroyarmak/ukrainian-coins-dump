@@ -1,0 +1,20 @@
+{
+  "id": 366,
+  "name": "Buhai",
+  "metal": "bimetal from nonprecious metals",
+  "denomination": "5 hryvnias",
+  "date": "7 November 2007",
+  "weight": 9.4,
+  "diameter": 28,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "sectoral corrugation",
+  "mintage": 50000,
+  "categoryId": 5927,
+  "category": "Folk Musical Instruments",
+  "generalDescription": "The coin is dedicated to a Ukrainian folk musical instrument made in a form of conical barrel (wooden cylinder). At one end a sheep membrane is stretched with a hole in this skin`s center. Through this hole a tuft of horse hair with a knot at one end is passed. Pulling of the horsehair makes a sound similar to the bull roar or bittern boom. This bass instrument is used by folk instrument groups to create funny effects.",
+  "averseDescription": "Obverse is a relief surface imitating sound waves presented in a form of conventionalized floral baroque patterns. The following conventionalized inscriptions can be seen: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) (above), under which to the left - the Small National Emblem of Ukraine, 2007/ 5 ГРИВЕНЬ (2007/ 5 Hryvnia) (below) and the logotype of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the coin reverse there is On the reverse there is a depiction of the musical instrument, around the coin circumference - a baroque pattern and the conventionalized inscription: БУГАЙ (Buhai).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=366",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=366"
+}

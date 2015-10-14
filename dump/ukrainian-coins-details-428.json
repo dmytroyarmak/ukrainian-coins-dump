@@ -1,0 +1,20 @@
+{
+  "id": 428,
+  "name": "Ivan Kotliarevskyi",
+  "metal": "silver (Ag 925)",
+  "denomination": "5 hryvnias",
+  "date": "22 September 2009",
+  "weight": 15.55,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "smooth with in-depth legends",
+  "mintage": 5000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to Ivan Petrovych Kotliarevskyi (1769-1838), an outstanding Ukrainian writer, public figure, the first classicist of modern Ukrainian literature, author of the famous works - the poem `Eneida` (Aeneid), the play `Natalka Poltavka` (Natalka from Poltava) and the vaudeville `Moskal-Charivnyk` (The Muscovite-Sorcerer).",
+  "averseDescription": "On the obverse above there is the Small Coat of Arms of Ukraine with the semicircular legend НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine); below there is the coin face value 5 ГРИВЕНЬ (5 hryvnias), and in the centre - the conventionalized composition representing Aeneas, a boat, a fragment of a column from Troy and an helmet with the coin issue year indication 2009 thereunder.",
+  "reverseDescription": "On the reverse there is a portrait of Ivan Kotliarevskyi; to the left and right thereof there are lines from T.Shevchenko`s poem `To Kotliarevskyi`s Imperishable Memory` ...Поки сонце з неба сяє, Тебе не забудуть! (While the sun in the sky shines, You will not be forgotten!) and semicircular inscriptions ІВАН КОТЛЯРЕВСЬКИЙ (Ivan Kotliarevskyi) above and 1769-1838 (years of his life) below.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=428",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=428"
+}

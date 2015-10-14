@@ -1,0 +1,20 @@
+{
+  "id": 31,
+  "name": "The Tithe Church",
+  "metal": "german silver",
+  "denomination": "2 hryvnias",
+  "date": "26 November 1996",
+  "weight": 14.35,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "proof-like",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5928,
+  "category": "Spiritual Treasures of Ukraine",
+  "generalDescription": "Jubilee coin of 2 denominations is dedicated to 1000th anniversary of the Tithe Church foundation in Kiyv, the first stone temple in Kiyv Rus",
+  "averseDescription": "On the coin obverse in the middle of the beads circumference decoration, framed with conventionalized vegetal ornament, there is a depiction of the God Mother Odyhitriya with a baby -a bas-relief fragment over the church portal, preserved until now. Above the God Mother depiction there is the State Emblem of Ukraine. Around the coin circumference there is an inscription УКРАЇНА, underneath there are inscriptions: 1996, the year of coin issue and in two lines: 2 ГРИВНІ, the coin face value. The whole composition is framed with the beads circumference decoration",
+  "reverseDescription": "On the coin reverse in the centre there are the contours of the Tithe Church reconstructed after professor J.S.Aseyev to underline, that the structure does not exist in reality. These contours are presented with mirror lines on a mat background; they give an impression of emerging from the really existed foundation. On the upper coin mat surface around the coin circumference there are inscriptions: КИЇВ, ДЕСЯТИННА ЦЕРКВА, 996 , separated from one another with a conventionalized birds depiction. Underneath on the glass background there is a ribbon with an inscription: ДУХОВНІ СКАРБИ УКРАЇНИ",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=31",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=31"
+}

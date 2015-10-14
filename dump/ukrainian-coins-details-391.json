@@ -1,0 +1,20 @@
+{
+  "id": 391,
+  "name": "Virgo",
+  "metal": "silver (Ag 925)",
+  "denomination": "5 hryvnias",
+  "date": "20 August 2008",
+  "weight": 15.55,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 15000,
+  "categoryId": 5918,
+  "category": "Signs of the Zodiac",
+  "generalDescription": "Commemorative coins are dedicated to one of 12 Zodiac constellations – Virgo.",
+  "averseDescription": "On the obverse in the center of the circle there is a conventionalized image of the Sun, on the left, on the right, above and underneath whereof – four lighted by it spheres symbolizing the seasons. To the left of the circle there is the Small National Emblem of Ukraine, to the right – the coin issue year: 2008, as well as the indication of the metal, its fineness – Ag 925, and the coin weight in fineness – 15.55; there are circumferential legends: Національний Банк України (National Bank of Ukraine) above and 5 Гривень (5 hryvnias) below, as well as the logotype of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the reverse a conventionalized image of a virgin with stars around it depicted, to the left whereof there is the contour of the constellation, above to the left – the Sign of Zodiac symbol is placed, on the right there is the stylized inscription: Сузір я Діви (Virgo Constellation).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=391",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=391"
+}

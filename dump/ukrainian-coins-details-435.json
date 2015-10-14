@@ -1,0 +1,20 @@
+{
+  "id": 435,
+  "name": "Ukrainian Pysanka",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "16 April 2009",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 50000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The coin is dedicated to pysanka-making art (Easter egg decoration) being a striking example of creative work in Ukrainian traditional art and having peculiar ornamentation patterns and scales of colours in each ethnographic region of Ukraine.",
+  "averseDescription": "On the obverse of the 5 hryvnia coin: above against the dark background there are the Small National Emblem of Ukraine (on the left) and a fragment of a pysanka, below against the light background there are the coin face value 5 ГРИВЕНЬ (5 hryvnias) and issue year 2009 together with a fragment of a pysanka, the dark and light parts are separated by the conventionalized legend НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine).",
+  "reverseDescription": "On the reverse of the German silver coin: below there is depicted an Easter still life - on the rushnyk (embroidered towel characteristic of Ukraine) there is a paska (Easter bread) with a candle thereon encircled with eggs; over them there is the conventionalized legend УКРАЇНСЬКА ПИСАНКА (Ukrainian pysanka); above there is a pysanka between the pysanka ornamentation patterns peculiar to Lemkivshchyna (Lemkos inhabited area), Bukovina, Hutsulshchyna (Hutsuls inhabited districts), etc.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=435",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=435"
+}

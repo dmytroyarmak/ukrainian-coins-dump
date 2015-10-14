@@ -1,0 +1,20 @@
+{
+  "id": 311,
+  "name": "Ivan Franko",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "23 August 2006",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 45000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "These jubilee coins are dedicated to the 150th anniversary of birth of Ivan Yakovych Franko (1856-1916) – a prominent Ukrainian writer, publicist, public and political figure, D. Sc. in Philosophy. His talent was not limited to the national framework, he wrote in the Ukrainian, Polish and German languages. Poetry, prose, drama, scientific works, journalism - Ivan Franko rose to the highest pitch of greatness in everything. His contribution to the development of the Ukrainian journalism, literature and theater studies, folkloristics and ethnography is invaluable.",
+  "averseDescription": "On the obverse of both coins there is the Small National Emblem of Ukraine placed on the left above, in the center – a “kameniar” (stone-breaker) shattering a rock, thereunder – the year of the coin issue – 2006. The semicircular inscriptions say: on the silver coin – НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) above and П’ЯТЬ ГРИВЕНЬ (five hryvnias) below, the indication of metal and its fineness – Ag 925, weight in fineness – 15.55 g; on the German silver coin – НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) above, ДВІ ГРИВНІ (two hryvnias) below. The logo of the National Bank of Ukraine Mint is placed on both coins.",
+  "reverseDescription": "On the reverse of both coins there is a portrait of Ivan Franko, to the left and to the right of the portrait there are lumps of the shattered rock and inscriptions: ІВАН ФРАНКО (Ivan Franko) on the left and years of his life – 1856 / 1916 (on the right).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=311",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=311"
+}

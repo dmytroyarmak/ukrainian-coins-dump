@@ -1,0 +1,20 @@
+{
+  "id": 214,
+  "name": "400 Years of the town of Krolevets",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "6 September 2001",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5931,
+  "category": "Ancient cities of Ukraine",
+  "generalDescription": "Jubilee coin of 5 Hryvnias denomination is dedicated to the town of Krolevets, the district centre of Sumy region, which was founded in 160. In 1644 the town obtained the Magdeburg Right. It is one of the trade centres broadly known through its decorative textiles and embroidered towels.",
+  "averseDescription": "On the coin obverse there is a depiction of a colonnade arch (the central entrance to the city recreation park), under it - a fragment of an ornamental pattern, which is used in Krolevetz embroidered towels; above there is the small State Emblem of Ukraine and the four line inscription: УКРАЇНА/ 2001/ 5/ ГРИВЕНЬ and the Mint logotype of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse there is depicted the town coat of arms within a frame of geometrical and vegetable ornament characteristic for Krolevets , as well as the inscriptions: above - 400 РОКІВ (400 Years) and beneath the conventionalized inscription of КРОЛЕВЕЦЬ (Krolevets)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=214",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=214"
+}

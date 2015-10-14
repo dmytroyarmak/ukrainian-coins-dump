@@ -1,0 +1,20 @@
+{
+  "id": 180,
+  "name": "2006 Football World Cup",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "27 February 2004",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 50000,
+  "categoryId": 5936,
+  "category": "Sport",
+  "generalDescription": "The coin is dedicated to the 2006 FIFA Football World Cup which is to take place in Germany",
+  "averseDescription": "On the coin obverse there is engraved a ball in the goal; above there are the small State National Emblem of Ukraine and the inscription: УКРАЇНА (Ukraine); on the right of the goal there are the inscriptions: on the German silver coin: УКРАЇНА / 2 / ГРИВНІ / 2004 (Ukraine/ 2 Hryvnia/2004). Besides, there is the Mint logotype of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse against the background of the goal, there are depicted a football player and a goal-keeper with a ball playing the game; beneath there are inscriptions: ЧЕМПІОНАТ СВІТУ З ФУТБОЛУ, НІМЕЧЧИНА, 2006. (FIFA World Cup/ Germany/ 2006)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=180",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=180"
+}

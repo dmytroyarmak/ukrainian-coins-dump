@@ -1,0 +1,20 @@
+{
+  "id": 388,
+  "name": "Swallow`s Nest",
+  "metal": "gold (Au 900)",
+  "denomination": "50 hryvnias",
+  "date": "28 May 2008",
+  "weight": 15.55,
+  "diameter": 25,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "smooth",
+  "mintage": 4000,
+  "categoryId": 5925,
+  "category": "Architectural monuments of Ukraine",
+  "generalDescription": "The coin is dedicated to Swallow`s Nest, one of the pearls of the Southern Crimea built in 1912 by the architectural engineer Sherwood.",
+  "averseDescription": "On the obverse of the coin there is a depiction of a sea wave and sea gull, above there is the small National Emblem of Ukraine and the semicircular inscription: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National bank of Ukraine) and the following inscriptions: on the coin made of gold: 50/ ГРИВЕНЬ/ 2008 (50/ Hryvnia/ 2008), as well as designation of the metal Au 900 and its weight in fineness -15,55; on the silver coin - - 10 ГРИВЕНЬ/ 2008 (10 Hryvnia/2008), designation of the metal Ag 925 and 31,1, its weight in fineness; on both coins there is the NBU Mint logotype.",
+  "reverseDescription": "On the reverse of both coins against the background of a mountain and sea there is depicted the architectural monument - Swallow`s Nest resting on the rock and there is placed an inscription: ЛАСТІВЧИНЕ ГНІЗДО ( Swallow`s Nest) (on the left).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=388",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=388"
+}

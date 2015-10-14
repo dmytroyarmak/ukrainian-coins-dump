@@ -1,0 +1,20 @@
+{
+  "id": 80,
+  "name": "Ivan Mazepa",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "20 February 2001",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 3000,
+  "categoryId": 5937,
+  "category": "Heroes of Cossack Age",
+  "generalDescription": "Commemorative coin is dedicated to Ivan Mazepa (1687-1709), the Hetman of the Left-Bank Ukraine, a well-known public and political figure, patron of education and art, the person of hard and dramatic fate, who tried to conduct prudent but consistent policy, geared to winning of independence of Ukraine",
+  "averseDescription": "On the coin obverse there is the composition similar to the whole Series of coins which embodies the National idea of the Unified Ukraine: next to the small National Emblem of Ukraine, the emblematic figures of Michael the Archistrategos and crowned lion are located, which are symbols of Kyiv and L`viv Cities. Circular inscriptions are split by baroque ornamentation: УКРАЇНА, 10 ГРИВЕНЬ, 2001, (Ukraine/ 10 Hryvnia/ 2001), the designation of precious metal - Ag 925 and its weight in fineness - 31,",
+  "reverseDescription": "On the coin reverse in the circle made of a string of beads there are depicted a portrait of the Hetman with a bulava (Hetman`s baton); his family Coat of arms on the right and a cathedral on the left. There are circular conventionalized inscriptions: ІВАН МАЗЕПА (Ivan Mazepa) (and 1644-1709",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=80",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=80"
+}

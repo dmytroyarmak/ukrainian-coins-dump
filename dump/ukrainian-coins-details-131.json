@@ -1,0 +1,20 @@
+{
+  "id": 131,
+  "name": "Pochaiv Laura",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "25 November 2003",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 3000,
+  "categoryId": 5925,
+  "category": "Architectural monuments of Ukraine",
+  "generalDescription": "The coin is dedicated to a Ukrainian Orthodox monastery, the Pochaiv Assumption Lavra, the famous architectural and historical monument first mentioned in the 16th century. Now its architectural complex contains 16 churches. Pochaiv Laura plays a significant role in the Orthodox spiritual tradition.",
+  "averseDescription": "On the coin obverse there is the Star of Bethlehem, under which there is the inscription: УКРАЇНА (Ukraine), the small National Emblem of Ukraine and the inscriptions: 2003, 10 ГРИВЕНЬ (2003/ 10/hryvnia). Below there is a footprint of the Blessed Virgin against the conventionalized peak of the Pochaiv hill. There are seraphim on each side of the obverse and below there is the designation of the metal, its fineness and its weight in fineness. There is also placed the logotype of the NBU Mint.",
+  "reverseDescription": "an image of the Blessed Virgin and the circular inscription: СВЯТО-УСПЕНСЬКА ПОЧАЇВСЬКА ЛАВРА (Pochaiv Saint Assumption Laura)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=131",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=131"
+}

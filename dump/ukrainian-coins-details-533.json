@@ -1,0 +1,20 @@
+{
+  "id": 533,
+  "name": "The Sterlet",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "27 November 2012",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 7000,
+  "categoryId": 5935,
+  "category": "Flora and Fauna",
+  "generalDescription": "The commemorative coin is dedicated to the sterlet, an endangered species of sturgeon. This bottom-dwelling fish is usually found in deep river basins with clean flowing water, and tends to live alone or in small groups. The sterlet is in Ukraine`s Red List of Threatened Species.",
+  "averseDescription": "Obverse: within the wreath formed from the images of different species of the flora and fauna there are the Small Coat of Arms of Ukraine and the legends: НАЦІОНАЛЬНИЙ/ БАНК /УКРАЇНИ/ 10/ ГРИВЕНЬ/ 2012 (National / Bank / of Ukraine / 10 / hryvnias / 2012) together with the indications of the metal and its fineness Ag 925 and the coin weight in fineness 31,1); below there is the logo of the National Bank of Ukraine Mint.",
+  "reverseDescription": "Reverse: there is the image of sterlet together with the inscriptions: below, against the light background imitating the sandy bottom, СТЕРЛЯДЬ ПРІСНОВОДНА (Sterlet of fresh-waters) and above ACIPENSER RUTHENUS.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=533",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=533"
+}

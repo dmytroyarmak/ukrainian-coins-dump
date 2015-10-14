@@ -1,0 +1,20 @@
+{
+  "id": 118,
+  "name": "Volodymyr Monomakh",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "22 November 2002",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 3000,
+  "categoryId": 5930,
+  "category": "Ukraine",
+  "generalDescription": "The coin is dedicated to Volodymyr Monomakh (1113-1125), the Grand Kiev Prince, an outstanding Old-Rus statesman and politician, the author of a number of laws and the well-known `Admonition` addressed to children. During the reign of Volodymyr Monomakh there were stopped intestine wars between princes and a new stage in development of culture and art was launched.",
+  "averseDescription": "On the coin obverse set in the old-Rus ornament recreated from the images of the casing of a manuscript book of the epoch there is engraved the small National Emblem of Ukraine",
+  "reverseDescription": "On the coin reverse against the background of buildings of an Old-Rus town, there is pictured a half-length portrait of the Prince holding a folio in his hands. On his right there is a depiction of the Saint George -the Fighter against Dragon, as well as conventionalized inscriptions: ВОЛОДИМИР 1113 МОНОМАХ 1125 (Volodymyr/ 1113/ Monomakh /1125 -above and КНЯЖА / УКРАЇНА (Princes of Ukraine) -below.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=118",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=118"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 74,
+  "name": "Butterfly Orchid (PLATANTHERA BIFOLIA)",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "26 July 1999",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 5000,
+  "categoryId": 5935,
+  "category": "Flora and Fauna",
+  "generalDescription": "Commemorative coin is dedicated to a rare species of European orchid in Ukrainian partially-wooded steppe zone, which is entered to the Red Book of Ukraine",
+  "averseDescription": "On the coin obverse set in the wreath made of images of plants and animals there is engraved the small National Emblem of Ukraine and a four line legend:",
+  "reverseDescription": "On the coin reverse there is a depiction of an enlarged orchid flower, to its left there is a flower stem with two leaves and inflorescence; to its right there are the circular inscriptions: ЛЮБКА ДВОЛИСТА (Butterfly Orchid) and PLATANTHERA BIFOLIA.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=74",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=74"
+}

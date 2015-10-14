@@ -1,0 +1,20 @@
+{
+  "id": 571,
+  "name": "Maternity",
+  "metal": "silver (Ag 925)",
+  "denomination": "5 hryvnias",
+  "date": "18 June 2013",
+  "weight": 15.55,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "smooth with in-depth legends",
+  "mintage": 10000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The coin is dedicated to the maternity, a timeless value of the humanity, a well of life, a symbol of holiness, eternity, warmth and affection. In the art this grand and everlasting subject is one of the oldest in the world culture.",
+  "averseDescription": "Obverse: above there are the Small Coat of Arms of Ukraine and the semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine); in the center there is depicted a baby carriage (carrycot) as a symbol of childhood and life immortality; thereunder are the coin issue year indication 2013 and the semicircular face value П`ЯТЬ ГРИВЕНЬ (five hryvnias).",
+  "reverseDescription": "Reverse: bears a conventionalized image of the Mother holding the Baby in her arms and the bow-shaped legend МАТЕРИНСТВО (maternity). The Mother`s image is full of warmth, motherliness, care and affection.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=571",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=571"
+}

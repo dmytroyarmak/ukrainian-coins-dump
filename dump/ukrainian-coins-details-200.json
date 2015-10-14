@@ -1,0 +1,20 @@
+{
+  "id": 200,
+  "name": "Vasyl Sukhomlynskyi",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "30 September 2003",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to 85th anniversary of Vasyl Sukhomlynskyi (28.09.1918 - 02.09.1970), a Ukrainian pedagogue, Honoured teacher of the Ukraine SSR and the State Prize Winner of the USSR. Being the author of numerous scientific works (including `My heart is given to children`) and many fiction books for children, he devoted all his life to children. 33 years he worked as a director of Pavliv secondary school in Kirovohrad region, cultivating civil dignity and faith in a human being and bringing up children to love their native land.",
+  "averseDescription": "On the coin obverse a horizontal composition is depicted based on Sukhomlynskyi`s books. The composition contains primarily depiction of children having and books. Above there is the small National Emblem of Ukraine (left), inscription УКРАЇНА (Ukraine) and the Mint logotype of the National Bank of Ukraine; at the lower part of the coin field there is the coin issue year (2003) and its face value - 2 ГРИВНІ (2 hryvnia)",
+  "reverseDescription": "On the coin reverse there is a portrait of Vasyl Sukhomlynskyi, on the left there is a vertical image of a pen and his years of life: 1918-1970; on the right there is a semi-circular inscription: В.О.СУХОМЛИНСЬКИЙ (Vasyl Sukhomlynskyi).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=200",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=200"
+}

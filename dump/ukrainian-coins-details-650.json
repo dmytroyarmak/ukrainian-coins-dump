@@ -1,0 +1,20 @@
+{
+  "id": 650,
+  "name": "Vasyl Lypkivskyi",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "27 November 2014",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to the 150th anniversary of the birth of Vasyl Kostiantynovych LYPKIVSKYI, an outstanding cleric and educationalist, reformer, the first Metropolitan of the Ukrainian Autocephalous Orthodox Church, gifted preacher, publicist, writer, translator.",
+  "averseDescription": "Obverse: above there is the Small Coat of Arms of Ukraine with the semicircular inscription Національний банк України (National Bank of Ukraine); in the centre there is the composition: within the crown of thorns symbolizing Vasyl Lypkivskyi`s tragic destiny there is the conventionalized image of the Gospel against the background of Saint Sophia`s cathedral in Kyiv, whose provost was the Metropolitan, the mark of the National Bank of Ukraine Mint (to the right), coin issue year indication 2014 and face value ДВІ ГРИВНІ (two hryvnias) below.",
+  "reverseDescription": "Reverse bears Vasyl Lypkivskyi`s portrait with indications of the years of his life 1864 and 1937 on either side thereof and the semicircular inscription above МИТРОПОЛИТ ВАСИЛЬ ЛИПКІВСЬКИЙ (Metropolitan Vasyl Lypkivskyi).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=650",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=650"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 208,
+  "name": "Skating Sport",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "30 January 2002",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5936,
+  "category": "Sport",
+  "generalDescription": "The coin of 2 Hryvnia denomination is dedicated to the 19th Winter Olympic Games, which were held in Salt-Lake-City (USA) in 2002.",
+  "averseDescription": "On the coin obverse on the he left there is a semicircular depiction of a conventionalized snowflake fragment with an inscription УКРАЇНА (Ukraine) against its relief background and the small National Emblem of Ukraine; on the right, beneath against the smooth background there are inscriptions: 2 / ГРИВНІ / 2002 (2 hryvnia/ 2002) and there is the Mint logotype of the National Bank of Ukraine",
+  "reverseDescription": "On the coin reverse to the left on the background of a glass there is a silhouette depiction of a skater; to the right on the snowflake relief background there are three-lined inscriptions: ХІХ ЗИМОВІ ОЛІМПІЙСЬКІ ІГРИ / СОЛТ-ЛЕЙК-СІТІ / 2002.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=208",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=208"
+}

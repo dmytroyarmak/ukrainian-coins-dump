@@ -1,0 +1,20 @@
+{
+  "id": 26,
+  "name": "The 50th Anniversary of Establishment of the Taras Shevchenko National Prize of Ukraine",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "12 May 2011",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The commemorative coin is dedicated to the 50th anniversary of establishment of the Taras Shevchenko National Prize of Ukraine, the highest award in Ukraine in the fields of literature and arts, journalism and opinion journalism, the most prestigious honours for the creative works regarded as major contributions to the Ukrainian culture. The Prize is awarded annually in the following nominations: artistic literature, documentary and scientifically critical literature, music, fine arts, theatre and modern visual arts.",
+  "averseDescription": "On the obverse there are: the Small Coat of Arms of Ukraine and the semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) (above); below there are the coin face value 5 ГРИВЕНЬ (5 hryvnias) and issue year 2011 with the logo of the National Bank of Ukraine Mint to the right; in the centre there is the composition symbolizing the nominations of the Taras Shevchenko National Prize of Ukraine - an open book, quill, palette, brushes together with the lines from Taras Shevchenko`s poem `I mertvym, i zhyvym...` (`To the Dead and the Living...`) `... Учітесь, читайте, / І чужому научайтесь, / Й свого не цурайтесь` (...Learn, read, / Both foreign study, / And (our) own don`t shun.) and his signature.",
+  "reverseDescription": "On the reverse there are: a portrait of T.H.Shevchenko (to the right), the inscription (to the left) 50/ РОКІВ/ НАЦІОНАЛЬНА/ ПРЕМІЯ/ УКРАЇНИ/ ІМЕНІ/ ТАРАСА/ ШЕВЧЕНКА (50/ years/ National / Prize/ of Ukraine / named after/ Taras/ Shevchenko) and a conventionalized branch (beneath).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=26",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=26"
+}

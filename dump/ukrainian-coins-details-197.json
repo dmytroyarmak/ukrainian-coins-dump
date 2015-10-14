@@ -1,0 +1,20 @@
+{
+  "id": 197,
+  "name": "Volodymyr Korolenko",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "20 June 2003",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to Volodymyr Korolenko (27.07.1853 - 25.12.1921), a writer, publicist, public figure and humanist, who was born in the town of Zhytomyr. The writer`s life and creative work is closely associated with the Ukrainian people and its culture. In his stories and tales `The noise of the forest`, `The Judgement Day`, `In a bad company`, `The blind musician`, `Paradox`, `Makar`s dream` he depicts the spiritual beauty of the Ukrainian people, the beauty of the Ukrainian nature and the way of life of the Ukrainian people.",
+  "averseDescription": "On the coin obverse an open book is depicted, above which there is the small National Emblem of Ukraine and inscriptions: УКРАЇНА (above in semicircle), 2003, (Ukraine /2003) 2 ГРИВНІ (2 /hryvnia) (beneath), as well as the Mint logotype of the National Bank of Ukraine",
+  "reverseDescription": "On the coin reverse there is a portrait of V.Korolenko and on both sides - the four-line inscription: ВОЛОДИМИР (Volodymyr) (on the left), КОРОЛЕНКО (Korolenko) (on the right) and 1853-1921 - his years of life (beneath in two lines).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=197",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=197"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 555,
+  "name": "80th Anniversary of Donetsk Oblast",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "5 July 2012",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "smooth with in-depth legends",
+  "mintage": 5000,
+  "categoryId": 6044,
+  "category": "Oblasts of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to the 80th anniversary of Donetsk oblast - the mighty industrial heart of the state, the land with unique natural resources and a high industrial potential, where talented and hardworking people live.",
+  "averseDescription": "Obverse: above there are the Small Coat of Arms of Ukraine and the semicircular legend НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine); beneath there is indicated the coin face value ДЕСЯТЬ ГРИВЕНЬ (ten hryvnias); to the left there is the coin issue year 2012. In the center there is depicted a fragment of the Donetsk oblast flag against the background of the oblast outline map.",
+  "reverseDescription": "Reverse: there are depicted figures of a metallurgist, miner and agricultural workwoman against the background of the oblast industrial landscape; to the right - the Holy Transfiguration Cathedral in the city of Donetsk; above there is the semicircular inscription ДОНЕЦЬКА ОБЛАСТЬ (Donetsk Oblast) with the coat of arms of the oblast and legend 80 РОКІВ (80 years) thereunder.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=555",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=555"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 332,
+  "name": "Mykhailo Lysenko",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "16 October 2006",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to Mykhailo Lysenko (1906 – 1972), a Ukrainian sculptor, People s artist of the USSR and an academician, whose works are adornment of many Ukrainian cities.",
+  "averseDescription": "On the coin obverse above there is depicted the small National Emblem of Ukraine, beneath - there is the inscription: Національний Ьанк України (National Bank of Ukraine) and there are depicted tooling of a sculptor, artist and graphic artist against the background of a conventionalized palette. Below there are inscriptions: 2 гривні / 2006 (2 Hryvnia/2006) and the Mint logotype of the National Emblem of Ukraine.",
+  "reverseDescription": "On the coin reverse there is depicted a portrait of Mykhailo Lysenko, against whose background there are his years of life: 1906 – 1972; above there is a semicircular inscription: Михайло Лисенко (Mykhailo Lysenko).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=332",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=332"
+}

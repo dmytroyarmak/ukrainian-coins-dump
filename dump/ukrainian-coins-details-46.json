@@ -1,0 +1,20 @@
+{
+  "id": 46,
+  "name": "Volodymyr Sosyura",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "23 January 1998",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "uncirculated",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to the centenary of Volodymyr Sosyura, an outstanding Ukrainian poet, State Taras Shevchenko Prize-winner (1898-1965).",
+  "averseDescription": "On the coin obverse there is the Small State Emblem of Ukraine in the middle of the beads circumference decoration, framed with guelder-rose sprays. Above the State Emblem, there is the year of issue - 1998. Around the coin circumference there are inscriptions: УКРАЇНА - above and 2 ГРИВНІ - underneath in two lines. The inscriptions are separated from one another with ornamentation.",
+  "reverseDescription": "On the coin reverse against a background of sheets of paper with guelder-rose sprays between them, there is a portrait of Volodymyr Sosyura. Inscriptions: ВОЛОДИМИР СОСЮРА - at the left around the circumference, 1898-1965, years of poet`s birth and death - at the right in two lines and ЛЮБІТЬ УКРАЇНУ, a replica from the poet`s well-known poem - underneath, in two lines.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=46",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=46"
+}

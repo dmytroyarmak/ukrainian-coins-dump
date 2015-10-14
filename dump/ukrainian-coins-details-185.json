@@ -1,0 +1,20 @@
+{
+  "id": 185,
+  "name": "Whitsunday",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "14 May 2004",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 50000,
+  "categoryId": 5941,
+  "category": "Ritual Holidays of Ukraine",
+  "generalDescription": "The coins are dedicated to the Whitsunday, one of the grandest Christian holidays celebrated on the 50th day after Easter",
+  "averseDescription": "On the coin obverse, there is a depicted a charm garland made of flowers, in the middle of which there is the small National Emblem of Ukraine and above it - 2004, the coin issue year. To the left and to the right there are conventionalized rye spikelets, poppy-heads and cornflowers. Beneath the garland there are inscriptions: УКРАЇНА, 5, ГРИВЕНЬ, (Ukraine/ 5/ hryvnia), as well as the designation of the metal, its fineness and its weight in fineness. There is also the Mint logotype of the National Bank of Ukraine",
+  "reverseDescription": "On the coin reverse there is a group of girls is depicted adorned with flowers, ribbons and garlands, among whom a girl, embellished as a `poplar-tree` is a central figure. At the top and above the group there is a symbolic depiction of the Holy Trinity, on both sides of which there is an inscription: СВЯТО ТРІЙЦІ (Whitsunday Celebration)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=185",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=185"
+}

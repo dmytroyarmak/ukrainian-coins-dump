@@ -1,0 +1,20 @@
+{
+  "id": 35,
+  "name": "Kyiv-Pechersk Lavra",
+  "metal": "gold (Au 900)",
+  "denomination": "200 hryvnias",
+  "date": "10 April 1997",
+  "weight": 15.55,
+  "diameter": 25,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "smooth",
+  "mintage": 20000,
+  "categoryId": 5928,
+  "category": "Spiritual Treasures of Ukraine",
+  "generalDescription": "The commemorative coin of 200 Hryvnias denomination is dedicated to the outstanding architectural and historical monument of Kyiv Rus and the world known center of Ukrainian spiritual culture.",
+  "averseDescription": "On the coin obverse in the middle of the beads circumference decoration, there is the depiction of Trinity Gate Church of Lavra ensemble and a fragment of its main Belfry. To its right there is a depiction of the Small State Emblem of Ukraine. Underneath around the coin circumference there are inscriptions: 200 ГРИВЕНЬ - in two lines and 1996, year of issue - above it. Around the coin circumference there are inscriptions: УКРАЇНА - left and КИЕВО-ПЕЧЕРСЬКА ЛАВРА - right.",
+  "reverseDescription": "On the coin reverse at the composition upper part there are fragments of murals of the Trinity Gate Church: БОГ ОТЕЦЬ, БОГ СИН, БОГ ДУХ СВЯТИЙ with relative inscriptions in old Slavic print. Under it there is the depiction of God Mother, the patroness of Zaporizhzhia Cossacks. All images are depicted upon clouds. Underneath there is the Lavra panorama from L.Tarasevich`s engraving, first printed in the book Pateryk Pechorskiy (1702). The picture is framed with the beads circumference decoration. On both sides of the picture there are designations of Аu 900 and 15,55, coin`s pure weight",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=35",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=35"
+}

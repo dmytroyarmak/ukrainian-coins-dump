@@ -1,0 +1,20 @@
+{
+  "id": 570,
+  "name": "The House with Chimeras",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "15 May 2013",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5925,
+  "category": "Architectural monuments of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to a building designed in the early 20th century by a prominent architect, engineer, traveler and businessman Vladyslav Horodetskyi whose 150th birth anniversary it also commemorates. Unusual in artistic design and new in style, the house features sculptures in the form of mythical creatures and hunting scenes.",
+  "averseDescription": "Obverse: above there is the Small Coat of Arms of Ukraine with the semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) and the coin issue year indication 2013 (thereunder to the right); against the background of the House with Chimeras there is a portrait with the bow-shaped inscription thereunder В.ГОРОДЕЦЬКИЙ (V.Horodetskyi); to the left there are the architect`s years of life 1863-1930; above them there is the coin face value: 5 ГРИВЕНЬ (5 hryvnias) on the German silver coin (together with the National Bank of Ukraine Mint mark).",
+  "reverseDescription": "Reverse: against the background of the House with Chimeras contours there is a fragment of a sculptural composition in relief embellishing the House fa?ade; to the left there is the architect`s facsimile signature (vertically); to the right there is the semicircular inscription БУДИНОК З ХИМЕРАМИ (house with chimeras).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=570",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=570"
+}

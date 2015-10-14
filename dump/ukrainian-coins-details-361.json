@@ -1,0 +1,20 @@
+{
+  "id": 361,
+  "name": "Orienteering",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "25 July 2007",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5936,
+  "category": "Sport",
+  "generalDescription": "The coin is dedicated to the orienteering, which as a sport originated in Scandinavia more than 100 years ago. The coin was issued on the occasion of the World Orienteering Championship held in Kyiv in August 2007.",
+  "averseDescription": "On the obverse against the glass background there is the Small National Emblem of Ukraine, under which there is the inscription: НАЦІОНАЛЬНИЙ / БАНК УКРАЇНИ (National Bank of Ukraine), marking of sportsman`s route (on the right), the conventionalized depiction of the compass (on the left), below there is the coin face value - 2 ГРИВНІ (2 Hryvnias), as well as the National Bank of Ukraine Mint logotype.",
+  "reverseDescription": "On the coin reverse there is a running sportsman holding a map in his hand and the inscription: СПОРТИВНЕ (Sport) (horizontal) ОРІЄНТУВАННЯ (Orienteering) (vertical).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=361",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=361"
+}

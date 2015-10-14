@@ -1,0 +1,20 @@
+{
+  "id": 583,
+  "name": "Ukrainian Vyshyvanka",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "20 August 2013",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "smooth with in-depth legends",
+  "mintage": 5000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The commemorative coin is dedicated to a bright, original and colourful element of Ukrainian traditional clothing, i.e. to the vyshyvanka (embroidered shirt) that reflects the embroidery traditions of each region of Ukraine by its decorative patterns and scale of colours.",
+  "averseDescription": "Obverse: above there is the Small Coat of Arms of Ukraine with the semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine); thereunder is represented a girl with the needle in hand embroidering a cloth, a part whereof is coloured (tampography); against the background of the cloth there is the coin face value indication: 10 ГРИВЕНЬ (10 hryvnias) ; thereunder to the right is the coin issue year 2013.",
+  "reverseDescription": "Reverse: there is the coloured fragment of the vyshyvanka cloth: on the German silver coin the tampography is used, on the silver coin the image is holographic; above and below there are the semicircular inscriptions УКРАЇНСЬКА (Ukrainian) and ВИШИВАНКА (vyshyvanka) respectively.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=583",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=583"
+}

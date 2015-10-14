@@ -1,0 +1,20 @@
+{
+  "id": 496,
+  "name": "Cossack Boat",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "20 December 2010",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 45000,
+  "categoryId": 5916,
+  "category": "Maritime History of Ukraine",
+  "generalDescription": "The commemorative coins start the `Maritime History of Ukraine` series that will reflect the history of navigation and shipbuilding on the territory of our country and are dedicated to the rowing boats of the XVIII-th century; such boats formed the basis of the Cossack flotillas. In the National Reserve `Khortytsia` there are kept such vessels that in the first half of the XVIIIth century formed part of the Dnieper flotilla and in the last ten years were found at the Dnieper bottom and recovered.",
+  "averseDescription": "Obverse: above there are the Small Coat of Arms of Ukraine and semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine); below there is a composition divided by the undulating stripe bearing the inscription МОРСЬКА ІСТОРІЯ УКРАЇНИ (Maritime History of Ukraine) in two parts: the upper one bears the image of the wind rose symbolizing the sea travels and the lower - the seal of Zaporozhian Host; over the stripe to the right there is indicated the coin issue year 2010; below there are the logo of the National Bank of Ukraine Mint and the coin face value: 5/ГРИВЕНЬ (5 hryvnias) on the German silver coin.",
+  "reverseDescription": "Reverse: on both coins there are depicted the Cossack boat of the first half of the XVIIIth century under sail and the gull symbolizing the element of water (to the left), as well as the legends: КОЗАЦЬКИЙ ЧОВЕН (Cossack boat) above and XVIII ст. (XVIII century) below.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=496",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=496"
+}

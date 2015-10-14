@@ -1,0 +1,20 @@
+{
+  "id": 84,
+  "name": "100 Years of the National Mining Academy of Ukraine",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "10 June 1999",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "uncirculated",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5919,
+  "category": "Higher educational establishments of Ukraine",
+  "generalDescription": "The coin is dedicated to 100th Anniversary of the National Mining Academy of Ukraine in the city of Dnipropetrovsk, which was founded as Katerynoslav High Mining School",
+  "averseDescription": "On the coin obverse there is the small National Emblem of Ukraine in the circle made of beads, set in cranberry bush sprays and the conventionalized inscriptions: УКРАЇНА, 2 ГРИВНІ, 1999 (Ukraine/ 2/ hryvnia/ 1999).",
+  "reverseDescription": "On the coin reverse there is depicted the Academy main building`s facade (architect Olexander Beketov, 1900) and the following inscriptions: 100 РОКІВ (100 Years) and НАЦІОНАЛЬНА ГІРНИЧА АКАДЕМІЯ УКРАЇНИ (the National Mining Academy of Ukraine)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=84",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=84"
+}

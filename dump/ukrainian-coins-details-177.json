@@ -1,0 +1,20 @@
+{
+  "id": 177,
+  "name": "AN-2 Aircraft",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "22 May 2003",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 50000,
+  "categoryId": 5938,
+  "category": "Airplanes of Ukraine",
+  "generalDescription": "The coin is dedicated to the forerunner of all `AN` aircrafts, one of the heaviest and most long-lived multi-purpose aircrafts for passenger and cargo carriage. The plane made its first flight on August 31, 1947 and its serial production began at the Kyiv Aviation Plant in 1949 (now - `Aviant`).There are developed 18 modifications of the aircraft which were exported to 23 countries of the world.",
+  "averseDescription": "On the coin obverse in the centre of the circle made of a string of beads there is depicted the small National Emblem of Ukraine within an allegoric composition of the sun, a conventionalized wing, birds and stars that symbolize the dream of mankind to reach outer space. There are the following inscriptions: on the German silver coin - УКРАЇНА, 2003, 5, ГРИВЕНЬ (Ukraine/ 5/ hryvnia/ 2003). On the coin there is also the Mint logotype of the National Bank of Ukraine",
+  "reverseDescription": "On the coin reverse there is a depiction of AN-2 aircraft and circular inscriptions: above - ЛІТАКИ УКРАЇНИ (aircrafts of Ukraine); beneath - AN-2 and AN-2, between which there is AN logotype is depicted.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=177",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=177"
+}

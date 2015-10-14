@@ -1,0 +1,20 @@
+{
+  "id": 69,
+  "name": "Steppe Eagle (Aquila Rapax)",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "20 January 1999",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 5000,
+  "categoryId": 5935,
+  "category": "Flora and Fauna",
+  "generalDescription": "The coins are dedicated to the rare species of falcons which inhabits virgin Ukrainian steppe - Aquila Rapax, the largest number of birds are kept and bred in Askanya Nova Zoo. In 1980 Aquila Rapax has been listed in Red Book of Ukraine.",
+  "averseDescription": "On the coin obverse set in the wreath made of the images of selected species of Flora and Fauna there is engraved the small National Emblem of Ukraine and the four line inscriptions: on the silver coin: УКРАЇНА, 10, ГРИВЕНЬ, 1999 (Ukraine/ 10 /hryvnia/1999), and the designation of the metal- Ag 925, its fineness, and 31,1, the coin weight in fineness; on the German silver coin - УКРАЇНА, 2 ГРИВНІ, 1999 (Ukraine/ 2 /hryvnia/1999)",
+  "reverseDescription": "On the coin reverse there is the image of Aquila Rapax in Askanya steppe. Around the circumference, there are inscriptions: ОРЕЛ СТЕПОВИЙ and AQUILA RAPAX.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=69",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=69"
+}

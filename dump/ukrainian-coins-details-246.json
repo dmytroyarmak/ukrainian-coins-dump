@@ -1,0 +1,20 @@
+{
+  "id": 246,
+  "name": "Kindness to Children",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "24 May 2001",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The coin is dedicated to the Day of Children Protection",
+  "averseDescription": "On the coin obverse within the frame of an ornament made of vegetables and birds there is depicted the small National Emblem of Ukraine, above which there is the inscription: УКРАЇНА (Ukraine). Underneath the Emblem there is the inscription: 2 ГРИВНІ (2 hryvnia). Below there is depicted a nest with three nestlings, underneath there is the coin issue year - 2001.",
+  "reverseDescription": "On the coin reverse in the composition centre there is a depiction of a stream uniting water, nature and the sun; on its both sides there are figures of a boy and a girl who are rejoicing over this life-giving stream; beneath there is an open book and a ribbon with the inscription ДОБРО - ДІТЯМ (Kindness to Children).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=246",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=246"
+}

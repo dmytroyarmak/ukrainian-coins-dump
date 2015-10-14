@@ -1,0 +1,20 @@
+{
+  "id": 34,
+  "name": "T.H.Shevchenko",
+  "metal": "gold (Au 900)",
+  "denomination": "200 hryvnias",
+  "date": "12 March 1997",
+  "weight": 15.55,
+  "diameter": 25,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "smooth",
+  "mintage": 10000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to Taras Shevchenko, the outstanding Ukrainian poet, artist and thinker (1814-1861).",
+  "averseDescription": "On the coin obverse there is the Small State Emblem of Ukraine in the middle of the beads circumference decoration, framed with guelder-rose sprays. Above the State Emblem there is the year of issue - 1996. Around the coin circumference there are inscriptions: УКРАЇНА - above and 200 ГРИВЕНЬ - underneath in two lines",
+  "reverseDescription": "On the coin reverse in the centre there is a portrait of T.H.Shevchenko with a poet`s autograph under it. Near the portrait there is a singing Kobzar with a guide boy near a village house. Above, around the coin circumference there is an inscription: Т.Г.ШЕВЧЕНКО 1814-1861, underneath there are designations of Аu 900 and 15,55, coin`s pure weight.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=34",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=34"
+}

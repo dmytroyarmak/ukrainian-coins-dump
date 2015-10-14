@@ -1,0 +1,20 @@
+{
+  "id": 538,
+  "name": "1 800 Years of the Town of Sudak",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "17 September 2012",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5931,
+  "category": "Ancient cities of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to Sudak, one of the oldest towns in Ukraine. Known from the third century AD, the town has been named Sogdia, Soldaia and Surozh - in Old Rus records. The town offers unique recreational opportunities and boasts picturesque scenery as well as architectural monuments, such as the remains of the Genoese fortress, which was built in the 14th-15th centuries.",
+  "averseDescription": "Obverse: above there is the Small Coat of Arms of Ukraine with the semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) and the coin issue year indication 2012 (thereunder to the right), lower there is a fragment of the XVth century relief depicting St. George, which was found in the Genoese fortress during excavation; to the right and left there is depicted a conventionalized grape-vine against the background of the wall; below there is the legend 5/ГРИВЕНЬ (5/hryvnias) on the German silver coin together with the National Bank of Ukraine Mint logo.",
+  "reverseDescription": "Reverse: there is a conventionalized picture of the town with its beaches as seen from the fortress wall (to the left) and to the right, against the background of the sea, there are the inscription СУДАК/1800/РОКІВ (Sudak/1800/years) and the coat of arms of the town.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=538",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=538"
+}

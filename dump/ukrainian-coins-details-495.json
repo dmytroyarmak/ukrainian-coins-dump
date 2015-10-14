@@ -1,0 +1,20 @@
+{
+  "id": 495,
+  "name": "Cossack Boat",
+  "metal": "silver (Ag 925)",
+  "denomination": "20 hryvnias",
+  "date": "20 December 2010",
+  "weight": 62.2,
+  "diameter": 50,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "smooth with in-depth legends",
+  "mintage": 5000,
+  "categoryId": 5916,
+  "category": "Maritime History of Ukraine",
+  "generalDescription": "The commemorative coins start the `Maritime History of Ukraine` series that will reflect the history of navigation and shipbuilding on the territory of our country and are dedicated to the rowing boats of the XVIII-th century; such boats formed the basis of the Cossack flotillas. In the National Reserve `Khortytsia` there are kept such vessels that in the first half of the XVIIIth century formed part of the Dnieper flotilla and in the last ten years were found at the Dnieper bottom and recovered.",
+  "averseDescription": "Obverse: above there are the Small Coat of Arms of Ukraine and semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine); below there is a composition divided by the undulating stripe bearing the inscription МОРСЬКА ІСТОРІЯ УКРАЇНИ (Maritime History of Ukraine) in two parts: the upper one bears the image of the wind rose symbolizing the sea travels and the lower - the seal of Zaporozhian Host (gilded on the 20 hryvnia coin); over the stripe to the right there is indicated the coin issue year 2010; below there are the logo of the National Bank of Ukraine Mint and the coin face value: 20/ГРИВЕНЬ (20 hryvnias) on the silver coin.",
+  "reverseDescription": "Reverse: on both coins there are depicted the Cossack boat of the first half of the XVIIIth century under sail and the gull symbolizing the element of water (to the left), as well as the legends: КОЗАЦЬКИЙ ЧОВЕН (Cossack boat) above and XVIII ст. (XVIII century) below.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=495",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=495"
+}

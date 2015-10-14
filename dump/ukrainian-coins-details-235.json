@@ -1,0 +1,20 @@
+{
+  "id": 235,
+  "name": "On the Verge of Millenniums",
+  "metal": "bimetal from nonprecious metals",
+  "denomination": "5 hryvnias",
+  "date": "7 March 2001",
+  "weight": 9.4,
+  "diameter": 28,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "sectoral corrugation",
+  "mintage": 50000,
+  "categoryId": 5923,
+  "category": "On the Edge of Millenniums",
+  "generalDescription": "The coin is dedicated to transition of mankind to the third millennium, which is associated with people`s expectations of peace, mutual understanding and prosperity",
+  "averseDescription": "On the coin obverse within the inset ring and against the mirror background there are depicted the spirals in the form of an egg which symbolizes the powerful life-giving breath. Within the outer ring there are depicted the small National Emblem of Ukraine, the circular inscriptions: УКРАЇНА, 5, ГРИВЕНЬ, 2001 (Ukraine/ 5/ hryvnia/ 2001) and the logotype of the Mint of the National Bank of Ukraine",
+  "reverseDescription": "On the coin reverse within the insert ring there is a depiction of a Mother-woman with a baby. The composition symbolizes continuity and perpetuity of life. Within the outer ring there are depicted a symbolic star (above) and the circular inscriptions: НА МЕЖI ТИСЯЧОЛIТЬ (On the Verge of Millenniums)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=235",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=235"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 243,
+  "name": "Sailing",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "31 May 2000",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 50000,
+  "categoryId": 5936,
+  "category": "Sport",
+  "generalDescription": "Commemorative coins of 2 Hryvnias denomination is dedicated to the 27th Olympic Games, which were held in Sydney (Australia). in 2000",
+  "averseDescription": "On the coin obverse there is the small National Emblem of Ukraine against the background of the unfolded banner crossed with ribbon depicting various sports and the inscriptions: УКРАЇНА / 2 / ГРИВНІ / 2000 (Ukraine/ 2000 / 2 hryvnia)",
+  "reverseDescription": "On the coin reverse there is a depiction of a yachtsman and the inscriptions: СІДНЕЙ 2000 (Sydney 2000) and XXVII / ЛІТНІ / ОЛІМПІЙСЬКІ / ІГРИ (27th Olympic Games)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=243",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=243"
+}

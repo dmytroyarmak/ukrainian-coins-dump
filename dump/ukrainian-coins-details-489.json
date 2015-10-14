@@ -1,0 +1,20 @@
+{
+  "id": 489,
+  "name": "Ivan Fedorov",
+  "metal": "silver (Ag 925)",
+  "denomination": "5 hryvnias",
+  "date": "28 December 2010",
+  "weight": 15.55,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "smooth with in-depth legends",
+  "mintage": 5000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to Ivan Fedorov, a prominent figure in the culture of East Slavs, well-known printing pioneer, engineer and inventor, engraver, foundry work master, who produced the first printed books in Ukraine - `Apostol` (Acts and Epistles of the Apostles) in 1574, `Azbuka` (an Alphabet book for East Slavs) in the same year, the Ostroh Bible in 1581.",
+  "averseDescription": "Obverse: above there is the Small Coat of Arms of Ukraine with the semicircular legend НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine); in the centre against the background of the quill pen there is depicted the matrix plate of a page from the `Apostol` book; beneath there are the coin face value 5 ГРИВЕНЬ (5 hryvnias) and issue year 2010.",
+  "reverseDescription": "Reverse: there is a conventionalized portrait of Ivan Fedorov; to the left of the portrait there is depicted his imprint, to the right - his life years 1510/1583; above there is the semicircular conventionalized inscription ІВАН ФЕДОРОВ (Ivan Fedorov).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=489",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=489"
+}

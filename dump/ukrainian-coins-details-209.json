@@ -1,0 +1,20 @@
+{
+  "id": 209,
+  "name": "900 years of the Novgorod-Siversk Principality",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "25 June 1999",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 50000,
+  "categoryId": 5931,
+  "category": "Ancient cities of Ukraine",
+  "generalDescription": "The coin of 5 Hryvnias denomination is dedicated to 900 years of the Novgorod-Siversk Principality founded at the Liubetsk convention of old Rus princes. The campaign of the Novgorod-Siversk prince Igor against Polovtsi in 1185 was famed in the `Legend on Igor`s Regiment`, the outstanding work of the old-Rus and world literature",
+  "averseDescription": "On the coin obverse within the sun circle there are depicted the Small National emblem of Ukraine, disturbed birds and the conventionalized inscription: УКРАЇНА (Ukraine), 5 ГРИВЕНЬ (5 hryvnia), 1999",
+  "reverseDescription": "On the coin reverse against an old Rus fortress there is the chronicle depiction of the prince`s troops during the march and the conventionalized circular inscription: НОВГОРОД-СІВЕРСЬКОМУ КНЯЗІВСТВУ 900 РОКІВ ( 900 years of the Novgorod-Siversk Principality)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=209",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=209"
+}

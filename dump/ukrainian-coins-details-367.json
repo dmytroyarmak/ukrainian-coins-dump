@@ -1,0 +1,20 @@
+{
+  "id": 367,
+  "name": "Petro Hryhorenko",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "15 October 2007",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The jubilee coin is dedicated to Petro Hryhorenko (1907 – 1987) – a public and political figure, military theorist and famous advocate of human rights. Petro Hryhorenko was one of the founders of the Ukrainian Helsinki Group, he advocated return of the Crimean Tatars to their historical Motherland, the right of Ukraine and other peoples of the USSR for independence.",
+  "averseDescription": "On the coin obverse above against the glass background there is the arciform inscription: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine), underneath - the Small National Emblem of Ukraine, 2 ГРИВНІ/2007 (2 Hryvnia/ 2007), below there is a symbolic composition: a sprout is breaking through a brick wall. To the left there is the logotype of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the coin reverse Petro Hryhorenko is portrayed as giving a speech, underneath - 1907/1987, his years of life, to the left there is the arciform inscription: ПЕТРО ГРИГОРЕНКО (Petro Hryhorenko).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=367",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=367"
+}

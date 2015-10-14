@@ -1,0 +1,20 @@
+{
+  "id": 401,
+  "name": "Maria Prymachenko",
+  "metal": "silver (Ag 925)",
+  "denomination": "5 hryvnias",
+  "date": "26 December 2008",
+  "weight": 15.55,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "smooth with in-depth legends",
+  "mintage": 5000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to Maria Ovksentiivna PRYMACHENKO, a distinctive painter, representative of the folk decorative painting, whose oeuvre belongs to unique phenomena in the world art. Her creative work has played an important role in the development of folk decorative painting of Ukraine, while her `animal series` have become an extraordinary phenomenon in the world art.",
+  "averseDescription": "On the coin obverse there is a composition: the Small National Emblem of Ukraine with the legend НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) thereunder, a conventionalized Prymachenko`s work `Cosmic Space Horse` of 1983, under it - the coin face value and issue year: 5 ГРИВЕНЬ/2008 (5 hryvnias/2008).",
+  "reverseDescription": "On the coin reverse there is Maria Prymachenko` portrait against the background of her 1991 work `Ukrainian Sunflower`, above it there is the arcuate inscription МАРІЯ ПРИМАЧЕНКО (Maria Prymachenko); on the left - the vertical legend indicating her life years 1908-1997.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=401",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=401"
+}

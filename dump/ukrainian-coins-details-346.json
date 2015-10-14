@@ -1,0 +1,20 @@
+{
+  "id": 346,
+  "name": "Oleksander Liapunov",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "12 March 2007",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to the 150th anniversary of birth of Oleksandr Liapunov (1857--1918) – a mathematician and mechanic, professor of the Kharkiv University (1885—1902) and an academician of the Petersburg Academy of Sciences from 1901, whose works were related to celestial mechanics, mathematics, physics and probability theory",
+  "averseDescription": "On the coin obverse above there is the Small National Emblem of Ukraine, under which the – inscription - НАЦІОНАЛЬНИЙ / БАНК УКРАЇНИ (National Bank of Ukraine) and geometric presentation of a celestial mechanics problem. Below there are inscriptions 2 ГРИВНІ / 2007 (2 hryvnias) and the logo of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the coin reverse Oleksandr Liapunov is portrayed, to the right of the portrait there are the arciform inscriptions: ОЛЕКСАНДР ЛЯПУНОВ (Oleksandr Liapunov) / 1857 - 1918.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=346",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=346"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 196,
+  "name": "Volodymyr Vernadskyi",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "26 March 2003",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to Volodymyr Vernadskyi (12.03.1863–06.01.1945), an outstanding natural scientist and thinker; the founder of such modern sciences about the Earth, as geochemistry and biochemistry, an academician and the first president of the All-Ukrainian Academy of Sciences (1919). His ideas played an important role in formation of the present-day scientific picture of the world and his doctrine on interrelation of the nature and the society influenced the formation of contemporary ecological perception.",
+  "averseDescription": "On the coin obverse there is a depiction of the Earth, the cradle of mankind, above it there is the small National Emblem of Ukraine and inscriptions: УКРАЇНА, 2003 (Ukraine /2003) (above, in semicircle) 2 ГРИВНІ (2 /hryvnia) (beneath), and the Mint logotype of the National bank of Ukraine",
+  "reverseDescription": "On the coin reverse there is a portrait of Volodymyr I.Vernadskyi (on the right); around the coin circumference there are inscriptions: В.І. ВЕРНАДСЬКИЙ (Volodymyr I.Vernadskyi -on the left and 1863-1945, his years of life made in two lines.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=196",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=196"
+}

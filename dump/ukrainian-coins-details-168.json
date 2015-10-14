@@ -1,0 +1,20 @@
+{
+  "id": 168,
+  "name": "10 Years of the Declaration of Independence of Ukraine",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "31 July 2001",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 100000,
+  "categoryId": 5933,
+  "category": "Rebirth of Ukrainian Statehood",
+  "generalDescription": "The coin is dedicated to the 10th Anniversary of the Independence Act adoption by the Verkhovna Rada of Ukraine on August 24, 1991.",
+  "averseDescription": "On the coin obverse within in circle made of a string of beads there is depicted a composition which embodies the integrity of Ukraine - the small National Emblem of Ukraine framed with a vegetable ornament is supported by a lion and a Cossack holding a musket. Around the coin circumference there are inscriptions: УКРАЇНА, 5 ГРИВЕНЬ, 2001 (Ukraine/ 5 Hryvnia/ 2001). On the coin there is also the Mint logotype of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse in circle made of a string of beads within against the background of the map of Ukraine there is depicted the structure of the Verkhovna Rada of Ukraine and circular inscriptions: 10 РОКІВ НЕЗАЛЕЖНОСТІ УКРАЇНИ, 1991- 2001 (10 Years of the Declaration of Independence of Ukraine/ 1991- 2001)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=168",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=168"
+}

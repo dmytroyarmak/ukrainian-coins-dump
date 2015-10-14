@@ -1,0 +1,20 @@
+{
+  "id": 337,
+  "name": "Serhii Koroliov",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "12 January 2007",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to Serhii Koroliov (1907--1966), an outstanding scientist and engineer, the chief designer of ballistic and geophysical missiles, spacecrafts, satellite series, and the first automatic interplanetary station “Zond”.",
+  "averseDescription": "On the coin obverse in the upper part the Small National Emblem of Ukraine is placed, under which there is an inscription “НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ” (National Bank of Ukraine) and a conventionalized image of a space rocket before launch. Below there are inscriptions 2 ГРИВНІ / 2007 (2 hryvnias / 2007) and the logotype of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the coin reverse Serhii Koroliov is portrayed surrounded by conventionalized stars, to the right of the portrait the years of his birth and death “1907 - / 1966” are placed, to the left of the portrait – his signature facsimile, below – the arciform inscription: “СЕРГІЙ КОРОЛЬОВ” (Serhii Koroliov).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=337",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=337"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 305,
+  "name": "Aries",
+  "metal": "gold (Au 999,9)",
+  "denomination": "2 hryvnias",
+  "date": "20 March 2006",
+  "weight": 1.24,
+  "diameter": 13.92,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "smooth",
+  "mintage": 10000,
+  "categoryId": 5918,
+  "category": "Signs of the Zodiac",
+  "generalDescription": "The coins are dedicated to one of the Zodiac constellations - Aries, located in the Northern Hemisphere.",
+  "averseDescription": "On the obverse of both coins in the center of the circle there is a conventionalized image of the Sun, on the left, on the right, above and underneath whereof – four lighted by it spheres symbolizing the seasons. On the left of the circle there is the Small National Emblem of Ukraine, on the right – the coin issue year: 2006, as well as the indication of the metal, its fineness, and the coin weight in fineness (on the silver coin – Ag 925, 15.55; on the gold coin – Au 999.9, 1.24). There are circular legends: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) above and 5 ГРИВЕНЬ (5 hryvnias) on the silver coin ((2 ГРИВНІ) (2 hryvnias) on the gold one)) below, as well as the logotype of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the reverse of both coins a styled image of Aries with stars around it is depicted, on the left whereof is its Sign of Zodiac; on the right there is the inscription: ОВЕН (Aries).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=305",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=305"
+}

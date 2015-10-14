@@ -1,0 +1,34 @@
+{
+  "name": "ukrainian-coins-dump",
+  "version": "0.0.1",
+  "description": "Dump with a full list of Ukrainian commemorative coins from bank.gov.ua web-site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "export": "npm-run-all --parallel export:*",
+    "export:list": "node export-list.js",
+    "export:categories": "node export-categories.js",
+    "export:details": "node export-details.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmytroyarmak/ukrainian-coins-dump.git"
+  },
+  "keywords": [
+    "coins",
+    "json",
+    "dump",
+    "ukraine"
+  ],
+  "author": "Dmytro Yarmak <dmytroyarmak@gmail.com> (http://dmytroyarmak.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmytroyarmak/ukrainian-coins-dump/issues"
+  },
+  "homepage": "https://github.com/dmytroyarmak/ukrainian-coins-dump#readme",
+  "devDependencies": {
+    "jsonfile": "^2.2.3",
+    "npm-run-all": "^1.2.11",
+    "ukrainian-coins-api": "0.0.1"
+  }
+}

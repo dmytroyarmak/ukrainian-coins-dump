@@ -1,0 +1,20 @@
+{
+  "id": 556,
+  "name": "Paralympic Games",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "20 August 2012",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5936,
+  "category": "Sport",
+  "generalDescription": "The commemorative coin is dedicated to the 2012 Summer Paralympic Games (the 14th Paralympics) to be held in London, the home of the world Paralympic movement, as well as to this movement in Ukraine backed by the National Sports Committee for the Disabled of Ukraine, Ukrainian Center of Physical Training and Sports for the Disabled `Invasport` and others, whose rate of development is among the highest in the world.",
+  "averseDescription": "On the obverse there are depicted the Small Coat of Arms of Ukraine with the semicircular inscription Національний банк України (National Bank of Ukraine), the city panorama of London against the background whereof there is, to the left, the Paralympic Torch with conventionalized ornamental patterns to the left and right of it; to the right there is the legend ЛОНДОН (London) with another legend 2 ГРИВНІ / 2012 (2 hryvnias / 2012) and the National Bank of Ukraine Mint logo below.",
+  "reverseDescription": "On the reverse against the dark background there is depicted a Paralympic athlete shooting a bow with the Ukrainian Paralympic Movement emblem above; to the right, against the light background, there is the bow-shaped inscription XIV ПАРАЛІМПІЙСЬКІ ІГРИ (XIVth Paralympic Games).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=556",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=556"
+}

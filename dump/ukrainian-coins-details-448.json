@@ -1,0 +1,20 @@
+{
+  "id": 448,
+  "name": "Cartwright",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "28 December 2009",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "smooth with in-depth legends",
+  "mintage": 10000,
+  "categoryId": 5922,
+  "category": "Folk Crafts of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to the profession of a woodcraftsman occupied in production of wheels, sledges, carts, shaft bows, etc. The craft has been known in Ukraine since a great while ago and was among the most widespread ones.",
+  "averseDescription": "On the obverse above there are the Small Coat of Arms of Ukraine and the conventionalized legend: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) thereunder; in the centre there are depicted in a conventionalized manner two cockerels and (to the right and left of them) products of the cartwright craft - carts, yokes, wheels, sledges, yoke locking pins. The ornamental central part of the obverse contains the following legend: 10/ГРИВЕНЬ/2009 (10 hryvnias) (on the silver coin.",
+  "reverseDescription": "On the reverse there is depicted a woodcraftsman hewing wood to make a cart detail. Above, against the background of a conventionalized board, there is the legend СТЕЛЬМАХ (Cartwright). To the left and right of the central composition there are ornamental patterns.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=448",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=448"
+}

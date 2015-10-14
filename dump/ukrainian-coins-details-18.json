@@ -1,0 +1,20 @@
+{
+  "id": 18,
+  "name": "Independence",
+  "metal": "silver (Ag 925)",
+  "denomination": "2000000 karbovanets",
+  "date": "1 August 1996",
+  "weight": 31.1,
+  "diameter": 39,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 10000,
+  "categoryId": 5933,
+  "category": "Rebirth of Ukrainian Statehood",
+  "generalDescription": "The coin is dedicated to the 5th anniversary of the Independence Act adoption by the Verkhovna Rada on August 24, 1991",
+  "averseDescription": "On the coin obverse there is the small State Emblem of Ukraine in the middle of the beads circumference decoration, framed with guelder-rose sprays. Above the State Emblem there is the year of issue: 1996. Around the coin circumference there are inscriptions:УКРАЇНА - above and three line inscription 2 МІЛЬЙОНИ КАРБОВАНЦІВ - underneath. Under the State Emblem there are designations of Аg 925 and 31.1, coin `s pure weight.",
+  "reverseDescription": "On the coin reverse at the field `s left part there is a figure of a young woman in national dress, holding a blossoming guelder-rose spray at her right hand and a wreath of laurels - at her left hand, which she holds over the relief map of Ukraine located at the coin right part. The state flag of Ukraine is depicted at the point of the map, corresponding to the capital location. Around the coin circumference there are inscriptions: НЕЗАЛЕЖНІСТЬ - above and 24 СЕРПНЯ 1991- underneath",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=18",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=18"
+}

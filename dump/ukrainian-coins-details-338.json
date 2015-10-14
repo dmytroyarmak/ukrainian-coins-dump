@@ -1,0 +1,20 @@
+{
+  "id": 338,
+  "name": "Les Kurbas",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "26 February 2007",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The commemorative coin is devoted to Les Kurbas (1887-1937), a prominent stage director, actor, educator, playwright and translator. Les (Oleksandr-Zenon) Stepanovych Kurbas was a theatre figure, whose creative work was influenced by expressionism and constructivism, the founder of the Ukrainian modern theatre “Berezil”.",
+  "averseDescription": "On the coin obverse in the upper part the Small National Emblem of Ukraine is depicted, under which in the right part the inscription НАЦІОНАЛЬНИЙ / БАНК / УКРАЇНИ (National Bank of Ukraine) is placed against the glass background. Below, against the background of a conventionalized circle there are the inscriptions: 2 ГРИВНІ/ 2007 (2Hryvnia/ 2007) and the NBU Mint logotype",
+  "reverseDescription": "On the coin reverse Les Kurbas is portrayed against the conventionalized geometric decorative pattern used in poster design in the 20s of the XX century; above, to the left, there is the year of birth – 1887, below, to the right, the year of death – 1937, underneath – diagonal inscription – ЛЕСЬ КУРБАС (Les Kurbas).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=338",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=338"
+}

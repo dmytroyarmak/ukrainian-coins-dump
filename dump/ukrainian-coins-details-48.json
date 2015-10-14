@@ -1,0 +1,20 @@
+{
+  "id": 48,
+  "name": "Kyiv Psalmbook",
+  "metal": "gold (Au 900)",
+  "denomination": "100 hryvnias",
+  "date": "22 January 1998",
+  "weight": 15.55,
+  "diameter": 25,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "smooth",
+  "mintage": 2000,
+  "categoryId": 5928,
+  "category": "Spiritual Treasures of Ukraine",
+  "generalDescription": "he coin is dedicated to the sixth centenary of the outstanding monument of the national culture (1397).",
+  "averseDescription": "On the coin obverse the Small State Emblem of Ukraine is depicted over an open ancient book. Above, along the circumference, there is a stylized inscription УКРАЇНА; underneath, there is a two line inscription 100 ГРИВЕНЬ. At the left and at the right there is a legend: 1997, coin issue year, Au 900, metal and its standard and 15,55 g, gold pure weight.",
+  "reverseDescription": "On the coin reverse against a background of a three column arcade, the following is depicted: Jesus Christ within a circumference with abbreviations - IC - XC, the biblical King David, the Kyivan scribe Spyrydoniy - protodeacon, and a fragment of a Church Slavonic text. Above, along the circumference there is the stylized inscription: КИЇВСЬКИЙ ПСАЛТИР, beneath - the date: 1397.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=48",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=48"
+}

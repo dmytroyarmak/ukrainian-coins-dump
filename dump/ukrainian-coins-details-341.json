@@ -1,0 +1,20 @@
+{
+  "id": 341,
+  "name": "Nestor - the Chronicler",
+  "metal": "gold (Au 900)",
+  "denomination": "50 hryvnias",
+  "date": "27 December 2006",
+  "weight": 15.55,
+  "diameter": 25,
+  "thickness": null,
+  "quality": "proof-like",
+  "edge": "smooth",
+  "mintage": 5000,
+  "categoryId": 5928,
+  "category": "Spiritual Treasures of Ukraine",
+  "generalDescription": "The coin is dedicated to the Nestor the Chronicler, a thinker and annalist, author of the first hagiographic works of the Ancient Rus, whose Primary Chronicle or `Tale of Bygone Years` (1113) became the acme of his creative work.",
+  "averseDescription": "On the coin obverse there is depicted a conventionalized fragment of the Tale of Bygone Years page with its opening lines; the Small National Emblem of Ukraine is placed above in the centre of the coin, thereunder the inscription: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine), below there is the coin face value - 50 ГРИВЕНЬ (50 Hryvnias), the coin issue year - 2006, the metal and its fineness - Au 900, its weight in fineness - 15,55 g and the logotype of the National Emblem of Ukraine Mint.",
+  "reverseDescription": "On the coin reverse there is depicted a conventionalized iconographic portrait of Nestor writing his chronicle, the vertical legend НЕСТОР-ЛІТОПИСЕЦЬ (Nestor - / the chronicler is placed to the right and the inscription: XI - XII ст. (centuries) is placed below",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=341",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=341"
+}

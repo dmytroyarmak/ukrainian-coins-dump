@@ -1,0 +1,20 @@
+{
+  "id": 241,
+  "name": "50th anniversary of Declaration of Human Rights.",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "24 December 1998",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 100000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The coin is dedicated to the 50th anniversary of the Declaration of Human Rights.",
+  "averseDescription": "On the coin obverse in the center there is the small National Emblem of Ukraine encircled by the inscriptions: УКРАЇНА, 1998, 2 ГРИВНІ (Ukraine/ 1998 / 2 hryvnia)",
+  "reverseDescription": "On the coin reverse against a background of the terrestrial globe there is a depiction of the logotype of the 50 anniversary of the General Declaration on Human Rights. Around the picture, there are inscriptions separated with dots: ЗАГАЛЬНА ДЕКЛАРАЦІЯ ПРАВ ЛЮДИНИ (General Declaration on Human Rights) and ВСІ ПРАВА ЛЮДИНИ ДЛЯ ВСІХ (All human rights for all the people)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=241",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=241"
+}

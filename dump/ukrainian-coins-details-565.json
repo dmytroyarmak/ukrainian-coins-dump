@@ -1,0 +1,20 @@
+{
+  "id": 565,
+  "name": "The Year of the Bat",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "15 December 2012",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The commemorative coin is dedicated to the year of the bat. All 26 bat species registered in Ukraine are listed in the Red Book of Ukraine and protected by the Ukrainian law. Being the only true flying mammals, chiroptera, or bats, play an important role in keeping the eco-system in equilibrium.",
+  "averseDescription": "Obverse: above, there is an image of the Small Coat of Arms of Ukraine and the following circumferential legend: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine); to the right there is the coin`s year of issue - 2012; to the left there is the logo of the Mint of the National Bank of Ukraine; in the center, against a relief background, there is a smooth image of the bat; below there is the coin`s face value - 5/ГРИВЕНЬ (5/hryvnias).",
+  "reverseDescription": "Reverse: there is a symbolic composition consisting of a bat against the background of a stylized image of the terrestrial sphere, and, on the right, the scircumpherential legend ВСЕСВІТНІЙ РІК КАЖАНА (the year of the bat).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=565",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=565"
+}

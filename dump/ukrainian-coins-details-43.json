@@ -1,0 +1,20 @@
+{
+  "id": 43,
+  "name": "Kyiv Contract Fair",
+  "metal": "silver (Ag 925)",
+  "denomination": "20 hryvnias",
+  "date": "16 October 1997",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 5000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The coin is dedicated to 200th anniversary of opening in Kyiv (in 1797) the Contract Fair - an important yearly event for commercial and social-political life of Ukraine at the end of 18th - beginning of 20th centuries",
+  "averseDescription": "On the coin obverse there is the Small State Emblem of Ukraine in the center of the composition made with conventionalized depictions of four crosswise located rolls of paper against a background of horizontal lines. On the rolls there are inscriptions: УКРАЇНА, above and 20 ГРИВЕНЬ, underneath in two lines; 1997, the year of coin issue - on the left and designations of Ag 925 and 31,1, coin`s pure weight - on the right.",
+  "reverseDescription": "On the coin reverse in the center, there is a depiction of Kyiv City Council building, in which the first Contract Fair took place (from the drawing `The Facade of the old Kyiv fortress` by M.Razhen (1775-1786). On the foreground, there is the Podil embankment from Dnipro side and a moored-two-mast ship. Above on the left, there is a depiction of scales. Around the coin circumference there are inscriptions: КИЇВСЬКИЙ КОНТРАКТОВИЙ ЯРМАРОК (Kyiv Contract Fair) - above and 200 РОКІВ (200 years)- underneath",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=43",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=43"
+}

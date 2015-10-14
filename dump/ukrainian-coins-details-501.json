@@ -1,0 +1,20 @@
+{
+  "id": 501,
+  "name": "Hopak",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "29 July 2011",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "smooth with in-depth legends",
+  "mintage": 7000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The commemorative coin is dedicated to the Hopak, a Ukrainian folk dance, the performance whereof includes various steps of choreographic improvisation. The dance may be solitary, couple or group one. The Hopak quite often happens to be of a majestic, heroic character.",
+  "averseDescription": "Obverse: there are the Small Coat of Arms of Ukraine and the semicircular description НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine), a couple caught up in the stylized swirl of a dance and the following legends beneath: ДЕСЯТЬ ГРИВЕНЬ (10 hryvnias), as well as the issue year - 2011.",
+  "reverseDescription": "Reverse: there is depicted a dancing Cossack with a sable to whose left there is stylized ornament.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=501",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=501"
+}

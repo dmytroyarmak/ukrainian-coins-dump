@@ -1,0 +1,20 @@
+{
+  "id": 488,
+  "name": "Chervona Kalyna",
+  "metal": "gold (Au 999,9)",
+  "denomination": "2 hryvnias",
+  "date": "24 September 2010",
+  "weight": 1.24,
+  "diameter": 13.92,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "smooth",
+  "mintage": 10000,
+  "categoryId": 5926,
+  "category": "The smallest golden coin",
+  "generalDescription": "The commemorative coin is dedicated to one of the best-loved plants of Ukrainians being the subject of many folk songs, i.e. to Chervona (red with regard to the fruit ) Kalyna (European cranberrybush) that has become the national symbol of Ukraine.",
+  "averseDescription": "Obverse: within the circle of beads there is the Small Coat of Arms of Ukraine, above it - 2010 (the coin issue year); between the circle and the coin edge there are the semicircular legends: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) above and 2 ГРИВНІ (2 hryvnias) underneath, as well as Au 999,9 (coin metal and its fineness) on the left and on the right - the logo of the National Bank of Ukraine Mint and the coin weight in fineness - 1,24.",
+  "reverseDescription": "Reverse: there is depicted a branch of European cranberrybush and are inscribed the semicircular legends: КАЛИНА ЧЕРВОНА - VIBURNUM OPULUS.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=488",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=488"
+}

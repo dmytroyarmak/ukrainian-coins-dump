@@ -1,0 +1,20 @@
+{
+  "id": 230,
+  "name": "170 Years of the Kyiv National University",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "26 August 2004",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 50000,
+  "categoryId": 5919,
+  "category": "Higher educational establishments of Ukraine",
+  "generalDescription": "The coin is dedicated to the Kyiv National University named after Taras Shevchenko - one of the leading centres of education and science in Ukraine. Founded in 1834 this institution has made very significant contribution to the development of the Higher School, science and culture and to promotion of the Ukrainian people spirituality. The University is associated with scientific activities of many well-known scientists, as well as with formation and development of distinguished scientific ideas and schools",
+  "averseDescription": "On the coins obverse there is depicted a composition in the form of a laser-read disk, in the centre of which there is the small National Emblem of Ukraine; on the both sides of which there are objects and formulae symbolizing various sciences, as well as inscriptions:",
+  "reverseDescription": "On the coins reverse there is the University`s building (1837-1843), architect Benjamin Beretti and the following inscriptions: КИЇВСЬКИЙ НАЦІОНАЛЬНИЙ (Kyiv National) (above in semicircle), under it - 1834 and УНІВЕРСИТЕТ ІМЕНІ ТАРАСА ШЕВЧЕНКА (University-named after/ Shevchenko (below)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=230",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=230"
+}

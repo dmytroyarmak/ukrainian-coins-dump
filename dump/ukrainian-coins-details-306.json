@@ -1,0 +1,20 @@
+{
+  "id": 306,
+  "name": "Hedgehog",
+  "metal": "gold (Au 999,9)",
+  "denomination": "2 hryvnias",
+  "date": "14 April 2006",
+  "weight": 1.24,
+  "diameter": 13.92,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "smooth",
+  "mintage": 10000,
+  "categoryId": 5926,
+  "category": "The smallest golden coin",
+  "generalDescription": "The coin of the international ecological series is dedicated to the hedgehog whose picture is thereon",
+  "averseDescription": "On the obverse the Small National Emblem of Ukraine is located in the necklace circle, above it – the year of coinage -- 2006; between the necklace circle and the coin edging there are inscriptions: above - НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (The National Bank of Ukraine), below - 2 ГРИВНІ (two hryvnias), to the left - kind of the metal and its fineness: Au 999.9, its weight in fineness -- 1.24; to the right - the logotype of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the reverse the hedgehog is depicted and there are the inscriptions: above - ЇЖАК (hedgehog) and below - ERINACEUS",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=306",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=306"
+}

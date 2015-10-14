@@ -1,0 +1,20 @@
+{
+  "id": 502,
+  "name": "Hopak",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "29 July 2011",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 45000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The commemorative coin is dedicated to the Hopak, a Ukrainian folk dance, the performance whereof includes various steps of choreographic improvisation. The dance may be solitary, couple or group one. The Hopak quite often happens to be of a majestic, heroic character.",
+  "averseDescription": "Obverse: there are the Small Coat of Arms of Ukraine and the semicircular description НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine), a couple caught up in the stylized swirl of a dance and the following legends beneath: П`ЯТЬ ГРИВЕНЬ (5 hryvnias) as well as the issue year - 2011 (to the right). On the 5 hryvnia coin there is the logo of the National Bank of Ukraine Mint.",
+  "reverseDescription": "Reverse: there is depicted a dancing Cossack with a sable to whose left there is stylized ornament.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=502",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=502"
+}

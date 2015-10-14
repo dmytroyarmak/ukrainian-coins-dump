@@ -1,0 +1,20 @@
+{
+  "id": 369,
+  "name": "Leo Landau",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "18 January 2008",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to Leo D.Landau (1908 – 1968), an outstanding physicist-theorist, the Nobel Prize laureate (1962), who made significant contribution to almost all fields of theoretical physics. He was the author of the classic work on diamagnetism of free electrons, theory of liquid helium superfluidity and many others. In the city of Kharkiv Leo D.Landau lead a theoretical department of the Ukrainian institute for Physics and Engineering, at the same time he headed chairs of theoretical physics in the Kharkiv Institute for Engineering and Mechanics and in the Kharkiv university, having established an advanced school of the Soviet theoretical physics",
+  "averseDescription": "On the coin obverse above there is placed the inscription: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine), in the middle of which there is the small National Emblem of Ukraine, a conventionalized composition: the distribution function of electrons and ions in the anisometric plasma against the background of the sun, below there are the inscriptions: 2 ГРИВНІ/ 2008 (2 Hryvnia/2008) and the Mint logotype of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse there is depicted a portrait of Lev Landau and there are placed the inscriptions: ЛЕВ ЛАНДАУ (Leo Landau) (on the left), 1908 – 1968 (on the right)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=369",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=369"
+}

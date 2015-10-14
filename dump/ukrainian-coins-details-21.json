@@ -1,0 +1,20 @@
+{
+  "id": 21,
+  "name": "Hrygoriy Skovoroda",
+  "metal": "silver (Ag 925)",
+  "denomination": "1000000 karbovanets",
+  "date": "21 June 1996",
+  "weight": 15.55,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 10000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to Hryhoriy Skovoroda, a great Ukrainian philosopher and scientist of the 18th century. (1722-1794)",
+  "averseDescription": "On the coin obverse there is the small State Emblem of Ukraine in the middle of the beads circumference decoration, framed with guelder-rose sprays. Above the State Emblem there is the year of issue -1996. Around the coin circumference there are inscriptions: УКРАЇНА - above and 1 МІЛЬЙОН КАРБОВАНЦІВ - underneath in three lines. Left and right from figure 1 there are designations of Аg 925 and 15,55, coin`s pure weight.",
+  "reverseDescription": "On the coin reverse there is a portrait of the outstanding Ukrainian philosopher and educator of the 18th century Hrygoriy Skovoroda. The imprint of Skovoroda`s personal seal is to the portrait`s left. Around the coin circumference there are inscriptions ГРИГОРІЙ СКОВОРОДА - to the left and 1722-1794 - years of Skovoroda`s birth and death - to the right.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=21",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=21"
+}

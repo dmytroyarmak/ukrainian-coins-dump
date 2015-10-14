@@ -1,0 +1,20 @@
+{
+  "id": 210,
+  "name": "Bilhorod-Dnistrovskyi",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "29 May 2000",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 50000,
+  "categoryId": 5931,
+  "category": "Ancient cities of Ukraine",
+  "generalDescription": "The coin of 5 Hryvnias denomination is dedicated to the 2500th anniversary of the city of Bilhorod-Dnistrovskyi. It was founded in 6th century B.C by ancient Greeks as the city-state Tyre which became the principal economic and cultural center of the Northern Black Sea Region.",
+  "averseDescription": "On the coin obverse within the frame of the old Greek ornament and the heraldic cartouche there is the Small State Emblem of Ukraine and the conventionalized inscriptions: 2000, УКРАЇНА, 5, ГРИВЕНЬ, as well as the first logotype depiction of the Mint of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the coin reverse at its upper part there is the picture of Akerman fortress of the 15th century from the Citadel and Commandant Tower side. Below there is the semi-circular depiction of Akerman`s emblem among the coins of Tyre of the 4th century B.C. - 3d century A.C., there are the conventionalized inscriptions: БІЛГОРОД-ДНІСТРОВСЬКИЙ (Bilhorod-Dnistrovskyi) and 2500 / РОКІВ (2500 /Years).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=210",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=210"
+}

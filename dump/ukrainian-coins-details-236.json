@@ -1,0 +1,20 @@
+{
+  "id": 236,
+  "name": "10 Years of the Armed Forces of Ukraine",
+  "metal": "bimetal from nonprecious metals",
+  "denomination": "5 hryvnias",
+  "date": "29 November 2001",
+  "weight": 9.4,
+  "diameter": 28,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "sectoral corrugation",
+  "mintage": 30000,
+  "categoryId": 5933,
+  "category": "Rebirth of Ukrainian Statehood",
+  "generalDescription": "The coin is dedicated to the 10th anniversary of the Armed Forces of Ukraine.",
+  "averseDescription": "On the coin obverse within the internal ring set in the oak wreath and upon the glass background there are depicted the small National Emblem of Ukraine and the crossed verges (symbols of hetman`s power in Cossak army) under it, 2001, the coin issue year and the Mint logotype of the National Bank of Ukraine. Within the external ring there are circular inscriptions: УКРАЇНА, 5 ГРИВЕНЬ (Ukraine/ 5/ hryvnia)",
+  "reverseDescription": "On the coin reverse within the internal ring there is a depiction of an equal-armed cross with broadened ends framed with the laurel wreath; in the centre of the cross there is a medallion with the picture of small National Emblem of Ukraine; in external ring there are circular inscriptions: ЗБРОЙНІ СИЛИ УКРАЇНИ, 10 РОКІВ (Armed Forces of Ukraine/ 10 Years)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=236",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=236"
+}

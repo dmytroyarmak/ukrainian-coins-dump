@@ -1,0 +1,20 @@
+{
+  "id": 30,
+  "name": "Sophiyivka",
+  "metal": "german silver",
+  "denomination": "2 hryvnias",
+  "date": "16 September 1996",
+  "weight": 14.35,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "proof-like",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The coin is dedicated to 200th anniversary of Sophiyivka, the Uman dendrological park-reserve of the of the National Academy of Sciences of Ukraine.",
+  "averseDescription": "On the coin obverse there is the small State Emblem of Ukraine in the middle of the beads circumference decoration, framed with guilder-rose sprays. Above the State Emblem there is the year of issue - 1996. Around the coin circumference there are inscriptions: УКРАЇНА - above and two line inscription 2 ГРИВНІ - underneath",
+  "reverseDescription": "On the coin reverse at the field`s left part there is a fragment of the so-called Levkadia rock- huge granite cliff at the top of which Belveder observation platform is located. When looking at Levkadia rock from the side, its edge reminds on a male profile, which according to the legend is that of the Count Felix Pototskiy, the founder of the park.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=30",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=30"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 7,
+  "name": "Hero-City of Kerch",
+  "metal": "german silver",
+  "denomination": "200000 karbovanets",
+  "date": "23 August 1995",
+  "weight": 14.35,
+  "diameter": 33,
+  "thickness": 1.85,
+  "quality": "proof-like",
+  "edge": "corrugated",
+  "mintage": 50000,
+  "categoryId": 5940,
+  "category": "Hero-Cities of Ukraine",
+  "generalDescription": "The coin is dedicated to the Ukrainian hero-city of Kerch",
+  "averseDescription": "On the coin obverse there is the Small State Emblem of Ukraine in the middle of the beads circumference decoration, framed with guelder-rose sprays. There are per five leaves and three bunch of berries on each spray. Upper bunch consists of seven berries, middle - of five, lower - of six berries. Above the State Emblem, there is the year of issue -1995. Beneath the small State Emblem, there ia a two line inscription 200000 КАРБОВАНЦІВ, the coin face value (200000 number is split by the beads ornamentation). Around the coin circumference, between the external edge and the beads ornamentation, there is an inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ split with rhombic separative marks from the word КАРБОВАНЦІВ",
+  "reverseDescription": "On the coin reverse in the center there are depictions of an Obelisk of Glory at the top of the Mitridat Hill, erected in honour of the perished warriors of Special Prymorsk Army, seamen of the Black Sea Navy and Azov battle fleet, as well as, citizens of the city, who perished when defending the Crimea against German-fascist invaders. On the background, a sea is depicted with two wavy lines, split by the Obelisk. Above the sea level, to the Obelisk left there is a light cloud, to the right on the skyline -a sea tanker with a sea-gull above it. Around the coin circumference there are inscriptions: МІСТО-ГЕРОЙ КЕРЧ - at the upper part and 1941-1941 - under the obelisk.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=7",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=7"
+}

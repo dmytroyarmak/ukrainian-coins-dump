@@ -1,0 +1,20 @@
+{
+  "id": 207,
+  "name": "Mykhailo Kotsiubynskyi",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "20 August 2004",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to the 140th birth anniversary of Mykhailo Kotsiubynskyi (1864 - 1913), a talented Ukrainian writer and a public figure born in the city of Vinnytsia. Mykhailo M. Kotsiubynskyi is the author of such famous works as `Fata Morgana`, `Intermezzo`, `Laughter`, `Apple Blossom` and `Shadows of the Forgotten Ancestors`, which are bright examples of the Ukrainian prose of the end of the 19th - beginning of the 20th centuries",
+  "averseDescription": "On the coin obverse there is a depiction of a conventionalized composition made of Heorhii Yakutovych`s engraving to `Shadows of the Forgotten Ancestors`. Above there are: a semicircular inscription: УКРАЇНА (Ukraine), the coin issue year - 2004 (left), the small National Emblem of Ukraine (right) and the coin face value - 2/ ГРИВНІ (2 hryvnia), left from the composition, as well as the Mint logotype of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse a portrait of Mykhailo Kotsubynsky is depicted and circular inscriptions: 1864 • МИХАЙЛО КОЦЮБИНСЬКИЙ (Mykhailo Kotsiubynskyi) 1913",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=207",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=207"
+}

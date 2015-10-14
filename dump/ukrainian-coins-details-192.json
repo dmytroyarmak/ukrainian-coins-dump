@@ -1,0 +1,20 @@
+{
+  "id": 192,
+  "name": "200 Years of Volodymyr Dal",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "19 November 2001",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to 200th birth anniversary of Volodymyr Dal (1801-1872), a writer, ethnographer and the author of the well-known Russian language vocabulary. Dal came from Luhansk region, which was represented in his pseudonym: Cossak of Luhansk.",
+  "averseDescription": "On the coin obverse in its centre there is a composition made of books, roll, sheets of paper and inkstand with a pen; above there is the small State Emblem of Ukraine, around the coin circumference there are inscriptions: УКРАЇНА, 2, ГРИВНІ, 2001 (Ukraine/ 2001 /2 hryvnia) and the Mint logotype of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse there is depicted Volodymyr Dal`s portrait, beneath depicted is a pen under which there is the conventionalized inscription: КОЗАК ЛУГАНСЬКИЙ (Cossack of Luhansk). Around the coin circumference there are inscriptions: ВОЛОДИМИР ДАЛЬ (Volodymyr Dal) and 1801-1872",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=192",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=192"
+}

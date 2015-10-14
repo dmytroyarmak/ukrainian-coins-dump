@@ -1,0 +1,20 @@
+{
+  "id": 167,
+  "name": "Hockey",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "6 July 2001",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5936,
+  "category": "Sport",
+  "generalDescription": "The coin is dedicated to the 19th Winter Olympic Games held in Salt Lake City (USA) in 2002",
+  "averseDescription": "On the coin obverse there is a semicircular conventionalized depiction of a snowflake fragment, upon which there are the inscriptions УКРАЇНА (Ukraine) and the small National Emblem of Ukraine; below and on the right, against the mirror background there are inscriptions:",
+  "reverseDescription": "On the coin reverse to the left, on the background of a glass and a snowflake there is a",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=167",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=167"
+}

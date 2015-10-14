@@ -1,0 +1,20 @@
+{
+  "id": 205,
+  "name": "Mykola Bazhan",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "26 July 2004",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to the birth centenary of Mykola P.Bazhan (1904 - 1983), a poet, editor, specialist in drama study, film critic, script writer, translator, state and public figure. He was born in the town of Kamianets-Podilskyi (now Khmelnytsk region). Mykola P.Bazhan was a man of great learning, a person of encyclopaedic knowledge, an academician of the Academy of Sciences of the UkrSSR (1951), an honoured worker of science of the UkrSSR (1966), whose sphere of interest covered almost all fields of cultural life of Ukraine. He was an initiator and scientific supervisor of the `Ukrainian Soviet Encyclopedia` publication. Though above all, Bazhan went down in the history of Ukraine as a poet. His poetry is characterized by sublimity of inflexions, epic sounding, predominance of poetic and civic motives",
+  "averseDescription": "On the coin obverse above there is the small National Emblem of Ukraine is depicted, under it there is УКРАЇНА (Ukraine) inscription; in the centre of the coin a composition made of a pencil, a pen with Pegasus` wing and a brush is depicted; to the right there are inscriptions: 2/ГРИВНІ, (2 hryvnia); beneath: 2004, the coin mintage year and the Mint logotype of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse a portrait of Mykola Bazhan is depicted, on its both sides there are semicircular inscriptions: left – МИКОЛА БАЖАН (Mykola Bazhan), right – 1904 – 1983, his years of life.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=205",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=205"
+}

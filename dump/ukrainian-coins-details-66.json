@@ -1,0 +1,20 @@
+{
+  "id": 66,
+  "name": "St.Michae`s Golden-Domed Cathedral",
+  "metal": "gold (Au 900)",
+  "denomination": "100 hryvnias",
+  "date": "28 December 1998",
+  "weight": 15.55,
+  "diameter": 25,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "smooth",
+  "mintage": 3000,
+  "categoryId": 5928,
+  "category": "Spiritual Treasures of Ukraine",
+  "generalDescription": "The commemorative coins are dedicated to the restoration of St.Michael`s Golden-Domed Cathedral, historical and architectural monument of Rus-Ukraine of 12th-18th centuries",
+  "averseDescription": "On the obverse of all the coins from this series within the frame made of a vegetal ornament of the Eucharist mosaic there is depicted the small National Emblem of Ukraine and the inscriptions: on the gold coin - УКРАЇНА, 100 ГРИВЕНЬ, 1998 (Ukraine/ 100/hryvnia/1998) and the designation of the metal- Au 900, its fineness, and 15,55, the coin weight in fineness; on the silver coin - УКРАЇНА, 10 ГРИВЕНЬ, 1998 (Ukraine/ 10/hryvnia/1998) and the designation of the metal- Ag 925, its fineness, and 31,1, the coin weight in fineness; on the German silver coin - УКРАЇНА, 5 ГРИВЕНЬ 1998 (Ukraine/ 5 /hryvnia/1998)",
+  "reverseDescription": "On reverse of all the coins from this series against the background of the picture of the St.Michael`s Golden-Domed Cathedral, there are the silhouettes of the twelve apostles from the symbolic communion scene of the Eucharist mosaic. On the coin there is the circular inscription: МИХАЙЛІВСЬКИЙ ЗОЛОТОВЕРХИЙ СОБОР XII СТ. (St.Michael`s Golden-Domed Cathedral of the 12th century)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=66",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=66"
+}

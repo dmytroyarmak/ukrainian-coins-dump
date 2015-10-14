@@ -1,0 +1,20 @@
+{
+  "id": 544,
+  "name": "Architectural Monuments of Ukraine",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "22 November 2012",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5925,
+  "category": "Architectural monuments of Ukraine",
+  "generalDescription": "The coin is dedicated to a monument of the Judaic sacral architecture and the defensive works, i.e. the Zhovkva Synagogue built in 1692 in the style of Renaissance. It is one of the largest Renaissance defensive structures in Europe.",
+  "averseDescription": "Obverse: above there is the Small Coat of Arms of Ukraine with the semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine); in the coin centre, within the circle, there is depicted a fragment of the synagogue building facade, to the right and left whereof conventionalized ornamental patterns are; the coin issue year indication 2012 is to the right; below there is the legend: П`ЯТЬ ГРИВЕНЬ (five hryvnias) on the albata coin; the logo of the National Bank of Ukraine Mint is to the left of the coin centre.",
+  "reverseDescription": "Reverse: against the background of the conventionalized decorative building plan there is depicted the synagogue; above there is the inscription СИНАГОГА в м. ЖОВКВА (synagogue in the city of Zhovkva).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=544",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=544"
+}

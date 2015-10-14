@@ -1,0 +1,20 @@
+{
+  "id": 319,
+  "name": "Mykola Vasylenko",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "11 July 2006",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to the 140th anniversary of birth of Mykola P.Vasylenko (1866 – 1935), a jurist, historian, statesman and public figure. Mykola Vasylenko was the founder of the Ukrainian legal history, he had done a lot for revival and development of the national education, science and culture, he advocated actively Independence of Ukraine, he was an academician (1920) and one of the founders of the Ukrainian Academy of Sciences.",
+  "averseDescription": "On the coin obverse in the centre there is the Small National Emblem of Ukraine, thereunder the year of coinage: 2006, there are also two semi-circular inscriptions: above - НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine), below - ДВІ ГРИВНІ (2 Hryvnias) and the logotype of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the coin reverse Mykola Vasylenko is portrayed against the background of a conventionalized ornamental pattern of the 1920-s, to the left there are his years of life: 1866 - 1935, there is also a semicircular inscription: МИКОЛА ВАСИЛЕНКО (Mykola Vasylenko).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=319",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=319"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 663,
+  "name": "Heavenly Hundred",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "18 February 2015",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 100000,
+  "categoryId": 6062,
+  "category": "Героям Майдану",
+  "generalDescription": "The commemorative coin is consecrated to the memory of the heroes that have become a symbol of the dignity; each of them has accomplished a feat having risen in rebellion against the violence and injustice, having sacrificed the most valuable - the life - for the new reviving Ukraine.",
+  "averseDescription": "On the coin obverse there are depicted: above, against the background of the pavement, the inscription Україна (Ukraine) with the Small Coat of Arms of Ukraine thereunder; put on the pavement carnations that symbolize the heroes` blood shed and the inscription ГЕРОЇ/НЕ ВМИРАЮТЬ! (Heroes / don`t die!); against the smooth background to the left there are the coin face value 5/ГРИВЕНЬ (5/hryvnias) and issue year 2015 indication, to the right - the mark of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the coin reverse there is the composition: the candles whose flames rise against the background of the blue and yellow (pad printing used) State Flag of Ukraine and symbolize the heroes` souls; above, against the smooth background, there is the legend: НЕБЕСНА/СОТНЯ (heavenly hundred).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=663",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=663"
+}

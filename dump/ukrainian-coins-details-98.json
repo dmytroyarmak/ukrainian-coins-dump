@@ -1,0 +1,20 @@
+{
+  "id": 98,
+  "name": "Paleolith",
+  "metal": "bimetal from precious metals (Ag 925 - Au 916)",
+  "denomination": "20 hryvnias",
+  "date": "20 December 2000",
+  "weight": 14.7,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "unspecified",
+  "edge": "sectoral corrugation",
+  "mintage": 3000,
+  "categoryId": 5924,
+  "category": "Monuments of ancient cultures of Ukraine",
+  "generalDescription": "The coin is dedicated to Paleolith, the eldest epoch in the history of mankind - the Stone Age- (in Ukraine - about 1 mln -10 thou years ago), which was the basis for development of the world civilization and culture. At the end of Paleolith period almost the whole territory of Ukraine had been developed. Cultural objects of note of that period testified to the rise of art and origin of first primary religious beliefs (Kamiyana Mohyla in Zaporizhia region, Mizyn site of late Paleolith period in Chernihiv region).",
+  "averseDescription": "On the coin obverse in the centre of the insert ring and against the background of rye ears there is depicted of a symbolic wheel of history with a falcon sitting on it, underneath it there is depicted a snake; above and to the left there is the small National Emblem of Ukraine; within the outer ring, there is depicted a human being (to the left) and a stone structure (to the right), as well as the logotype of the NBU Mint and the inscriptions: УКРАЇНА / 2000 / 20 / ГРИВЕНЬ (Ukraine/ 20/ hryvnia/ 2000).",
+  "reverseDescription": "On the coin reverse within the insert ring there is depicted a carved Mizyn bracelet made of mammoth tusk; within the outer ring there are petroglyphic drawings of primitives and the conventionalized inscription: ПАЛЕОЛІТ (Paleolith).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=98",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=98"
+}

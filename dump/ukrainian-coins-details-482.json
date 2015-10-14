@@ -1,0 +1,20 @@
+{
+  "id": 482,
+  "name": "The Bosporan Kingdom",
+  "metal": "gold (Au 900)",
+  "denomination": "100 hryvnias",
+  "date": "28 July 2010",
+  "weight": 31.1,
+  "diameter": 32,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "smooth with in-depth legends",
+  "mintage": 3000,
+  "categoryId": 5920,
+  "category": "Ancient Monuments of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to the Bosporan Kingdom (VI-th century B.C. - IV-th century A.D.), one of the ancient states on the Northern coast of the Black Sea, which originated from a league of Greek colonies, the cities on the shores of the Strait of Kerch, with its capital in Panticapaeum, and regularly minted its coins.",
+  "averseDescription": "On the obverse above there is the Small Coat of Arms of Ukraine with the coin issue year 2010 thereunder and semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine), beneath - the coin face value 100/ГРИВЕНЬ (100 hryvnias); in the centre there is a fragment of Panticapaeum ruins against the background of reconstructed appearance of the city with sphinxes to the left and right thereof.",
+  "reverseDescription": "On the reverse against the dark background there is depicted a sailing vessel with images of dolphins and decorative meander lines, symbolizing the water, thereunder; to the left and right of the vessel there are depicted fragments of buildings of the city; above, against the light background, there is depicted a gold coin, i.e. Panticapaeum stater with the legend БОСПОРСЬКЕ ЦАРСТВО (Bosporan Kingdom) thereunder.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=482",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=482"
+}

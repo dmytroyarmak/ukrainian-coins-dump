@@ -1,0 +1,20 @@
+{
+  "id": 195,
+  "name": "Viacheslav Chornovil",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "28 February 2003",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to Viacheslav M.Chornovil, an outstanding state and public figure, famous journalist, deputy of the Verkhovna Rada of Ukraine of the first and third convocation and the Hero of Ukraine",
+  "averseDescription": "On the coin obverse within the bead circle there is depicted the composition symbolizing the national idea of Unification of Ukraine: the small National Emblem of Ukraine in circumference of floral ornamentation which is supported by a lion and a Cossack holding a musket. There are also conventionalized inscriptions: УКРАЇНА, 2 ГРИВНІ, 2003 (Ukraine/ 2003 /2 hryvnia) and the Mint logotype of the National Bank of Ukraine",
+  "reverseDescription": "On the coin reverse there is a portrait of Viacheslav V.M.Chornovil and around the coin circumference there are circular inscriptions: В`ЯЧЕСЛАВ ЧОРНОВІЛ (Viacheslav Chornovil) and his years of life: 1937-1999.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=195",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=195"
+}

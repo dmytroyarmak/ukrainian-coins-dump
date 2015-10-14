@@ -1,0 +1,20 @@
+{
+  "id": 398,
+  "name": "Heorhii Voronyi",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "25 July 2008",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The commemorative coin “Heorhii Voronyi” with the face value of 2 hryvnias is dedicated to Heorhii Voronyi (spelled also as Georgy Voronoy or Georgi Voronoi), a great scientist, one of the most famous mathematicians of the world, which was born in 1868. Heorhii Feodosiiovych Voronyi has enriched mathematics with a number of important discoveries named after him. The range of use of his developments extends from the computer graphics to geometric simulation and artificial intelligence creation. Nowadays Voronyi’s works are used by specialists in different branches of learning from practically all countries of Europe, in USA, Canada, Japan, Australia, Hong Kong, New Zealand, etc.",
+  "averseDescription": "On the obverse there is the conventionalized image of Voronoi diagram; the Small National Emblem of Ukraine (above); legends 2008/2 ГРИВНІ (2008/2 hryvnias), the semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) on the left and the logotype of the National Bank of Ukraine Mint",
+  "reverseDescription": "On the reverse there is Heorhii Voronyi’s portrait (on the left) and Voronoi diagram (on the right), indication of the years of his life: 1868/1908 and the bow-shaped inscription: ГЕОРГІЙ ВОРОНИЙ (Heorhii Voronyi).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=398",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=398"
+}

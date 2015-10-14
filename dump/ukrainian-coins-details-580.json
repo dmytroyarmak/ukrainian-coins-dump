@@ -1,0 +1,20 @@
+{
+  "id": 580,
+  "name": "Nesterov`s Loop",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "28 August 2013",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The commemorative coin is dedicated to the centenary of performance of the loop-the-loop aerobatic maneuver known also as Nesterov`s loop. For the first time the maneuver was performed on August 27, 1913, by Pyotr Nesterov in the sky over Kyiv (Syrets military airfield) before numerous spectators` eyes. The event became de facto the beginning of aerobatics and substantial contribution to the aviation development.",
+  "averseDescription": "On the obverse there are: the semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) (above) with the Small Coat of Arms of Ukraine to the left; in the centre, against the background of the decorative military map case with the flight plan, Pyotr Nesterov`s portrait and the coin issue year indication 2013 to the right thereof; below - the coin face value 5 ГРИВЕНЬ (5 hryvnias) and the mark of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the reverse there is depicted a conventionalized composition of performance of the famous loop by Nesterov in a Nieuport monoplane; in the middle thereof - the inscription ПЕТЛЯ/1913/рік/КИЇВ/НЕСТЕРОВА (loop/1913/year/Kyiv/of Nesterov); below there are depicted the spectators as on the 1913 postcards from Kyiv.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=580",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=580"
+}

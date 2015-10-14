@@ -1,0 +1,20 @@
+{
+  "id": 109,
+  "name": "Polish Larch (Larix Polonica Racib)",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "26 November 2001",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 3000,
+  "categoryId": 5935,
+  "category": "Flora and Fauna",
+  "generalDescription": "Commemorative coin is dedicated to Larix Polonica Racib ( Pinaceae family), a disappearing species of valuable conifer wood which is widespread in Ukrainian Carpathians and on the endangered-species list of Ukraine. Larix Polonica Racib is cultivated in forests, parks and botanical gardens, in particular, in Kedrynskyi and Skyt Maniavskyi forest reserves",
+  "averseDescription": "On the coin obverse set in the wreath made of images of plants and animals there is engraved the small National Emblem of Ukraine and a four line legend: on the silver coin УКРАЇНА, 10, ГРИВЕНЬ, 2001- (Ukraine/ 10/ hryvnia/ 2001), as well as the designation of the metal, its fineness and its weight in fineness. On the coin there is also placed the logotype of the NBU Mint.",
+  "reverseDescription": "On the coin reverse there is depicted a pine branch with a cone and the circular inscriptions: МОДРИНА ПОЛЬСЬКА (Polish Larch) - above and LARIX POLONICA RACIB - below",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=109",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=109"
+}

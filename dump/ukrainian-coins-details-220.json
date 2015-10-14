@@ -1,0 +1,20 @@
+{
+  "id": 220,
+  "name": "250 Years to Kirovohrad",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "20 August 2004",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5931,
+  "category": "Ancient cities of Ukraine",
+  "generalDescription": "The coin is dedicated to the regional centre - the city of Kirovohrad (named as Elisavethrad before 1934). The origin of the city is associated with a foundation of St.Elisabeth fortress built upon the former lands of Zaporizhia Sich to defend southern borders of Ukraine against predatory attacks of Turks and Crimean Tatars",
+  "averseDescription": "On the coin obverse there are depicted two crossed cannons, above which there is the small National Emblem of Ukraine, the coin issue year: 2004, semicircular inscriptions: УКРАЇНА (Ukraine) (above) , 5/ ГРИВЕНЬ (5 hryvnia) (beneath), as well as the Mint logotype of the National Bank of Ukraine",
+  "reverseDescription": "On the coin reverse there is a panoramic view of the city, upon the background of which two dates– 1754 - 2004 are depicted, the coat of arm of the city, as well as a semicircular inscription КІРОВОГРАД (Kirovohrad)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=220",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=220"
+}

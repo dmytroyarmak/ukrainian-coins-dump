@@ -1,0 +1,20 @@
+{
+  "id": 250,
+  "name": "The Yaroslav the Wise National Law Academy of Ukraine",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "30 September 2004",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5919,
+  "category": "Higher educational establishments of Ukraine",
+  "generalDescription": "The coin is dedicated to 200th anniversary of the Yaroslav the Wise National Law Academy of Ukraine in the city of Kharkiv. The academy trains highly skilled specialists for governmental bodies, institutions of local governing, law machinery and various fields of legal practice. Such well-known men of law as M.Bazhanov, M.Baru, M.Bokarius, S.Vilnjansky, V.Horshenjov, M.Hrodzynsky, V.Kolmanov, S.Fuks, V.Shelestov, V.Yanovsky and many others worked at the academy. The authoritative schools in the field of jurisprudence are founded and function at the academy.",
+  "averseDescription": "On the coin obverse above there is depicted the small National Emblem of Ukraine (above, on the right), in the centre there are the Academy emblem and semicircular inscriptions: УКРАЇНА 2004 (Ukraine/ 2004) (left), 2 ГРИВНІ (2 hryvnia) (beneath, on the right) and the NBU Mint logotype.",
+  "reverseDescription": "On the coin reverse there is depicted the academy`s building and the inscriptions around the coin circumference - НАЦІОНАЛЬНА ЮРИДИЧНА АКАДЕМІЯ УКРАЇНИ ІМ. ЯРОСЛАВА МУДРОГО; (the Yaroslav the Wise National Law Academy of Ukraine) underneath the building depiction there is the two-lined inscription - 200 РОКІВ (200 Years)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=250",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=250"
+}

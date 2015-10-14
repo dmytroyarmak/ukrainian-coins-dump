@@ -1,0 +1,20 @@
+{
+  "id": 16,
+  "name": "First Participation in the Summer Olympic Games",
+  "metal": "german silver",
+  "denomination": "200000 karbovanets",
+  "date": "10 July 1996",
+  "weight": 14.35,
+  "diameter": 33,
+  "thickness": 1.85,
+  "quality": "proof-like",
+  "edge": "corrugated",
+  "mintage": 100000,
+  "categoryId": 5936,
+  "category": "Sport",
+  "generalDescription": "Jubilee coins dedicated to first participation in the summer Olympic Games",
+  "averseDescription": "On the coin obverse there is the in the middle the Small State Emblem of Ukraine. To its both sides, there are conventionalized depictions of the stands and leaves of laurels. Above, there is УКРАЇНА inscription, underneath: 1996, the year of issue. Underneath, around the coin circumference there is an inscription: 200000 КАРБОВАНЦІВ",
+  "reverseDescription": "On the coin reverse there is the octahedron in the centre, upon which a profile of a young woman with a flower wreath is depicted - symbolic image of Ukraine, taken from the Hryhoriy Narbut banknote of 1918. Above there are figures of five ancient athletes, underneath - figures of five modern sportsmen. To the octahedron right - there is the emblem of the National Olympic Committee of Ukraine, to its left - two line inscription АТЛАНТА XXVI.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=16",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=16"
+}

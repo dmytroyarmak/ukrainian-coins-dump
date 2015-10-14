@@ -1,0 +1,20 @@
+{
+  "id": 172,
+  "name": "Eagle Owl (Bubo Bubo)",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "23 July 2002",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5935,
+  "category": "Flora and Fauna",
+  "generalDescription": "The coin of is dedicated to Bubo Bubo, a sedentary and migratory bird - the only representative of this species in the fauna of Ukraine. Its prevailing population is concentrated mostly at the western parts of the country. This species is on the endangered-species list of Ukraine.",
+  "averseDescription": "On the coin obverse within the window frame, formed by depictions of various species of flora and fauna there is the small State Emblem of Ukraine is depicted and the four-line inscriptions:",
+  "reverseDescription": "On the coin reverse there is a depiction of Bubo bubo, sitting on a oak twig and circular inscriptions: ПУГАЧ and BUBO BUBO",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=172",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=172"
+}

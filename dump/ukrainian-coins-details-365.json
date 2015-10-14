@@ -1,0 +1,20 @@
+{
+  "id": 365,
+  "name": "Ivan Bohun",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "6 September 2007",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 5000,
+  "categoryId": 5937,
+  "category": "Heroes of Cossack Age",
+  "generalDescription": "The commemorative coin is dedicated to one of the prominent military and political figures, a close associate of Bohdan Khmelnytskyi in the Uprising against the Polish rule in Ukraine, 1648 – 1654, elected the Kalnyk (Vinnytsia) polkovnyk – Ivan Bohun.",
+  "averseDescription": "On the coin obverse there is a composition within the necklace circlet, which embodies the idea of Ukraine`s integrity: the heraldic figures of the Archangel Michael and the crowned lion (symbols of the cities of Kyiv and Lviv) are holding the Small National Emblem of Ukraine. Above the composition there is the coin issue year - 2007, over the beads there is a semicircular conventionalized inscription: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine), below - the coin face value -10 / ГРИВЕНЬ (10 Hryvnia), designation of the metal Ag 925, its weight in fineness - 31.1, and the logotype of the Mint of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse a battle scene is depicted to the right showing Cossacks in a defensive position, above which there is the inscription: XVII / ст.(17th century), to the left Ivan Bohun is portrayed in profile, underneath there is the conventionalized inscription: ІВАН / БОГУН (Ivan Bohun).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=365",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=365"
+}

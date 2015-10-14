@@ -1,0 +1,20 @@
+{
+  "id": 500,
+  "name": "Dniprova Chaika",
+  "metal": "silver (Ag 925)",
+  "denomination": "5 hryvnias",
+  "date": "25 October 2011",
+  "weight": 15.55,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "smooth with in-depth legends",
+  "mintage": 5000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to the 150th anniversary of birth of Dniprova Chaika (the pen name of Liudmyla Oleksiivna Vasylevska meaning the Gull of the Dnieper). She wrote quite a lot of short stories and poems as well as librettos of many children`s operas set to music by M.Lysenko, including such as `Koza-Dereza` (Naughty Little Goat), `Pan Kotskyi` (Skilful Puss), `Winter and Spring`.",
+  "averseDescription": "Obverse: above there is the Small Coat of Arms of Ukraine with the semicircular legend НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine); lower there is a conventionalized composition symbolizing Dniprova Chaika`s creative work and representing a girl near the sea; below there is the legend indicating the coin face value and issue year П`ЯТЬ ГРИВЕНЬ /2011 (five hryvnias / 2011).",
+  "reverseDescription": "Reverse: against the dark background there are a portrait of the authoress and the inscription ЛЮДМИЛА ВАСИЛЕВСЬКА (Liudmyla Vasylevska) to the left as an arch; under the portrait there are the legends ДНІПРОВА / ЧАЙКА (Dniprova / Chaika) and 1861/1927 (her life years); to the right against the light background there are the lines from Dniprova Chaika`s verse `The Star` `…Тої зірки, / того світу / Повік не забуду!` (That star, / that light / (I shall) never forget) together with the conventionalized image of the gull thereunder.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=500",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=500"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 288,
+  "name": "Vsevolod Holubovych",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "20 December 2005",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to 120th anniversary of Vsevolod Holubovych, a Ukrainian political figure and statesman who made a significant contribution to the process of Ukrainian state-and lawmaking. Since January 18, 1918 he had been the first chairman of the Council of people`s ministers and the minister of foreign affairs of the UPR (Ukrainian People`s Republic). In December 1917 - January 1918 he headed the UPR delegation at the peaceful summit talks with Germany, Austrian and Hungarian Republic, Bulgaria and Turkey.",
+  "averseDescription": "On the coin obverse in the centre there is the small National Emblem of Ukraine, under it there is 2005, the coin issue year, around the coin circumference there are inscriptions: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) (above), ДВІ ГРИВНІ (2/ hryvnia) (beneath) and the NBU Mint logotype",
+  "reverseDescription": "On the coin reverse a portrait of Vsevolod Holubovych (Vsevolod Holubovych) is depicted, around the coin circumference there is an inscription: ВСЕВОЛОД ГОЛУБОВИЧ (above) and 1885 – 1939, his years of life (beneath).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=288",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=288"
+}

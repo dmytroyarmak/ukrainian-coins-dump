@@ -1,0 +1,20 @@
+{
+  "id": 251,
+  "name": "Mykhailo Deregus",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "25 October 2004",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to 100th anniversary of Mykhailo Deregus (1904 - 1997), one of the brightest artists of the 20th century. Being a painter and graphic artist, pedagogue and cultural worker, Mykhailo Deregus managed to combine skillfully the generalized national tradition with achievements of the world culture. Well-known are his paintings of the Cossacks themes, and namely: `Khmelnytsk land`, `Pereyaslav Rada`, ` Thought on the Cossack Holota ` triptych, etc. His illustrations for works of Ivan Kotliarevskyi, Taras Shevchenko, Lesia Ukrainka, M.Gogol and M.Nekrasov have become significant attainment of the graphic art.",
+  "averseDescription": "On the coin obverse above there is depicted the small National Emblem of Ukraine, under it there is the three-lined inscription - УКРАЇНА 2 ГРИВНІ (Ukraine /2 hryvnia) and the Mint logotype of the National Bank of Ukraine. There inscriptions are depicted against the background of a palette with two brushes (right), beneath - 2004, the coin issue year.",
+  "reverseDescription": "On the coin reverse there is a profile portrait of Mykhailo Deregus and semicircular inscriptions: 1904 – 1997 МИХАЙЛО ДЕРЕГУС (Mykhailo Deregus)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=251",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=251"
+}

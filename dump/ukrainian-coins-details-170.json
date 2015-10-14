@@ -1,0 +1,20 @@
+{
+  "id": 170,
+  "name": "AN-225 `Mria`aircraft",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "30 April 2002",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5938,
+  "category": "Airplanes of Ukraine",
+  "generalDescription": "The coins launch a new series `Aircrafts of Ukraine` which is to reflect half a century activities of the Antonov Aviation Research and Engineering Complex, as well as achievements of modern Ukrainian aircraft construction. The coins are dedicated to the unique wide-body super heavy aircraft for transportation of cargo of overall dimensions weighting up to 250 tons that made its first flight in 1988. The aircraft has to its credit over 200 domestic and about 150 international aircraft records.",
+  "averseDescription": "On the coin obverse in the centre of the circle made of a string of beads there is depicted the small National Emblem of Ukraine within an allegoric composition of the sun, a conventionalized wing, birds and stars that symbolize the dream of mankind to reach outer space. There are the following inscriptions:",
+  "reverseDescription": "On the coin reverse there is represented a super heavy aircraft over a runway encircled with the inscriptions: ЛІТАКИ УКРАЇНИ (aircrafts of Ukraine) (above) and АН-225 `МРІЯ (AN-225 `Mria`) (beneath); the АН (AN) logotype being between the latter inscription.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=170",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=170"
+}

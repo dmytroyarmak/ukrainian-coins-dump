@@ -1,0 +1,20 @@
+{
+  "id": 256,
+  "name": "Pavlo Virsky",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "21 February 2005",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "uncirculated",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to the birth centenary of Pavlo Virsky, a Ukrainian choreographer, people` artist of the USSR, who had made great contribution to the dancing development enriching it with masterly choreographic elements. Working as a choreographer of Odesa, Dnipropetrovsk, Kharkiv and Kyiv opera and ballet theatres and as an art director (1955 - 1975) of Ensemble of Dancing (since 1977 called after him), Virsky maintained in his creative work principles of folk dance adaptation for the stage which was a very organic combination with a classic dance.",
+  "averseDescription": "On the coin obverse there are semicircular inscriptions: УКРАЇНА (Ukraine) (above), 2 ГРИВНІ (2 / hryvnia), and the Mint logotype of the National Bank of Ukraine (beneath); within the frame of a bead circle there is a composition symbolizing the Ukrainian dance - flowers with ribbons, in the middle of which there is the small National Emblem of Ukraine, above which there is the coin issue year - 2005",
+  "reverseDescription": "On the coin reverse there is a half face portrait of Virsky, left from which and in two lines there are his years of life: 1905 – 1975, beneath in a semicircle there is an inscription: ПАВЛО ВІРСЬКИЙ (Pavlo Virsky)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=256",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=256"
+}

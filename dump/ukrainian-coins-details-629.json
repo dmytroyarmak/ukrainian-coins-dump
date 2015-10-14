@@ -1,0 +1,20 @@
+{
+  "id": 629,
+  "name": "Volodymyr Serhieiev",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "11 April 2014",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to the 100th anniversary of the birth of Volodymyr Hryhorovych SERHIEIEV (Vladimir G.Sergeyev), an academician of the National Academy of Sciences of Ukraine, the chief designer of spacecraft and missile control systems and director of the Scientific Production Association `Electrical Appliance` (NPO `Electroprylad` or `Electropribor`, now `Khartron`), twice Hero of Socialist Labour.",
+  "averseDescription": "On the obverse there are: above the Small Coat of Arms of Ukraine with the semicircular inscription Національний банк України (National Bank of Ukraine); in the center there is the conventionalized composition: against the background of the printed circuit board of a micromodule there is depicted the Mir space station complex; to the right there is the coin issue year indication 2014, to the left - the mark of the National Bank of Ukraine Mint, below there is the coin face value 2 / ГРИВНІ (2 / hryvnias).",
+  "reverseDescription": "On the reverse there are Volodymyr Serhieiev`s portrait, an image of the reusable launch space system Energia-Buran, the semicircular inscription ВОЛОДИМИР СЕРГЄЄВ (Volodymyr Serhieiev) to the left and indication of the years of his life 1914/2009 to the right.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=629",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=629"
+}

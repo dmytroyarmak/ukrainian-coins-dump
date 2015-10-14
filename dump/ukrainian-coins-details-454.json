@@ -1,0 +1,20 @@
+{
+  "id": 454,
+  "name": "Scythian Gold. The Wild Boar",
+  "metal": "gold (Au 999,9)",
+  "denomination": "2 hryvnias",
+  "date": "24 December 2009",
+  "weight": 1.24,
+  "diameter": 13.92,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "smooth",
+  "mintage": 10000,
+  "categoryId": 5926,
+  "category": "The smallest golden coin",
+  "generalDescription": "The coin is dedicated to a jewelry artifact of the steppe Scythia - the gold figurine of the wild boar (end of the 4th century B.C.) from Khomyna Mohyla kurhan near the village of Nahirne, Dnipropetrovsk oblast`.",
+  "averseDescription": "On the coin obverse within the circle of beads there is the Small Coat of Arms of Ukraine, above it - 2009 (the coin issue year), on the left Au 999,9 (coin metal and its fineness) and on the right - the logotype of the National Bank of Ukraine Mint and the coin weight in fineness - 1,24; between the circle and the coin edge there are the semicircular legends: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) above and 2 ГРИВНІ (2 hryvnias) underneath.",
+  "reverseDescription": "On the coin reverse there is depicted the wild boar figurine with the semicircular inscription thereunder СКІФСЬКЕ ЗОЛОТО (Scythian Gold).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=454",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=454"
+}

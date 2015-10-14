@@ -1,0 +1,20 @@
+{
+  "id": 100,
+  "name": "Ice Dancing",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "30 January 2001",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 3000,
+  "categoryId": 5936,
+  "category": "Sport",
+  "generalDescription": "The coin is dedicated to the 19th Winter Olympic Games held in Salt Lake City (USA) in 2002",
+  "averseDescription": "On the coin obverse there is a semicircular conventionalized depiction of a snowflake fragment, upon which there are the inscriptions УКРАЇНА (Ukraine) and the small National Emblem of Ukraine; below and on the right, against the mirror background there are inscriptions:",
+  "reverseDescription": "On the coin reverse, above and on the left, against the mirror background there is a conventionalized depiction of a couple of dancing figure skaters; below and on the right there is engraved a snowflake against whose background there are inscriptions: ХІХ ЗИМОВІ ОЛІМПІЙСЬКІ ІГРИ / СОЛТ-ЛЕЙК-СІТІ / 2002 (19th Winter Olympic Games/ Salt Lake City/ 2002)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=100",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=100"
+}

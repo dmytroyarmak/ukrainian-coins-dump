@@ -1,0 +1,20 @@
+{
+  "id": 166,
+  "name": "LYNX LYNX",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "25 April 2001",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5935,
+  "category": "Flora and Fauna",
+  "generalDescription": "The coin is dedicated to Lynx lynx, which belongs to Carnivore species. This precious furry animal inhabits mostly the Ukrainian Carpathians. Its small population is preserved in the woods which are difficult of access in Manevytskyi district of Volyn region. Lynx is on the endangered-species list of Ukraine",
+  "averseDescription": "On the coin obverse set in the wreath made of images of plants and animals there is engraved the small National Emblem of Ukraine and a four line legend:",
+  "reverseDescription": "On the coin reverse there is a lynx depiction with a lynx-cub sitting on a twig and circular inscriptions: above - РИСЬ ЗВИЧАЙНА, beneath - LYNX LYNX.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=166",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=166"
+}

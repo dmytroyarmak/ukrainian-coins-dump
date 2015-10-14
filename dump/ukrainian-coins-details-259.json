@@ -1,0 +1,20 @@
+{
+  "id": 259,
+  "name": "Serhii Vsekhsviatskyi",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "26 April 2005",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to the birth centenary of Serhii Vsekhsviatskyi (1905 - 1984), an outstanding Ukrainian astronomical scientist. As the founder of the department for astronomy in the Kyiv national university (1939), Vsekhsviatskyi played a significant role in development and popularizing of the astronomy not only in Ukraine but in the whole world during 1939 - 1984. In 1960 Serhii Vsekhsviatskyi made a presumption on the presence of a cup around the Jupiter, which was really discovered in 1979; He proved the presence of the `solar wind`, which used to cause magnetic storms and had developed a dynamic theory of the`Solar corona`.",
+  "averseDescription": "On the coin obverse there is depicted a conventionalized depiction of the `solar wind` and a semi-circular inscription Україна (Ukraine) (left). Underneath there is depicted 2005, the coin issue year and the small National emblem of Ukraine; below - 2/ГРИВНІ (2 / hryvnia) and the Mint logotype of the National Bank of Ukraine (on the right).",
+  "reverseDescription": "On the coin reverse there is a half face portrait of Vsekhsviatsky on the background of a starry sky and a transiting comet (left); to the right there are semi-circular inscriptions СЕРГІЙ ВСЕХСВЯТСЬКИЙ (Serhii Vsekhsviatskyi) 1905-1984.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=259",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=259"
+}

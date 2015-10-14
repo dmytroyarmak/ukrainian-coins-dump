@@ -1,0 +1,20 @@
+{
+  "id": 85,
+  "name": "Askold",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "30 June 1999",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 10000,
+  "categoryId": 5930,
+  "category": "Ukraine",
+  "generalDescription": "The coin is dedicated to the Prince Askold (?-882), the ruler of the Kyiv state.",
+  "averseDescription": "On the coin obverse within a frame of an old-Rus pattern ornament there are depicted the sall National Emblem of Ukraine and the conventionalized inscriptions: УКРАЇНА, 10, ГРИВЕНЬ, 1999 (Ukraine/ 10/hryvnia/1999) and the designation of the metal, its fineness and the coin weight in fineness.",
+  "reverseDescription": "On the coin reverse against the background of a roll there is depicted the Prince, who leads his men at armsto a sea campaign. There are the following conventionalized inscriptions on the coin: АСКОЛЬД ІХ ст.( Askold / ІХc.) and КНЯЖА, УКРАЇНА (Princes of Ukraine)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=85",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=85"
+}

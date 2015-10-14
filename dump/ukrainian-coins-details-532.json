@@ -1,0 +1,20 @@
+{
+  "id": 532,
+  "name": "Furrier",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "16 August 2012",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5922,
+  "category": "Folk Crafts of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to one of the oldest crafts, i.e. processing of skins and fabrication of fur clothing, the trade of furrier.",
+  "averseDescription": "Obverse: above there are the Small Coat of Arms of Ukraine and the conventionalized legend: НАЦІОНАЛЬНИЙ / БАНК / УКРАЇНИ (National Bank of Ukraine) thereunder; in the centre there are depicted in a conventionalized manner two little birds and (to the left and right of them) the Ukrainian traditional clothing - kozhukhs (coats), shapkas (hats), keptars (jerkins); below there are the legends: 5/ГРИВЕНЬ/2012 (5 hryvnias) together with the National Bank of Ukraine Mint logo.",
+  "reverseDescription": "Reverse: on both coins against the background of leather laid along there is depicted the furrier at work; above against the conventionalized background there is the inscription КУШНІР (Furrier). To the left and right of the central composition there are conventionalized ornamental patterns.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=532",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=532"
+}

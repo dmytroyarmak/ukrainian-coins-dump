@@ -1,0 +1,20 @@
+{
+  "id": 68,
+  "name": "Kyiv-Pechersk Assumption Cathedral",
+  "metal": "gold (Au 900)",
+  "denomination": "100 hryvnias",
+  "date": "30 December 1998",
+  "weight": 15.55,
+  "diameter": 25,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "smooth",
+  "mintage": 3000,
+  "categoryId": 5928,
+  "category": "Spiritual Treasures of Ukraine",
+  "generalDescription": "coins are dedicated to restoration of the Assumption Cathedral of the Kyiv-Pechersk Lavra monastery, the outstanding historical and cultural monument of Ukraine of the 11th-18th centuries.",
+  "averseDescription": "On the coin obverse of all the coins from this series within the frame of a baroque ornament decorated with seraphim`s heads there is a depiction of the small National Emblem of Ukraine and a four line legend: on the gold coin - УКРАЇНА, 100 ГРИВЕНЬ, 1998 (Ukraine/ 100/hryvnia/1998) and the designation of the metal- Au 900, its fineness, and 15,55, the coin weight in fineness; on the silver coin - УКРАЇНА, 10 ГРИВЕНЬ, 1998 (Ukraine/ 10/hryvnia/1998) and the designation of the metal- Ag 925, its fineness, and 31,1, the coin weight in fineness; on the German silver coin - УКРАЇНА, 5 ГРИВЕНЬ 1998 (Ukraine/ 5 /hryvnia/1998)",
+  "reverseDescription": "On the coin reverse of all the coins from this series there are depicted the Assumption Cathedral destroyed in 1941 and its ruins, as well as the inscription: УСПЕНСЬКИЙ СOБОР КИЄВО-ПЕЧЕРСЬКОЇ ЛАВРИ Х1 СТ.( the Kyiv-Pechersk Assumption Cathedral of the 11th century)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=68",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=68"
+}

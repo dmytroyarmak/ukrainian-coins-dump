@@ -1,0 +1,20 @@
+{
+  "id": 106,
+  "name": "Khan Palace in Bakhchyserai",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "31 October 2001",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 3000,
+  "categoryId": 5925,
+  "category": "Architectural monuments of Ukraine",
+  "generalDescription": "The coin is dedicated to an architectural monument of 16th-18th centuries - the palace ensemble with light galleries, marble fountains and splendid rooms which was the seat of Crimean and Tartar Khans (now it is the historical and architectural museum in the town of Bakhchyserai)",
+  "averseDescription": "On the coin obverse within the frame of an oriental ornament decorating the Golden Fountain (1733) there is the small National Emblem of Ukraine and a fragment of a marble fountain plate, and the four-line inscriptions: УКРАЇНА, 10, ГРИВЕНЬ, 2001 (Ukraine/ 10 Hryvnia/ 2001), as well as the designation of the metal, its fineness and its weight in fineness. On the coin there is also the Mint logotype of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse there is depicted an inner court of the palace ensemble above which there is the date 16 - 18 centuries is depicted, as well as the inscriptions: ХАНСЬКИЙ ПАЛАЦ (Khan palace) above in circumference and БАХЧИСАРАЙ ( Bakhchyserai) - below.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=106",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=106"
+}

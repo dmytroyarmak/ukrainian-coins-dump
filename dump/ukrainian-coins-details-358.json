@@ -1,0 +1,20 @@
+{
+  "id": 358,
+  "name": "The Ostroh Bible",
+  "metal": "gold (Au 900)",
+  "denomination": "100 hryvnias",
+  "date": "15 November 2007",
+  "weight": 31.1,
+  "diameter": 32,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "sectoral corrugation",
+  "mintage": 4000,
+  "categoryId": 5928,
+  "category": "Spiritual Treasures of Ukraine",
+  "generalDescription": "The coin is dedicated to the Ostroh Bible (1581), a notable monument of book-printing - the first unabridged printed edition of the Bible in Old Church Slavonic. The prince Kostiantyn Ostrozkyi (Konstanty Ostrogski) was the initiator and Maecenas of the Ostroh Bible creation, who invited Ivan Fedorov (Fedorovych), a book-printer, to Ostroh to translate into reality his idea. The Bible of 1256 pages was printed in 1500 copies, which was a large edition for that time.",
+  "averseDescription": "On the obverse there is a conventionalized fragment of the first page ornamental headpiece of the Ostroh Bible, which serves as the background for the Small National Emblem of Ukraine (above) and for the inscription: НАЦІОНАЛЬНИЙ/ БАНК УКРАЇНИ (National Bank of Ukraine) in the center. Below there is the face value and the coin mintage year - 100 ГРИВЕНЬ (100 Hryvnia) / 2007, designation of the metal Au 900, weight in fineness 31.1, and the logotype of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the reverse there are conventionalized portraits of Ivan Fedorov and Kostiantyn Ostrozkyi holding the opened book and the conventionalized inscriptions: ОСТРОЗЬКА БІБЛІЯ (The Ostroh Bible) (above) and 1581(below).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=358",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=358"
+}

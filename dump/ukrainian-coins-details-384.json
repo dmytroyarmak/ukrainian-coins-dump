@@ -1,0 +1,20 @@
+{
+  "id": 384,
+  "name": "100 Years to Kyiv Zoo",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "23 April 2008",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 50000,
+  "categoryId": 5935,
+  "category": "Flora and Fauna",
+  "generalDescription": "The coin is dedicated to the Kyiv Zoological gardens, founded in 1908. This zoo contains over 3500 species of animals and birds. Work on acclimatization of many animals is conducted here, great attention is paid to breeding of animals in captivity, especially, of rare endangered species.",
+  "averseDescription": "On the coin obverse there is a composition depicting a circle divided by the wind rose into four parts symbolizing classes of mammalian, birds, fishes and amphibious, which are represented in the zoo; above there is the small National Emblem of Ukraine and inscriptions: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) (left, in semicircle), beneath: 2/ ГРИВНІ 2008 (2/Hryvnia 2008) and the NBU Mint logotype.",
+  "reverseDescription": "On the coin reverse there is a conventionalized inscription: ZOO, inside of which there is a depiction of a giraffe and inscriptions: 100/років (100 Years), КИЇВСЬКОМУ ЗООПАРКУ (to the Kyiv Zoo).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=384",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=384"
+}

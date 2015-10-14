@@ -1,0 +1,20 @@
+{
+  "id": 81,
+  "name": "Yaroslav the Wise",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "26 February 2001",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 3000,
+  "categoryId": 5930,
+  "category": "Ukraine",
+  "generalDescription": "The coin is dedicated to Yaroslav the Wise (1015-1054), the Great Kyivan Prince and statesman, during whose reign the Kyivan Rus had strengthened and expanded its borders; the international position of the state was reinforced; the Kyiv archdiocese was founded; the legal code of the Old Rus state was developed; the old-Rus culture had reached the peak of its development",
+  "averseDescription": "On the coin obverse within the frame of old-Rus ornament recreated from the pattern on the Yaroslav the Wise`s sarcophagus, there are depicted the small National Emblem of Ukraine and the conventionalized inscriptions: 2001 / УКРАЇНА / 10 / ГРИВЕНЬ (Ukraine/ 10/ hryvnia), the indication of the metal, its fineness, as well as the logotype of the NBU Mint.",
+  "reverseDescription": "On the coin reverse there is depicted the Yaroslav the Wise, holding the Kyiv Rus Code of Laws in his hand with the inscriptions: `ПРАВДА РУСЬСКАЯ` (Pravda/ Russkaia). On the left there is the mosaic depiction of Orante face and on the right there is depicted a cathedral. There are the conventionalized inscriptions: ЯРОСЛАВ / 1015 / МУДРИЙ / 1054 / (Yaroslav/ 1015/ the Wise/ 1054) - above, and КНЯЖА УКРАЇНА (Princes of Ukraine) - below.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=81",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=81"
+}

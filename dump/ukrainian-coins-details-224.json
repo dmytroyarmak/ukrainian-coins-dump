@@ -1,0 +1,20 @@
+{
+  "id": 224,
+  "name": "100 Years of Mykolayiv Zoo",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "21 August 2001",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5935,
+  "category": "Flora and Fauna",
+  "generalDescription": "Jubilee coin of 2 Hryvnias denomination is dedicated to one of the oldest zoological gardens of Ukraine. Mykolayiv Zoo is a member of European Association of zoological gardens and aquariums and is one of the leading centres of preservation and breeding of animals in captivity. In this zoo there are over 360 species available.",
+  "averseDescription": "On the coin obverse there is a depiction of Mawglie with a panther (the Zoo logotype); on the right there is placed the small National Emblem of Ukraine and inscriptions: УКРАЇНА, 2001, 2, ГРИВНІ (Ukraine/ 2001/ 2 /hryvnia/) and the Mint logotype of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse there are depicted representatives of fauna of all continents which live in the zoo and circular inscriptions: МИКОЛАЇВСЬКИЙ ЗООПАРК (Mykolaiv Zoo) (above), 100 РОКІВ (100 Years) (beneath).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=224",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=224"
+}

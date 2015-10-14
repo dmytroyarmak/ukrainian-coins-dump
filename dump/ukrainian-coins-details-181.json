@@ -1,0 +1,20 @@
+{
+  "id": 181,
+  "name": "Azov Dolphin",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "22 March 2004",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5935,
+  "category": "Flora and Fauna",
+  "generalDescription": "The coin is dedicated to a mammalian of cetacean species, a representative of the dolphin family in the fauna of Ukraine, a narrow-areal relic subspecies, the habitat of which is the Black Sea and the Sea of Azov. Azov Dolphin is on the endangered-species list of Ukraine and into the European Red-List.",
+  "averseDescription": "On the coin obverse set in the wreath made of images of plants and animals there is engraved the small National Emblem of Ukraine and a legend: on the coin made of German silver there is an inscription: УКРАЇНА, 2, ГРИВНІ, 2004 (Ukraine/ 2/ hryvnia/ 2004), as well as the logotype of the NBU Mint is depicted",
+  "reverseDescription": "On the coins reverse there are two Azov Dolphins are depicted with air bubbles in the water, beneath - there is a seaweeds and circular inscriptions: АЗОВКА (Azov Dolphin) (right) and PHOECENA PHOECENA RELICTA ABEL (left).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=181",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=181"
+}

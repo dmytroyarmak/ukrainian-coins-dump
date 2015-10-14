@@ -1,0 +1,20 @@
+{
+  "id": 438,
+  "name": "Chersonesos Taurica",
+  "metal": "gold (Au 900)",
+  "denomination": "100 hryvnias",
+  "date": "28 July 2009",
+  "weight": 31.1,
+  "diameter": 32,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "sectoral corrugation",
+  "mintage": 3000,
+  "categoryId": 5920,
+  "category": "Ancient Monuments of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to the ancient monument - Chersonesos Taurica (peninsula of the Tauri in Greek), a city-state on the south-western coast of Crimea established in 422 - 421 B.C. which struck own coins. The history of Chersonesos Taurica is subdivided into two periods: the antique (from the foundation to the 4th century A.D.) and the medieval one (5th-15th centuries). During two millennia, in the period of prosperity of ancient Greece, Rome and Byzantium, Chersonesos was an important commercial and cultural centre on the Crimean peninsula playing a special role in the mutual relations of Byzantium and Kyiv Rus.",
+  "averseDescription": "On the obverse above there are the Small Coat of Arms of Ukraine, the semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine), beneath - the coin face value 100/ГРИВЕНЬ (100 hryvnias), indication of the metal and its fineness Au 900, weight in fineness 31,1 and the coin issue year 2009 to the right, in the coin centre, above, there are depicted a fragment of an ancient structure and the signal bell tower, below, against the background of the meander, there are ancient coins of Chersonesos and a lamp (5th-6th centuries A.D.).",
+  "reverseDescription": "On the reverse in the foreground there are depicted the ruins of an ancient structure of Chersonesos, a basilica; in the background there is Saint Prince Volodymyr Cathedral built in the middle of the 19th century on the ruins of a medieval temple where the Prince Volodymyr is supposed to have been baptized; above there is the semicircular legend ХЕРСОНЕС ТАВРІЙСЬКИЙ (Chersonesos Taurica).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=438",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=438"
+}

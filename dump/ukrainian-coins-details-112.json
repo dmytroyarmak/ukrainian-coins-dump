@@ -1,0 +1,20 @@
+{
+  "id": 112,
+  "name": "Ivan Sirko",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "26 February 2002",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 3000,
+  "categoryId": 5937,
+  "category": "Heroes of Cossack Age",
+  "generalDescription": "Commemorative coins of 10 Hryvnias denomination is dedicated to Ivan Sirko, (year of birth is unknown - 1680), an outstanding Cossack military leader and active participant of liberation war of 1648 - 1654, the glorious koshovyi ataman (commandant of the headquarters of the Cossacks) of the Zaporizhian Sich, who used to organize successful campaigns against Crimean Khanate and Black Sea Turkish fortresses. Due to his inherent cleverness and great talent, became one of the most outstanding statesmen and diplomats of his time",
+  "averseDescription": "On the coin obverse there is the composition similar to the whole Series of coins which embodies the National idea of the Unified Ukraine: next to the small National Emblem of Ukraine, the emblematic figures of Michael the Archistrategos and crowned lion are located, which are symbols of Kyiv and Lviv Cities. Circular inscriptions are split by baroque ornamentation: УКРАЇНА, 10 ГРИВЕНЬ, 2002, (Ukraine/ 10 Hryvnia/ 2002), the designation of precious metal - Ag 925 and its weight in fineness - 31,1.",
+  "reverseDescription": "On the coin reverse set in the string of beads there is depicted the battle scene of Cossack horsemen under the command of Ivan Sirko (on the right) pursuing their enemies depicted against the background of the moon. Between the coin edge and the semicircle of beads there is a conventionalized inscription: ІВАН СІРКО (Ivan Sirko), the year of death being at the bottom of the coin (1680)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=112",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=112"
+}

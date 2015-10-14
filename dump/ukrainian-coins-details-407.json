@@ -1,0 +1,20 @@
+{
+  "id": 407,
+  "name": "Millennium of Mintage in Kyiv",
+  "metal": "silver (Ag 925)",
+  "denomination": "20 hryvnias",
+  "date": "5 November 2008",
+  "weight": 62.2,
+  "diameter": 50,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "sectoral corrugation",
+  "mintage": 5000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The commemorative coin is dedicated to the first mintage of Kyiv Rus coins, i.e. zlatnyky and sriblianyky, at the end of 10th- early 11th centuries during the rule of the Kyiv Prince Volodymyr the Great.",
+  "averseDescription": "On the obverse there are: the Small National Emblem of Ukraine and the semicircular legend НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) (above), composition of the coins: zlatnyk (local gilding, gold weight in fineness – 0.0004 g) and sriblianyky (on the right), a part of the ancient Kyiv reconstruction model (on the left), under which indication of the metal and its fineness – Ag 925, weight in fineness – 62.2, the coin face value – 20/ГРИВЕНЬ (20/hryvnias), the coin issue year - 2008 and the logotype of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the reverse there is depicted a scene of mintage and the inscription ТИСЯЧОЛІТТЯ/МОНЕТНОГО КАРБУВАННЯ/У КИЄВІ (Millennium/ of coin mintage / in Kyiv).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=407",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=407"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 86,
+  "name": "Anatolii Solovianenko",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "22 September 1999",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "uncirculated",
+  "edge": "corrugated",
+  "mintage": 25000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to Anatolii Solovianenko (1932-1999), a People`s artist of Ukraine, one of the best opera singers of the XX century.",
+  "averseDescription": "On the coin obverse in the middle of the beads circumference decoration, there is the small National Emblem of Ukraine framed with cranbery sprays and inscriptions: УКРАЇНА, 2 ГРИВНІ, 1999 (Ukraine/ 2 /hryvnia/ 1999).",
+  "reverseDescription": "On the coin reverse there is a depiction of a singer`s profile portrait. Around the coin circumference there is an inscription: АНАТОЛІЙ СОЛОВ`ЯНЕНКО, (Anatolii Solovianenko), 1932-1999.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=86",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=86"
+}

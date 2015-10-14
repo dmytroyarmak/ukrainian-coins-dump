@@ -1,0 +1,20 @@
+{
+  "id": 468,
+  "name": "Ukrainian Ballet",
+  "metal": "gold (Au 900)",
+  "denomination": "50 hryvnias",
+  "date": "30 April 2010",
+  "weight": 15.55,
+  "diameter": 25,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "smooth",
+  "mintage": 4000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The commemorative coin is dedicated to the Ukrainian ballet known all over the world thanks to many original and unique talents of its performers. Ukrainian by birth Serge Lifar named the Ukrainian ballet `the Ambassador Extraordinary and Plenipotentiary of Ukraine which has discovered to the world the magnanimous generosity and elevated artistic beauty of our talented people`.",
+  "averseDescription": "On the coin observe above there are the Small Coat of Arms of Ukraine and the semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine), beneath - the coin face value 50/ГРИВЕНЬ (50 hryvnias) and the coin issue year 2010; indication of the metal and its fineness Au 900, weight in fineness 15,55, and the logotype of the National Bank of Ukraine Mint (to the right); to the left there is a conventionalized image of the drop-curtain and to the right there are depicted the pointe shoes.",
+  "reverseDescription": "On the coin reverse there is a relief image of the ballerina against the man-dancer`s silhouette; to the left, against the background of conventionalized strips, there is the horizontal inscription УКРАЇНСЬКИЙ/БАЛЕТ (Ukrainian/Ballet).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=468",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=468"
+}

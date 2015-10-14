@@ -1,0 +1,20 @@
+{
+  "id": 340,
+  "name": "Year of the Pig",
+  "metal": "silver (Ag 925)",
+  "denomination": "5 hryvnias",
+  "date": "2 January 2007",
+  "weight": 15.55,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 15000,
+  "categoryId": 5921,
+  "category": "Oriental calendar",
+  "generalDescription": "The commemorative coin is dedicated to the Year of the Pig – one of the years of the Chinese calendar based on the twelve-year cycle of the Jupiter",
+  "averseDescription": "On the obverse of the coin, bordered by a primitivism style vegetative ornament, there are the inscriptions: УКРАЇНА / 5 / ГРИВЕНЬ (Ukraine, 5 hryvnias); above – the Small National Emblem of Ukraine with the inscription over it: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine), below – the year of the coin issue – 2007, the indication of metal and its fineness – Ag 925, weight in fineness – 15.55 and the logotype of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the reverse of the coin there is a lubok-print-like depiction of a pig surrounded by conventionalized vegetative ornaments. Above and below this composition there are small silhouettes of all 12 animal symbols of the Chinese calendar",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=340",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=340"
+}

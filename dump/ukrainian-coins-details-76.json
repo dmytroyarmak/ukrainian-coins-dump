@@ -1,0 +1,20 @@
+{
+  "id": 76,
+  "name": "Triple Jump",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "30 April 1999",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 15000,
+  "categoryId": 5936,
+  "category": "Sport",
+  "generalDescription": "Commemorative coin Triple Jump is dedicated to the 27th-Summer Olympic Games in Sydney (Australia) in 2000.",
+  "averseDescription": "On the obverse of the silver coin against the background of an unfolded cloth there are depicted the small National Emblem of Ukraine and a five line legend: УКРАЇНА (Ukraine), CITIUS ALTIUS FORTIUS, 10 ГРИВЕНЬ, 1999 (10 Hryvnia/1999), as well as the designation of the metal, its fineness and its weight in fineness.",
+  "reverseDescription": "On the reverse of both coins there are depicted a jumping sportswoman and the inscriptions: СІДНЕЙ (Sydney) 2000 and XXVII / ЛІТНІ / ОЛІМПІЙСЬКІ / ІГРИ (XXVII/Summer/Olympic/Games)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=76",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=76"
+}

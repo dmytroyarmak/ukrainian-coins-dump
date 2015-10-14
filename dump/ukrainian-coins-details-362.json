@@ -1,0 +1,20 @@
+{
+  "id": 362,
+  "name": "Chumatskyi Shliakh",
+  "metal": "silver (Ag 925)",
+  "denomination": "20 hryvnias",
+  "date": "26 October 2007",
+  "weight": 62.2,
+  "diameter": 50,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "sectoral corrugation",
+  "mintage": 5000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The coin is dedicated to Chumaky (sing. Chumak), the trade teamsters usual for Ukraine from the XVIIth to the middle of XIXth centuries, trafficking mainly in salt transported on oxen-driven carts. They were very popular among the Ukrainian people and even the Milky Way is called in Ukrainian Chumatskyi Shliakh (Chumaky`s Way). Their singular way of life and rich folklore attracted attention of many writers and artists. Among them: I. Kotliarevskyi, H. Kvitka-Osnovianenko, T. Shevchenko, Marko Vovchok, I. Nechui-Levytskyi, Panas Myrnyi, I. Aivazovsky, K. Trutovskyi, S. Vasylkivskyi and others.",
+  "averseDescription": "On the obverse in the center there is the wheel (hologram) with the fire spiral around symbolizing the Galaxy. There is the Small National Emblem of Ukraine above, underneath there are the legends: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) and 20 ГРИВЕНЬ (20 hryvnias) and the coin issue year: 2007 below, the indication of the metal, its fineness – Ag 925, and the coin weight in fineness 62.2 – as well as the logotype of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the reverse against the background of the night landscape there is the genre-piece: Chumaky`s carts, a Chumak with the tobacco-pipe, and the semi-circular legend - ЧУМАЦЬКИЙ ШЛЯХ (Chumatskyi Shliakh) below",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=362",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=362"
+}

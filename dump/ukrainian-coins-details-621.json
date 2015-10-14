@@ -1,0 +1,20 @@
+{
+  "id": 621,
+  "name": "XXII Olympic Winter Games",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "3 February 2014",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "smooth with in-depth legends",
+  "mintage": 2000,
+  "categoryId": 5936,
+  "category": "Sport",
+  "generalDescription": "The coin is dedicated to a sporting event that is important to the entire world - the XXII Olympic Winter Games, which are scheduled to take place in Sochi (Russia), and to participation of the national team of Ukraine therein. History of the Olympic Movement in Ukraine started in 1952 when our athletes as members of the Soviet Union team for the first time took part in the Games of the XV Olympiad in Helsinki. Since then Ukraine has been developing and strengthening its positions - our sportsmen and sportswomen have won 620 medals. The Olympic Movement in Ukraine is coordinated by the National Olympic Committee of Ukraine established on December 22, 1990. Support to the participation of Ukrainian athletes in the Olympics, popularization of mass sports and healthy lifestyle, strengthening of the international cooperation in sports are the main objective of its activities.",
+  "averseDescription": "Obverse: above there is the Small Coat of Arms of Ukraine with the semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine); against the background of blue and yellow corresponding to the national colours of the Ukrainian Olympic team (pad printing) there is a conventionalized image of mountains with the following legends thereunder: 2014 (coin issue year to the left), in the centre ЗИМОВІ/ОЛІМПІЙСЬКІ/ІГРИ (Winter / Olympic / Games) and the bow-shaped coin face value below: ДЕСЯТЬ ГРИВЕНЬ (ten hryvnias).",
+  "reverseDescription": "Reverse: bears the images of a biathlete (in the foreground) and representatives of winter sports (along the circumference).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=621",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=621"
+}

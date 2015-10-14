@@ -1,0 +1,20 @@
+{
+  "id": 194,
+  "name": "Leonid Hlibov",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "24 September 2002",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "On the coin obverse there are depicted a roll with the small National Emblem of Ukraine, inscriptions: 2002, УКРАЇНА, 2, ГРИВНІ (Ukraine/ 2002 /2 hryvnia) and characters of `Musicians` fable, as well as the Mint logotype of the National Bank of Ukraine.",
+  "averseDescription": "On the coin obverse there are depicted a roll with the small National Emblem of Ukraine, inscriptions: 2002, УКРАЇНА, 2, ГРИВНІ (Ukraine/ 2002 /2 hryvnia) and characters of `Musicians` fable, as well as the Mint logotype of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse there is a half-length portrait of Hlibov sitting at the table with a quill at his hand. Around the coin circumference there are inscriptions: ЛЕОНІД ГЛІБОВ (Leonid Hlibov) (to the right) and his years of life 1827-1893 (to the left",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=194",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=194"
+}

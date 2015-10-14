@@ -1,0 +1,20 @@
+{
+  "id": 234,
+  "name": "Icebreaker `Captain Belousov`",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "16 November 2004",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The coin is dedicated to the icebreaker which was put into operation 50 years ago and which is named after Mykhailo P. Belousov (1904 - 1946), an experienced polar captain and a Hero of the Soviet Union.",
+  "averseDescription": "On the coin obverse on the left there is a depiction of an anchor and a steering-wheel, against whose background there is the small National Emblem of Ukraine is depicted; in the middle there are engraved horizontal symbolic waves above which there are inscriptions: on the German silver coin: УКРАЇНА/2004 (above), 5/ГРИВЕНЬ (beneath). There is also the Mint logotype of the Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse there is a depiction of an ice-breaker amidst blocks of ice - in the foreground, and a boat in pure water - in the background; there are the inscriptions: `КАПІТАН БЄЛОУСОВ` (`Captain Belousov`), above in semicircle, and beneath - КРИГОЛАМ (Icebreaker) horizontal depiction against the mirror background",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=234",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=234"
+}

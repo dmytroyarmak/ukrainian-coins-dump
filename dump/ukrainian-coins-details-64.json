@@ -1,0 +1,20 @@
+{
+  "id": 64,
+  "name": "100 Years of the Kyiv Polytechnical Institute",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "28 August 1998",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "uncirculated",
+  "edge": "corrugated",
+  "mintage": 10000,
+  "categoryId": 5919,
+  "category": "Higher educational establishments of Ukraine",
+  "generalDescription": "The coin is dedicated to 100th anniversary of Kyiv Polytechnic Institute, today the National Technical University of Ukraine",
+  "averseDescription": "On the coin obverse there is a depiction of the small National Emblem of Ukraine in the center of a ornament interpreting the interior decorated the ceiling of the main institute building. Around the coin circumference there are inscriptions: УКРАЇНА, 2 ГРИВНІ, 1998 (Ukraine, 2 Hryvnia, 1998)",
+  "reverseDescription": "On the coin reverse there is a depiction of the main institute building (architect I.S.Kitner, 1901). Around the coin circumference there are inscriptions: КИЇВСЬКИЙ ПОЛІТЕХНІЧНИЙ ІНСТИТУТ, 100 РОКІВ (Kyiv Polytechnical Institute, 100 years)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=64",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=64"
+}

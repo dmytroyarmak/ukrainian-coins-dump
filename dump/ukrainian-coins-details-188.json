@@ -1,0 +1,20 @@
+{
+  "id": 188,
+  "name": "Kateryna Bilokur",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "28 November 2000",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to the birth centenary of Kateryna Bilokur (1900-1961), the glorious daughter of Ukrainian people, People`s artist of Ukraine, who devoted all her life to flowers, immortalizing them on her canvases, regarding them as eyes of the Earth, as her children",
+  "averseDescription": "On the coin obverse there is depicted the small National Emblem of Ukraine, a floral field, made to the motives of artist`s canvases, as well as the inscriptions: УКРАЇНА, (Ukraine) 2000, 2, ГРИВНІ (2 hryvnia) and the logotype of the Mint of the National Bank of Ukraine",
+  "reverseDescription": "On the coin reverse there is an artist`s half-length portrait, created to the motives of her self-portrait and circular inscriptions: КАТЕРИНА БІЛОКУР (Kateryna Bilokur) and 1900-1961.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=188",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=188"
+}

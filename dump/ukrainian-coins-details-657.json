@@ -1,0 +1,20 @@
+{
+  "id": 657,
+  "name": "Aquarius (Little Water Carrier)",
+  "metal": "silver (Ag 925)",
+  "denomination": "2 hryvnias",
+  "date": "19 January 2015",
+  "weight": 7.78,
+  "diameter": 26.5,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "smooth",
+  "mintage": 10000,
+  "categoryId": 6052,
+  "category": "Дитячий Зодіак",
+  "generalDescription": "The coin is dedicated to the children born under the sign of Aquarius.",
+  "averseDescription": "Obverse: above there is the Small Coat of Arms of Ukraine with the semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine); below there is the coin face value ДВІ ГРИВНІ (two hryvnias) under the conventionalized composition - against the background of the sky of stars there are the images of Zodiac signs, Moon and Sun; the coin issue year indication 2015 and the mark of the National Bank of Ukraine Mint are to the right, while to the left there is the indication of metal, its fineness and weight Ag 925/7,78.",
+  "reverseDescription": "On the coin reverse there is the conventionalized composition: to the left, on the lusterless surface, there is the sign of Aquarius; in the center there is depicted a boy on the grass; above there is the inscription ВОДОЛІЙЧИК (little water carrier).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=657",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=657"
+}

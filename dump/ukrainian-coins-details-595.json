@@ -1,0 +1,20 @@
+{
+  "id": 595,
+  "name": "Nestor Makhno",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "25 October 2013",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to Nestor Ivanovych MAKHNO, the leader of peasant insurrectional movement in the south of Ukraine, personifying a type of the popular hero engendered by the throes of revolution. His talent for organization and military abilities do not admit of doubt, the tactics of insurrectional guerrilla warfare elaborated by him have become a subject of the science of warfare research.",
+  "averseDescription": "Obverse: above there is the Small Coat of Arms of Ukraine with the semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) and the coin issue year indication 2013 thereunder; in the centre there are the images of tachanka (horse-drawn machine gun platform) in relief and horses (dark in colour); thereunder are the coin face value 2 ГРИВНІ (2 hryvnias) and the National Bank of Ukraine Mint mark (to the left).",
+  "reverseDescription": "Reverse: bears a portrait of Nestor Makhno (to the left) and wheatears with the inscriptions between them ЗЕМЛЯ / ВОЛЯ / НАРОДНА / ВЛАДА (land / liberty / people`s / power) (to the right); in between there is the vertical inscription НЕСТОР МАХНО (Nestor Makhno) with indication of the years of his life 1888/1934 to the left thereof.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=595",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=595"
+}

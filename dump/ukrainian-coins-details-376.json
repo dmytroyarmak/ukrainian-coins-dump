@@ -1,0 +1,20 @@
+{
+  "id": 376,
+  "name": "Scorpion",
+  "metal": "gold (Au 999,9)",
+  "denomination": "2 hryvnias",
+  "date": "17 December 2007",
+  "weight": 1.24,
+  "diameter": 13.92,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "smooth",
+  "mintage": 10000,
+  "categoryId": 5918,
+  "category": "Signs of the Zodiac",
+  "generalDescription": "The coin is dedicated to the Scorpion constellation.",
+  "averseDescription": "On the coin obverse of the 5 hryvnia coin in the center of the circle there is a conventionalized image of the Sun, on the left, on the right, above and underneath whereof – four lighted by it spheres symbolizing the seasons. On the left of the circle there is the Small National Emblem of Ukraine, on the right – the coin issue year: 2007, as well as the indication of the metal, its fineness – Ag 925, and the coin weight in fineness – 15.55; there are circumferential legends: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) above and 5 ГРИВЕНЬ (5 hryvnias) below, as well as the logotype of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the reverse of the coin of the 2 hryvnia coin a conventionalized image of Pisces with stars around it is depicted, among which – the Sign of Zodiac symbol.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=376",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=376"
+}

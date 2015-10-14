@@ -1,0 +1,20 @@
+{
+  "id": 189,
+  "name": "Mykhailo Ostrohradskyi",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "20 August 2001",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to 200 Years since the birth of Mykhailo Ostrohradskiy (24.09.1801-01.01.1862), an outstanding Ukrainian scientist-mathematician, a member of five Academies (Paris, St-Petersburg, Rome, Turin and USA) who was born in Pashenivka villiage of Poltava region. His main works are dedicated to mathematical analysis, theoretical mechanics and mathematical physics.",
+  "averseDescription": "On the coin obverse at the centre there is depicted a set of integral curves in the frame of reference, as well as the small National Emblem of Ukraine, a four- line inscription: УКРАЇНА, (Ukraine) 2001, 2, ГРИВНІ (2 hryvnia), and the Mint logotype of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse there is a portrait of Myhkailo Ostrohradskiy; to the left there is the fractional and rational function integral (the integration method of such functions is named after him), to the right there is a half-circular two-line inscription:1801-1862, МИХАЙЛО ОСТРОГРАДСЬКИЙ.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=189",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=189"
+}

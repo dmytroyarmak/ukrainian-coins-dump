@@ -1,0 +1,20 @@
+{
+  "id": 203,
+  "name": "Olexander Dovzhenko",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "5 July 2004",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to the 110th birth anniversary of Olexander Dovzhenko (1894 - 1956), the founder of the Ukrainian national school of cinematography, a writer and artist who was born in a town of Sosnytsia of Chernihiv region. Dovzhenko was a screen poet and philosopher, a brilliant film-director, whose feature film `Earth` is included to the 12 world best feature films. He was a distinctive romanticist writer, who was called the Homer of the XXth century",
+  "averseDescription": "On the coin obverse a boy is depicted standing in a boat with a candle in his hand and floating along the river of time to meet his destiny; on the left of the composition there is 2004, the coin issue year, under which there is small National Emblem of Ukraine and the coin face value- 2 ГРИВНІ, (2 hryvnia), on the right there is a semicircular inscription: УКРАЇНА (Ukraine) and the Mint logotype of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse there is a portrait of Olexander Dovzhenko , as well as the inscriptions: on the right: 1894-1956, his years of life; to the left in a semi-circle: ОЛЕКСАНДР ДОВЖЕНКО (Olexander Dovzhenko)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=203",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=203"
+}

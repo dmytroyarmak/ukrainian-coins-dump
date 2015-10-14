@@ -1,0 +1,20 @@
+{
+  "id": 625,
+  "name": "Yevhenii Berezniak",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "25 February 2014",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to the 100th anniversary of birth of Yevhenii Stepanovych Berezniak, a Hero of Ukraine, the military intelligence agent who saved the city of Krak?w (Republic of Poland) from the fascist invaders, a Candidate of Education, author of many scientific works.",
+  "averseDescription": "Obverse: above there is the Small Coat of Arms of Ukraine with the semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine); in the centre there is a conventionalized image of the cathedral towers and other buildings of Krak?w; to the right there is the coin face value 2 / ГРИВНІ (2 / hryvnias) with the coin issue year indication 2014, to the left - the mark of the National Bank of Ukraine Mint.",
+  "reverseDescription": "Reverse: there is a portrait of Yevhenii Berezniak against the background of the conventionalized map of Krak?w; to the left there are the inscriptions 1914/2013/ ЄВГЕНІЙ/БЕРЕЗНЯК/`ПАРОЛЬ/DUM SPIRO` (1914/2013 / Yevhenii / Berezniak / `password / dum spiro`).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=625",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=625"
+}

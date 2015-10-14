@@ -1,0 +1,20 @@
+{
+  "id": 640,
+  "name": "Ostap Vyshnia",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "29 October 2014",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin commemorates the 125th anniversary of the birth of Ostap Vyshnia (vyshnia is Ukrainian for cherry; real name - Pavlo Hubenko), a prominent Ukrainian writer and humorist who excelled at satirical articles and cartoons.",
+  "averseDescription": "Obverse: above there is the Small Coat of Arms of Ukraine with the semicircular inscription Національний банк України (National Bank of Ukraine); in the centre there is the composition representing the popular `Cherry Smiles` storybook adored by readers: the shotgun that is loaded with two cherries and the hat full of them; to the left there is the mark of the National Bank of Ukraine Mint; the coin issue year indication 2014 is to the right; below there is the coin face value ДВІ ГРИВНІ (two hryvnias).",
+  "reverseDescription": "Reverse bears Ostap Vyshnia`s portrait with representations of heroes of his works around him and the bow-shaped inscription ОСТАП ВИШНЯ (Ostap Vyshnia), above to the right, and indication of the years of his life 1889/1956, to the left.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=640",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=640"
+}

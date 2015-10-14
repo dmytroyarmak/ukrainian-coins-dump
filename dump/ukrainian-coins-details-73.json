@@ -1,0 +1,20 @@
+{
+  "id": 73,
+  "name": "Petro Sahaidachnyi",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "6 March 2000",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 10000,
+  "categoryId": 5937,
+  "category": "Heroes of Cossack Age",
+  "generalDescription": "Commemorative coin is dedicated to the Hetman of the Ukrainian Registered Cossacks in 1614-1616 and in 1620-1622 Petro Sahaidachnyi, an outstanding military leader, diplomat, advocate of the national culture and education.",
+  "averseDescription": "On the coin obverse there is the composition similar to the whole Series of coins which embodies the National idea of the Unified Ukraine: next to the small National Emblem of Ukraine, the emblematic figures of Michael the Archistrategos and crowned lion are located, which are symbols of Kyiv and L`viv Cities. Circular inscriptions are split by baroque ornamentation: УКРАЇНА, 10 ГРИВЕНЬ, 2000, (Ukraine/ 10 Hryvnia/ 2000), the designation of precious metal - Ag 925 and its weight in fineness - 31,",
+  "reverseDescription": "On the coin reverse there are depicted a battle scene on the Black Sea, oval Hetman`s portrait, date of his death and the circular conventionalized inscription: ПЕТРО КОНАШЕВИЧ САГАЙДАЧНИЙ (Petro Konashevych Sahaidachny)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=73",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=73"
+}

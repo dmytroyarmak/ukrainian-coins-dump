@@ -1,0 +1,20 @@
+{
+  "id": 93,
+  "name": "Freshwater Crab (Potamon Tauricum)",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "2 August 2000",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 5000,
+  "categoryId": 5935,
+  "category": "Flora and Fauna",
+  "generalDescription": "The coins are dedicated to the relic species - the only representative of Potamon Tauricum in the fauna of Ukraine",
+  "averseDescription": "On the coin obverse set in the wreath of images of plants and animals there is engraved the small National Emblem of Ukraine and the inscriptions:",
+  "reverseDescription": "On the coin reverse there is depicted a freshwater crab, a snail in the seaweeds and the circular inscriptions: ПРІСНОВОДНИЙ КРАБ / (Freshwater Crab) and POTAMON TAURICUM.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=93",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=93"
+}

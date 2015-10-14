@@ -1,0 +1,4678 @@
+[
+  {
+    "id": 686,
+    "name": "День захисника України",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "12 October 2015"
+  },
+  {
+    "id": 679,
+    "name": "PIDHIRTSI CASTLE",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "23 September 2015"
+  },
+  {
+    "id": 684,
+    "name": "OLESHKY SANDS",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "23 September 2015"
+  },
+  {
+    "id": 678,
+    "name": "PIDHIRTSI CASTLE",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "23 September 2015"
+  },
+  {
+    "id": 683,
+    "name": "OLESHKY SANDS",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "23 September 2015"
+  },
+  {
+    "id": 659,
+    "name": "Терезки",
+    "metal": "silver(Ag 925)",
+    "denomination": "2 hryvnias",
+    "date": "21 September 2015"
+  },
+  {
+    "id": 670,
+    "name": "400 років Національному університету `Києво-Могилянська академія`",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "15 September 2015"
+  },
+  {
+    "id": 671,
+    "name": "400 років Національному університету `Києво-Могилянська академія`",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "15 September 2015"
+  },
+  {
+    "id": 655,
+    "name": "Іван Карпенко-Карий",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "14 September 2015"
+  },
+  {
+    "id": 654,
+    "name": "Oleksandr Murashko",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "2 September 2015"
+  },
+  {
+    "id": 681,
+    "name": "475th Anniversary of the First Record of the City of Ternopil",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "20 August 2015"
+  },
+  {
+    "id": 680,
+    "name": "475th Anniversary of the First Record of the City of Ternopil",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "20 August 2015"
+  },
+  {
+    "id": 674,
+    "name": "75 Years of the Chernivtsi Oblast",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "5 August 2015"
+  },
+  {
+    "id": 685,
+    "name": "Volodymyr the Great, Grand Duke of Kyiv",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "24 July 2015"
+  },
+  {
+    "id": 677,
+    "name": "The Dormition Cathedral in the City of Volodymyr-Volynskyi",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "22 July 2015"
+  },
+  {
+    "id": 653,
+    "name": "Andrei Sheptytskyi",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "15 July 2015"
+  },
+  {
+    "id": 656,
+    "name": "Petro Prokopovych",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "8 July 2015"
+  },
+  {
+    "id": 673,
+    "name": "Kyiv Funicular",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "27 May 2015"
+  },
+  {
+    "id": 675,
+    "name": "70 Years of Victory. 1945 - 2015",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "5 May 2015"
+  },
+  {
+    "id": 668,
+    "name": "150 Years of the Odesa Illia Mechnikov National University",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "28 April 2015"
+  },
+  {
+    "id": 669,
+    "name": "150 Years of the Odesa Illia Mechnikov National University",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "28 April 2015"
+  },
+  {
+    "id": 672,
+    "name": "120 Years of Kharkiv Zoo",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "15 April 2015"
+  },
+  {
+    "id": 665,
+    "name": "Yakiv Hnizdovskyi",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "31 March 2015"
+  },
+  {
+    "id": 652,
+    "name": "Mykhailo Verbytskyi",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "4 March 2015"
+  },
+  {
+    "id": 664,
+    "name": "Euromaidan",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "18 February 2015"
+  },
+  {
+    "id": 663,
+    "name": "Heavenly Hundred",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "18 February 2015"
+  },
+  {
+    "id": 662,
+    "name": "Revolution of Dignity",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "18 February 2015"
+  },
+  {
+    "id": 658,
+    "name": "Pisces (Little Fish)",
+    "metal": "silver(Ag 925)",
+    "denomination": "2 hryvnias",
+    "date": "16 February 2015"
+  },
+  {
+    "id": 651,
+    "name": "Halshka Hulevychivna",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "27 January 2015"
+  },
+  {
+    "id": 657,
+    "name": "Aquarius (Little Water Carrier)",
+    "metal": "silver(Ag 925)",
+    "denomination": "2 hryvnias",
+    "date": "19 January 2015"
+  },
+  {
+    "id": 648,
+    "name": "Year of the Goat",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "10 December 2014"
+  },
+  {
+    "id": 650,
+    "name": "Vasyl Lypkivskyi",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "27 November 2014"
+  },
+  {
+    "id": 615,
+    "name": "75 Years of the Rivne Oblast",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "25 November 2014"
+  },
+  {
+    "id": 616,
+    "name": "75 Years of the Ternopil Oblast",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "25 November 2014"
+  },
+  {
+    "id": 614,
+    "name": "75 Years of the Lviv Oblast",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "25 November 2014"
+  },
+  {
+    "id": 613,
+    "name": "75 Years of the Ivano-Frankivsk Oblast",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "25 November 2014"
+  },
+  {
+    "id": 612,
+    "name": "75 Years of the Volyn Oblast",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "25 November 2014"
+  },
+  {
+    "id": 640,
+    "name": "Ostap Vyshnia",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "29 October 2014"
+  },
+  {
+    "id": 646,
+    "name": "70th Anniversary of Ukraine`s Liberation from Fascist Invaders",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "21 October 2014"
+  },
+  {
+    "id": 647,
+    "name": "70th Anniversary of Ukraine`s Liberation from Fascist Invaders",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "21 October 2014"
+  },
+  {
+    "id": 649,
+    "name": "500 Years of the Battle of Orsha",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "15 October 2014"
+  },
+  {
+    "id": 644,
+    "name": "700 Years of Ozbek Han Mosque and Madrasa",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "10 October 2014"
+  },
+  {
+    "id": 645,
+    "name": "700 Years of Ozbek Han Mosque and Madrasa",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "10 October 2014"
+  },
+  {
+    "id": 632,
+    "name": "Cyclamen coum (Kuznetzovii)",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "30 September 2014"
+  },
+  {
+    "id": 631,
+    "name": "Cyclamen coum (Kuznetzovii)",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "30 September 2014"
+  },
+  {
+    "id": 639,
+    "name": "Nicholas Roerich",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "25 September 2014"
+  },
+  {
+    "id": 643,
+    "name": "On Motifs of O.P.Dovzhenko`s Works",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "22 August 2014"
+  },
+  {
+    "id": 637,
+    "name": "Virgo (Little Girl)",
+    "metal": "silver(Ag 925)",
+    "denomination": "2 hryvnias",
+    "date": "18 August 2014"
+  },
+  {
+    "id": 642,
+    "name": "180 Years of Taras Shevchenko National University of Kyiv",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "31 July 2014"
+  },
+  {
+    "id": 641,
+    "name": "180 Years of Taras Shevchenko National University of Kyiv",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "31 July 2014"
+  },
+  {
+    "id": 638,
+    "name": "John James Hughes",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "18 July 2014"
+  },
+  {
+    "id": 636,
+    "name": "Leo (Little Lion)",
+    "metal": "silver(Ag 925)",
+    "denomination": "2 hryvnias",
+    "date": "18 July 2014"
+  },
+  {
+    "id": 635,
+    "name": "Cancer (Little Crayfish)",
+    "metal": "silver(Ag 925)",
+    "denomination": "2 hryvnias",
+    "date": "20 June 2014"
+  },
+  {
+    "id": 634,
+    "name": "220 Years of the City of Odesa",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "28 May 2014"
+  },
+  {
+    "id": 633,
+    "name": "220 Years of the City of Odesa",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "28 May 2014"
+  },
+  {
+    "id": 630,
+    "name": "Anna Yaroslavna",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "22 May 2014"
+  },
+  {
+    "id": 628,
+    "name": "Gemini (Little Twins)",
+    "metal": "silver(Ag 925)",
+    "denomination": "2 hryvnias",
+    "date": "20 May 2014"
+  },
+  {
+    "id": 627,
+    "name": "Taurus (Little Bull)",
+    "metal": "silver(Ag 925)",
+    "denomination": "2 hryvnias",
+    "date": "18 April 2014"
+  },
+  {
+    "id": 629,
+    "name": "Volodymyr Serhieiev",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "11 April 2014"
+  },
+  {
+    "id": 608,
+    "name": "70 Years of the Kherson Oblast",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "28 March 2014"
+  },
+  {
+    "id": 623,
+    "name": "75 Years of the Zaporizhia Oblast",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "25 March 2014"
+  },
+  {
+    "id": 624,
+    "name": "Aries (Little Ram)",
+    "metal": "silver(Ag 925)",
+    "denomination": "2 hryvnias",
+    "date": "20 March 2014"
+  },
+  {
+    "id": 619,
+    "name": "200th Anniversary of T.H.Shevchenko`s Birth",
+    "metal": "silver(Ag 999)",
+    "denomination": "50 hryvnias",
+    "date": "7 March 2014"
+  },
+  {
+    "id": 620,
+    "name": "200th Anniversary of T.H.Shevchenko`s Birth",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "7 March 2014"
+  },
+  {
+    "id": 625,
+    "name": "Yevhenii Berezniak",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "25 February 2014"
+  },
+  {
+    "id": 617,
+    "name": "Korsun-Shevchenkovsky Offensive",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "17 February 2014"
+  },
+  {
+    "id": 618,
+    "name": "Korsun-Shevchenkovsky Offensive",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "17 February 2014"
+  },
+  {
+    "id": 626,
+    "name": "Liberation of Nikopol from the Fascist Invaders",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "7 February 2014"
+  },
+  {
+    "id": 622,
+    "name": "XXII Olympic Winter Games",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "3 February 2014"
+  },
+  {
+    "id": 621,
+    "name": "XXII Olympic Winter Games",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "3 February 2014"
+  },
+  {
+    "id": 609,
+    "name": "75 Years of the Sumy Oblast",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "9 January 2014"
+  },
+  {
+    "id": 611,
+    "name": "75 Years of the Kirovohrad Oblast",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "9 January 2014"
+  },
+  {
+    "id": 610,
+    "name": "60 Years of the Cherkasy Oblast",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "3 January 2014"
+  },
+  {
+    "id": 605,
+    "name": "1120 Years of the City of Uzhhorod",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "25 December 2013"
+  },
+  {
+    "id": 606,
+    "name": "1120 Years of the City of Uzhhorod",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "25 December 2013"
+  },
+  {
+    "id": 607,
+    "name": "900th Anniversary of the Tale of Bygone Years",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "20 December 2013"
+  },
+  {
+    "id": 590,
+    "name": "Catherine`s Glory Ship of the Line",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "18 December 2013"
+  },
+  {
+    "id": 591,
+    "name": "Catherine`s Glory Ship of the Line",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "18 December 2013"
+  },
+  {
+    "id": 604,
+    "name": "Year of the Horse",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "10 December 2013"
+  },
+  {
+    "id": 597,
+    "name": "Mykola Amosov",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "26 November 2013"
+  },
+  {
+    "id": 596,
+    "name": "Borys Hrinchenko",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "22 November 2013"
+  },
+  {
+    "id": 577,
+    "name": "100 Years of P.I.Tchaikovsky National Music Academy of Ukraine",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "1 November 2013"
+  },
+  {
+    "id": 576,
+    "name": "100 Years of P.I.Tchaikovsky National Music Academy of Ukraine",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "1 November 2013"
+  },
+  {
+    "id": 592,
+    "name": "Battle of the Dnieper",
+    "metal": "silver(Ag 999)",
+    "denomination": "50 hryvnias",
+    "date": "30 October 2013"
+  },
+  {
+    "id": 593,
+    "name": "Battle of the Dnieper",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "30 October 2013"
+  },
+  {
+    "id": 595,
+    "name": "Nestor Makhno",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "25 October 2013"
+  },
+  {
+    "id": 594,
+    "name": "Olha Kobylianska",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "25 October 2013"
+  },
+  {
+    "id": 603,
+    "name": "Breakthrough of the German Defensive Line Wotan by the Soviet Army and Liberation of Melitopol",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "16 October 2013"
+  },
+  {
+    "id": 602,
+    "name": "Liberation of Donbas from the Fascist Invaders",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "30 September 2013"
+  },
+  {
+    "id": 601,
+    "name": "Liberation of Donbas from the Fascist Invaders",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "30 September 2013"
+  },
+  {
+    "id": 587,
+    "name": "150th Anniversary of the National Philharmonic Society of Ukraine",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "12 September 2013"
+  },
+  {
+    "id": 588,
+    "name": "150th Anniversary of the National Philharmonic Society of Ukraine",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "12 September 2013"
+  },
+  {
+    "id": 579,
+    "name": "House of a Poet (on the occasion of the Centenary of M.Voloshin`s House)",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "12 September 2013"
+  },
+  {
+    "id": 582,
+    "name": "650th Anniversary of the First Record of the City of Vinnytsia",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "28 August 2013"
+  },
+  {
+    "id": 581,
+    "name": "650th Anniversary of the First Record of the City of Vinnytsia",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "28 August 2013"
+  },
+  {
+    "id": 580,
+    "name": "Nesterov`s Loop",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "28 August 2013"
+  },
+  {
+    "id": 589,
+    "name": "World Rhythmic Gymnastics Championships",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "22 August 2013"
+  },
+  {
+    "id": 600,
+    "name": "Liberation of Kharkiv from the Fascist Invaders",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "21 August 2013"
+  },
+  {
+    "id": 599,
+    "name": "Liberation of Kharkiv from the Fascist Invaders",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "21 August 2013"
+  },
+  {
+    "id": 583,
+    "name": "Ukrainian Vyshyvanka",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "20 August 2013"
+  },
+  {
+    "id": 574,
+    "name": "Ukrainian Vyshyvanka",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "20 August 2013"
+  },
+  {
+    "id": 584,
+    "name": "1025th Anniversary of Christianization of Kyivan Rus",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "3 July 2013"
+  },
+  {
+    "id": 586,
+    "name": "1025th Anniversary of Christianization of Kyivan Rus",
+    "metal": "gold(Au 900)",
+    "denomination": "100 hryvnias",
+    "date": "3 July 2013"
+  },
+  {
+    "id": 585,
+    "name": "1025th Anniversary of Christianization of Kyivan Rus",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "3 July 2013"
+  },
+  {
+    "id": 598,
+    "name": "Centenary of the Kyiv Research Institute of Forensic Science",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "3 July 2013"
+  },
+  {
+    "id": 575,
+    "name": "World Youth Championship in Athletics",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "26 June 2013"
+  },
+  {
+    "id": 571,
+    "name": "Maternity",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "18 June 2013"
+  },
+  {
+    "id": 578,
+    "name": "75 Years of the Luhansk Oblast",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "28 May 2013"
+  },
+  {
+    "id": 569,
+    "name": "The House with Chimeras",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "15 May 2013"
+  },
+  {
+    "id": 570,
+    "name": "The House with Chimeras",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "15 May 2013"
+  },
+  {
+    "id": 572,
+    "name": "The Great Bustard",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "26 April 2013"
+  },
+  {
+    "id": 573,
+    "name": "The Great Bustard",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "26 April 2013"
+  },
+  {
+    "id": 568,
+    "name": "1 000 Years of the Liadova Cave Monastery",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "17 April 2013"
+  },
+  {
+    "id": 567,
+    "name": "Volodymyr Vernadsky",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "25 February 2013"
+  },
+  {
+    "id": 566,
+    "name": "200 Years of Semen Hulak-Artemovsky",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "15 February 2013"
+  },
+  {
+    "id": 565,
+    "name": "The Year of the Bat",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "15 December 2012"
+  },
+  {
+    "id": 561,
+    "name": "The Year of the Snake",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "10 December 2012"
+  },
+  {
+    "id": 564,
+    "name": "75 Years of the Zhytomyr Oblast",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "29 November 2012"
+  },
+  {
+    "id": 563,
+    "name": "75 Years of the Mykolaiv Oblast",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "29 November 2012"
+  },
+  {
+    "id": 534,
+    "name": "The Sterlet",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "27 November 2012"
+  },
+  {
+    "id": 533,
+    "name": "The Sterlet",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "27 November 2012"
+  },
+  {
+    "id": 543,
+    "name": "Zhovkva Synagogue",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "22 November 2012"
+  },
+  {
+    "id": 544,
+    "name": "Architectural Monuments of Ukraine",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "22 November 2012"
+  },
+  {
+    "id": 562,
+    "name": "Kacha - a Phase of the National Aviation History",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "22 November 2012"
+  },
+  {
+    "id": 548,
+    "name": "Ukrainian Lyric Song",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "29 October 2012"
+  },
+  {
+    "id": 547,
+    "name": "Ukrainian Lyric Song",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "29 October 2012"
+  },
+  {
+    "id": 560,
+    "name": "500 Years of the Town of Chyhyryn",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "10 October 2012"
+  },
+  {
+    "id": 559,
+    "name": "Mykhailo Kravchuk",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "20 September 2012"
+  },
+  {
+    "id": 537,
+    "name": "1 800 Years of the Town of Sudak",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "17 September 2012"
+  },
+  {
+    "id": 538,
+    "name": "1 800 Years of the Town of Sudak",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "17 September 2012"
+  },
+  {
+    "id": 539,
+    "name": "Antiquity Navigation",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "30 August 2012"
+  },
+  {
+    "id": 540,
+    "name": "Antiquity Navigation",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "30 August 2012"
+  },
+  {
+    "id": 556,
+    "name": "Paralympic Games",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "20 August 2012"
+  },
+  {
+    "id": 531,
+    "name": "Furrier",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "16 August 2012"
+  },
+  {
+    "id": 532,
+    "name": "Furrier",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "16 August 2012"
+  },
+  {
+    "id": 542,
+    "name": "Yeletskyi Holy Dormition Cloister",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "27 July 2012"
+  },
+  {
+    "id": 541,
+    "name": "Yeletskyi Holy Dormition Cloister",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "27 July 2012"
+  },
+  {
+    "id": 553,
+    "name": "Games of the XXX Olympiad",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "12 July 2012"
+  },
+  {
+    "id": 554,
+    "name": "Games of the XXX Olympiad",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "12 July 2012"
+  },
+  {
+    "id": 555,
+    "name": "80th Anniversary of Donetsk Oblast",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "5 July 2012"
+  },
+  {
+    "id": 545,
+    "name": "200 Years of the Nikitsky Botanical Garden",
+    "metal": "silver(Ag 999)",
+    "denomination": "50 hryvnias",
+    "date": "26 June 2012"
+  },
+  {
+    "id": 546,
+    "name": "200 Years of the Nikitsky Botanical Garden",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "26 June 2012"
+  },
+  {
+    "id": 530,
+    "name": "Sydir Kovpak",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "8 June 2012"
+  },
+  {
+    "id": 552,
+    "name": "UEFA EURO 2012TM Poland - Ukraine",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "4 June 2012"
+  },
+  {
+    "id": 529,
+    "name": "Malva",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "31 May 2012"
+  },
+  {
+    "id": 536,
+    "name": "350 Years of the City of Ivano-Frankivsk",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "26 April 2012"
+  },
+  {
+    "id": 535,
+    "name": "350 Years of the City of Ivano-Frankivsk",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "26 April 2012"
+  },
+  {
+    "id": 528,
+    "name": "Petro Kalnyshevskyi",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "29 March 2012"
+  },
+  {
+    "id": 525,
+    "name": "Glassblower",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "28 February 2012"
+  },
+  {
+    "id": 526,
+    "name": "Glassblower",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "28 February 2012"
+  },
+  {
+    "id": 527,
+    "name": "Oleksa Novakivskyi",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "28 February 2012"
+  },
+  {
+    "id": 524,
+    "name": "Yevhen Hrebinka",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "19 January 2012"
+  },
+  {
+    "id": 517,
+    "name": "UEFA Euro 2012TM Final Tournament. City of Kyiv",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "23 December 2011"
+  },
+  {
+    "id": 520,
+    "name": "UEFA Euro 2012TM Final Tournament. City of Kharkiv",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "23 December 2011"
+  },
+  {
+    "id": 519,
+    "name": "UEFA Euro 2012TM Final Tournament. City of Lviv",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "23 December 2011"
+  },
+  {
+    "id": 518,
+    "name": "UEFA Euro 2012TM Final Tournament. City of Donetsk",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "23 December 2011"
+  },
+  {
+    "id": 521,
+    "name": "UEFA Euro 2012TM Final Tournament",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "23 December 2011"
+  },
+  {
+    "id": 523,
+    "name": "UEFA European Football Championship - 2012 Final Tournament",
+    "metal": "gold(Au 999,9)",
+    "denomination": "500 hryvnias",
+    "date": "16 December 2011"
+  },
+  {
+    "id": 511,
+    "name": "The Year of the Dragon",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "16 December 2011"
+  },
+  {
+    "id": 522,
+    "name": "UEFA Euro 2012TM Final Tournament",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "1 December 2011"
+  },
+  {
+    "id": 516,
+    "name": "UEFA Euro 2012TM Final Tournament. City of Kharkiv",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "1 December 2011"
+  },
+  {
+    "id": 513,
+    "name": "UEFA Euro 2012TM Final Tournament. City of Kyiv",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "1 December 2011"
+  },
+  {
+    "id": 514,
+    "name": "UEFA Euro 2012TM Final Tournament. City of Donetsk",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "1 December 2011"
+  },
+  {
+    "id": 515,
+    "name": "UEFA Euro 2012TM Final Tournament. City of Lviv",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "1 December 2011"
+  },
+  {
+    "id": 509,
+    "name": "International Year of Forests",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "24 November 2011"
+  },
+  {
+    "id": 508,
+    "name": "International Year of Forests",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "24 November 2011"
+  },
+  {
+    "id": 512,
+    "name": "150 Years of Ukrainian Railroads",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "28 October 2011"
+  },
+  {
+    "id": 510,
+    "name": "20th Anniversary of the CIS",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "28 October 2011"
+  },
+  {
+    "id": 500,
+    "name": "Dniprova Chaika",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "25 October 2011"
+  },
+  {
+    "id": 329,
+    "name": "Mykhailo Yangel",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "7 October 2011"
+  },
+  {
+    "id": 503,
+    "name": "The Millennial Anniversary of Saint Sophia Cathedral Foundation",
+    "metal": "silver(Ag 999)",
+    "denomination": "50 hryvnias",
+    "date": "16 September 2011"
+  },
+  {
+    "id": 507,
+    "name": "Hryhorovych-Barskyi Family",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "26 August 2011"
+  },
+  {
+    "id": 506,
+    "name": "20 Years of Independence of Ukraine",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "19 August 2011"
+  },
+  {
+    "id": 505,
+    "name": "20 Years of Independence of Ukraine",
+    "metal": "silver(Ag 999)",
+    "denomination": "50 hryvnias",
+    "date": "19 August 2011"
+  },
+  {
+    "id": 504,
+    "name": "20 Years of Independence of Ukraine",
+    "metal": "gold(Au 900)",
+    "denomination": "100 hryvnias",
+    "date": "19 August 2011"
+  },
+  {
+    "id": 501,
+    "name": "Hopak",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "29 July 2011"
+  },
+  {
+    "id": 502,
+    "name": "Hopak",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "29 July 2011"
+  },
+  {
+    "id": 225,
+    "name": "ST. ANDREW`S CHURCH",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "20 July 2011"
+  },
+  {
+    "id": 211,
+    "name": "ST. ANDREW`S CHURCH",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "20 July 2011"
+  },
+  {
+    "id": 228,
+    "name": "Scythian Gold. The Deer",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "30 June 2011"
+  },
+  {
+    "id": 335,
+    "name": "800 years of the City of Zbarazh",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "30 June 2011"
+  },
+  {
+    "id": 227,
+    "name": "15 Years of the Constitution of Ukraine",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "30 May 2011"
+  },
+  {
+    "id": 26,
+    "name": "The 50th Anniversary of Establishment of the Taras Shevchenko National Prize of Ukraine",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "12 May 2011"
+  },
+  {
+    "id": 184,
+    "name": "The Kobzar`s Going to His Last Home (on the occasion of the 150th Anniversary of T.H.Shevchenko`s Re",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "29 April 2011"
+  },
+  {
+    "id": 186,
+    "name": "Oleksandr Bohomolets",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "29 April 2011"
+  },
+  {
+    "id": 191,
+    "name": "Heorhii Berehovyi",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "8 April 2011"
+  },
+  {
+    "id": 27,
+    "name": "Peresopnytsia Gospels",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "30 March 2011"
+  },
+  {
+    "id": 28,
+    "name": "Smith",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "28 March 2011"
+  },
+  {
+    "id": 29,
+    "name": "Smith",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "28 March 2011"
+  },
+  {
+    "id": 25,
+    "name": "On Motifs of Lesya Ukrainka`s Work ``The Forest Song``",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "28 February 2011"
+  },
+  {
+    "id": 499,
+    "name": "Pavlo Tychyna",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "20 January 2011"
+  },
+  {
+    "id": 491,
+    "name": "350 Years of the Ivan Franko National University of Lviv",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "20 January 2011"
+  },
+  {
+    "id": 490,
+    "name": "350 Years of the Ivan Franko National University of Lviv",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "20 January 2011"
+  },
+  {
+    "id": 492,
+    "name": "The Year of the Cat (Rabbit, Hare)",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "5 January 2011"
+  },
+  {
+    "id": 489,
+    "name": "Ivan Fedorov",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "28 December 2010"
+  },
+  {
+    "id": 496,
+    "name": "Cossack Boat",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "20 December 2010"
+  },
+  {
+    "id": 495,
+    "name": "Cossack Boat",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "20 December 2010"
+  },
+  {
+    "id": 493,
+    "name": "Island of Khortytsia in the Dnieper - the Cradle of Ukrainian Cossacks",
+    "metal": "silver(Ag 999)",
+    "denomination": "50 hryvnias",
+    "date": "20 December 2010"
+  },
+  {
+    "id": 498,
+    "name": "Potter",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "6 December 2010"
+  },
+  {
+    "id": 497,
+    "name": "Potter",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "6 December 2010"
+  },
+  {
+    "id": 463,
+    "name": "Tarnovskyi Family",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "29 November 2010"
+  },
+  {
+    "id": 462,
+    "name": "Johann Georg Pinzel",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "29 November 2010"
+  },
+  {
+    "id": 494,
+    "name": "Hetman Danylo Apostol",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "29 November 2010"
+  },
+  {
+    "id": 488,
+    "name": "Chervona Kalyna",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "24 September 2010"
+  },
+  {
+    "id": 487,
+    "name": "Ukrainian Medical Association",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "24 September 2010"
+  },
+  {
+    "id": 486,
+    "name": "125 Years of the National Technical University ``Kharkiv Polytechnic Institute``",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "30 August 2010"
+  },
+  {
+    "id": 485,
+    "name": "125 Years of the National Technical University ``Kharkiv Polytechnic Institute``",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "30 August 2010"
+  },
+  {
+    "id": 484,
+    "name": "Weaver",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "28 July 2010"
+  },
+  {
+    "id": 483,
+    "name": "Weaver",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "28 July 2010"
+  },
+  {
+    "id": 479,
+    "name": "925 years of the City of Lutsk",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "28 July 2010"
+  },
+  {
+    "id": 481,
+    "name": "SPAS",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "28 July 2010"
+  },
+  {
+    "id": 482,
+    "name": "The Bosporan Kingdom",
+    "metal": "gold(Au 900)",
+    "denomination": "100 hryvnias",
+    "date": "28 July 2010"
+  },
+  {
+    "id": 480,
+    "name": "SPAS",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "28 July 2010"
+  },
+  {
+    "id": 478,
+    "name": "20th Anniversary of Approval of the Declaration of State Sovereignty of Ukraine",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "15 July 2010"
+  },
+  {
+    "id": 475,
+    "name": "600 Years of the Battle of Grunwald",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "14 July 2010"
+  },
+  {
+    "id": 474,
+    "name": "Zymne Holy Mountain Cloister of the Dormition",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "30 June 2010"
+  },
+  {
+    "id": 476,
+    "name": "Stipa Ucrainica",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "29 June 2010"
+  },
+  {
+    "id": 477,
+    "name": "Stipa Ucrainica",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "29 June 2010"
+  },
+  {
+    "id": 473,
+    "name": "Ivan Kozhedub",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "1 June 2010"
+  },
+  {
+    "id": 472,
+    "name": "Zarvanytsia - Maria`s Spiritual Centre",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "28 May 2010"
+  },
+  {
+    "id": 470,
+    "name": "165 Years of the Lviv Polytechnic National University",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "28 May 2010"
+  },
+  {
+    "id": 471,
+    "name": "165 Years of the Lviv Polytechnic National University",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "28 May 2010"
+  },
+  {
+    "id": 468,
+    "name": "Ukrainian Ballet",
+    "metal": "gold(Au 900)",
+    "denomination": "50 hryvnias",
+    "date": "30 April 2010"
+  },
+  {
+    "id": 466,
+    "name": "Bee",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "25 March 2010"
+  },
+  {
+    "id": 467,
+    "name": "Mykola Pyrohov",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "25 March 2010"
+  },
+  {
+    "id": 465,
+    "name": "3rd Centenary of the Constitution of Pylyp Orlyk",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "25 March 2010"
+  },
+  {
+    "id": 469,
+    "name": "The First Centenary of Ice Hockey in Ukraine",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "25 March 2010"
+  },
+  {
+    "id": 461,
+    "name": "Yevhen Paton",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "5 February 2010"
+  },
+  {
+    "id": 460,
+    "name": "Oksana Petrusenko",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "5 February 2010"
+  },
+  {
+    "id": 458,
+    "name": "165th Anniversary of the Astronomical Observatory of Kyiv National University",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "28 January 2010"
+  },
+  {
+    "id": 459,
+    "name": "IVAN PULIUI",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "25 January 2010"
+  },
+  {
+    "id": 464,
+    "name": "XXI Olympic Winter Games",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "25 January 2010"
+  },
+  {
+    "id": 456,
+    "name": "Year of the Tiger",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "5 January 2010"
+  },
+  {
+    "id": 448,
+    "name": "Cartwright",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "28 December 2009"
+  },
+  {
+    "id": 447,
+    "name": "Cartwright",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "28 December 2009"
+  },
+  {
+    "id": 454,
+    "name": "Scythian Gold. The Wild Boar",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "24 December 2009"
+  },
+  {
+    "id": 457,
+    "name": "70th Anniversary of Zaporizhzhia Oblast Creation",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "17 December 2009"
+  },
+  {
+    "id": 453,
+    "name": "75 Years of Kyiv Academic Operetta Theatre",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "30 November 2009"
+  },
+  {
+    "id": 429,
+    "name": "Kost` Levytskyi",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "26 November 2009"
+  },
+  {
+    "id": 451,
+    "name": "Galagan Family",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "29 October 2009"
+  },
+  {
+    "id": 452,
+    "name": "225 Years of Lviv National Medical University",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "28 October 2009"
+  },
+  {
+    "id": 449,
+    "name": "Bohdan-Ihor Antonych",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "28 October 2009"
+  },
+  {
+    "id": 455,
+    "name": "International Year of Astronomy",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "14 October 2009"
+  },
+  {
+    "id": 431,
+    "name": "International Year of Astronomy",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "14 October 2009"
+  },
+  {
+    "id": 443,
+    "name": "Holy Spirit Church in Rohatyn",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "29 September 2009"
+  },
+  {
+    "id": 445,
+    "name": "Volodymyr Ivasiuk",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "29 September 2009"
+  },
+  {
+    "id": 428,
+    "name": "Ivan Kotliarevskyi",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "22 September 2009"
+  },
+  {
+    "id": 450,
+    "name": "220 Years of the City of Mykolaiv",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "7 September 2009"
+  },
+  {
+    "id": 427,
+    "name": "Nikolay Bogolyubov",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "20 August 2009"
+  },
+  {
+    "id": 446,
+    "name": "60 Years of the Council of Europe",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "20 August 2009"
+  },
+  {
+    "id": 444,
+    "name": "On Motifs of N.V.Gogol`s Work `Evenings on a Farm Near Dykanka",
+    "metal": "silver(Ag 999)",
+    "denomination": "50 hryvnias",
+    "date": "10 August 2009"
+  },
+  {
+    "id": 442,
+    "name": "Bokorash",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "28 July 2009"
+  },
+  {
+    "id": 441,
+    "name": "Bokorash",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "28 July 2009"
+  },
+  {
+    "id": 438,
+    "name": "Chersonesos Taurica",
+    "metal": "gold(Au 900)",
+    "denomination": "100 hryvnias",
+    "date": "28 July 2009"
+  },
+  {
+    "id": 439,
+    "name": "70th Anniversary of Proclamation of the Republic of Carpatho-Ukraine",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "20 July 2009"
+  },
+  {
+    "id": 437,
+    "name": "350-th Anniversary of the Battle of Konotop",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "19 June 2009"
+  },
+  {
+    "id": 432,
+    "name": "International Year of Astronomy",
+    "metal": "silver(Ag 999)",
+    "denomination": "100 hryvnias",
+    "date": "15 June 2009"
+  },
+  {
+    "id": 440,
+    "name": "225 years of the City of Simferopol",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "1 June 2009"
+  },
+  {
+    "id": 425,
+    "name": "Symon Petliura",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "29 May 2009"
+  },
+  {
+    "id": 424,
+    "name": "Igor Sikorsky",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "29 May 2009"
+  },
+  {
+    "id": 426,
+    "name": "Borys Martos",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "29 May 2009"
+  },
+  {
+    "id": 434,
+    "name": "Turtle",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "29 April 2009"
+  },
+  {
+    "id": 436,
+    "name": "60th Anniversary of T.H.Shevchenko National Museum",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "29 April 2009"
+  },
+  {
+    "id": 433,
+    "name": "Ukrainian Pysanka",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "16 April 2009"
+  },
+  {
+    "id": 435,
+    "name": "Ukrainian Pysanka",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "16 April 2009"
+  },
+  {
+    "id": 430,
+    "name": "Surb Khach Monastery",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "30 March 2009"
+  },
+  {
+    "id": 422,
+    "name": "Andrii Livytskyi",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "27 March 2009"
+  },
+  {
+    "id": 423,
+    "name": "70th Anniversary of Proclamation of the Republic of Carpatho-Ukraine",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "13 March 2009"
+  },
+  {
+    "id": 421,
+    "name": "Nikolai Gogol",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "27 February 2009"
+  },
+  {
+    "id": 420,
+    "name": "SHOLEM ALEICHEM",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "27 February 2009"
+  },
+  {
+    "id": 418,
+    "name": "Pavlo Chubynskyi",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "14 January 2009"
+  },
+  {
+    "id": 419,
+    "name": "The Year of the Ox",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "5 January 2009"
+  },
+  {
+    "id": 401,
+    "name": "Maria Prymachenko",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "26 December 2008"
+  },
+  {
+    "id": 416,
+    "name": "Church Complex in the Village of Buky",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "25 December 2008"
+  },
+  {
+    "id": 414,
+    "name": "Vasyl Symonenko",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "25 December 2008"
+  },
+  {
+    "id": 415,
+    "name": "975 Years of the City of Bohuslav",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "5 December 2008"
+  },
+  {
+    "id": 417,
+    "name": "140 Years of Taras Shevchenko All-Ukrainian “Prosvita” Society",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "1 December 2008"
+  },
+  {
+    "id": 400,
+    "name": "Hryhorii Kvitka-Osnovianenko",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "18 November 2008"
+  },
+  {
+    "id": 409,
+    "name": "Hlukhiv",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "10 November 2008"
+  },
+  {
+    "id": 407,
+    "name": "Millennium of Mintage in Kyiv",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "5 November 2008"
+  },
+  {
+    "id": 408,
+    "name": "90th Anniversary of Establishment of the West Ukrainian People’s Republic",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "3 November 2008"
+  },
+  {
+    "id": 410,
+    "name": "Decennial of Entry of the Historical Centre of the City of Lviv in the UNESCO World Heritage List",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "24 October 2008"
+  },
+  {
+    "id": 413,
+    "name": "In Honor of Ecumenical Patriarch Bartholomew I Visit to Ukraine",
+    "metal": "silver(Ag 999)",
+    "denomination": "50 hryvnias",
+    "date": "20 October 2008"
+  },
+  {
+    "id": 412,
+    "name": "On the Way to the Independence: Ukrainian-Swedish Politico-Military Alliances of the XVIIth – XVIIIt",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "29 September 2008"
+  },
+  {
+    "id": 411,
+    "name": "725 years of the City of Rivne",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "19 September 2008"
+  },
+  {
+    "id": 405,
+    "name": "Libra",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "19 September 2008"
+  },
+  {
+    "id": 406,
+    "name": "Libra",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "19 September 2008"
+  },
+  {
+    "id": 402,
+    "name": "175 years of the State Arboretum “Trostianets",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "15 September 2008"
+  },
+  {
+    "id": 404,
+    "name": "Christianization of Kievan Rus",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "9 September 2008"
+  },
+  {
+    "id": 399,
+    "name": "Nataliia Uzhvii",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "9 September 2008"
+  },
+  {
+    "id": 392,
+    "name": "Virgo",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "20 August 2008"
+  },
+  {
+    "id": 391,
+    "name": "Virgo",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "20 August 2008"
+  },
+  {
+    "id": 382,
+    "name": "Tereschenko Family",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "25 July 2008"
+  },
+  {
+    "id": 398,
+    "name": "Heorhii Voronyi",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "25 July 2008"
+  },
+  {
+    "id": 395,
+    "name": "Leo",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "18 July 2008"
+  },
+  {
+    "id": 394,
+    "name": "Leo",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "18 July 2008"
+  },
+  {
+    "id": 403,
+    "name": "Christianization of Kievan Rus",
+    "metal": "silver(Ag 999)",
+    "denomination": "100 hryvnias",
+    "date": "17 July 2008"
+  },
+  {
+    "id": 396,
+    "name": "Roman Shukhevych",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "26 June 2008"
+  },
+  {
+    "id": 387,
+    "name": "850 years of Sniatyn",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "26 June 2008"
+  },
+  {
+    "id": 389,
+    "name": "Cancer",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "20 June 2008"
+  },
+  {
+    "id": 390,
+    "name": "Cancer",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "20 June 2008"
+  },
+  {
+    "id": 397,
+    "name": "225 Years to the city of Sevastopol",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "28 May 2008"
+  },
+  {
+    "id": 393,
+    "name": "Swallow`s Nest",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "28 May 2008"
+  },
+  {
+    "id": 388,
+    "name": "Swallow`s Nest",
+    "metal": "gold(Au 900)",
+    "denomination": "50 hryvnias",
+    "date": "28 May 2008"
+  },
+  {
+    "id": 380,
+    "name": "Eurasian Black Vulture",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "26 May 2008"
+  },
+  {
+    "id": 381,
+    "name": "Eurasian Black Vulture",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "26 May 2008"
+  },
+  {
+    "id": 379,
+    "name": "Yevhen Petrushevych",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "23 May 2008"
+  },
+  {
+    "id": 383,
+    "name": "600 Years to the city of Chernivtsi",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "20 May 2008"
+  },
+  {
+    "id": 384,
+    "name": "100 Years to Kyiv Zoo",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "23 April 2008"
+  },
+  {
+    "id": 386,
+    "name": "Annunciation",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "31 March 2008"
+  },
+  {
+    "id": 385,
+    "name": "Annunciation",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "31 March 2008"
+  },
+  {
+    "id": 371,
+    "name": "Sydir Holubovych",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "26 February 2008"
+  },
+  {
+    "id": 372,
+    "name": "Skythian Gold (The Goddess Api)",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "22 February 2008"
+  },
+  {
+    "id": 369,
+    "name": "Leo Landau",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "18 January 2008"
+  },
+  {
+    "id": 370,
+    "name": "Vasyl Stus",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "8 January 2008"
+  },
+  {
+    "id": 373,
+    "name": "The Year of Rat",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "3 January 2008"
+  },
+  {
+    "id": 374,
+    "name": "90th anniversary of the Forming of the first Government of Ukraine",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "27 December 2007"
+  },
+  {
+    "id": 378,
+    "name": "Archer",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "17 December 2007"
+  },
+  {
+    "id": 377,
+    "name": "Archer",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "17 December 2007"
+  },
+  {
+    "id": 376,
+    "name": "Scorpion",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "17 December 2007"
+  },
+  {
+    "id": 375,
+    "name": "Scorpion",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "17 December 2007"
+  },
+  {
+    "id": 368,
+    "name": "200 Years of Crimean Resorts",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "28 November 2007"
+  },
+  {
+    "id": 363,
+    "name": "Holodomor – Genocide of the Ukrainian People",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "23 November 2007"
+  },
+  {
+    "id": 364,
+    "name": "The Famine - Genocide of the Ukrainian People",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "23 November 2007"
+  },
+  {
+    "id": 358,
+    "name": "The Ostroh Bible",
+    "metal": "gold(Au 900)",
+    "denomination": "100 hryvnias",
+    "date": "15 November 2007"
+  },
+  {
+    "id": 366,
+    "name": "Buhai",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "7 November 2007"
+  },
+  {
+    "id": 362,
+    "name": "Chumatskyi Shliakh",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "26 October 2007"
+  },
+  {
+    "id": 367,
+    "name": "Petro Hryhorenko",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "15 October 2007"
+  },
+  {
+    "id": 352,
+    "name": "Ivan Bahrianyi",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "25 September 2007"
+  },
+  {
+    "id": 354,
+    "name": "1100-Years of the first written evidence of Chernihiv",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "17 September 2007"
+  },
+  {
+    "id": 365,
+    "name": "Ivan Bohun",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "6 September 2007"
+  },
+  {
+    "id": 361,
+    "name": "Orienteering",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "25 July 2007"
+  },
+  {
+    "id": 357,
+    "name": "120 Years of the Odesa State Academic Opera and Ballet Theatre",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "25 July 2007"
+  },
+  {
+    "id": 356,
+    "name": "120 Years of the Odesa State Academic Opera and Ballet Theatre",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "25 July 2007"
+  },
+  {
+    "id": 351,
+    "name": "Olena Teliha",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "19 July 2007"
+  },
+  {
+    "id": 360,
+    "name": "75 Years of the Foundation of the Donetsk Oblast",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "6 July 2007"
+  },
+  {
+    "id": 350,
+    "name": "Oleh Olzhych",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "26 June 2007"
+  },
+  {
+    "id": 359,
+    "name": "XVI Annual Session of the Parliament Assembly of the Organization for Security and Cooperation in Eu",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "26 June 2007"
+  },
+  {
+    "id": 339,
+    "name": "Ivan Ohiienko",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "12 June 2007"
+  },
+  {
+    "id": 258,
+    "name": "Pure water is source of life",
+    "metal": "bimetal from precious metals(Ag 925 - Au 916)",
+    "denomination": "20 hryvnias",
+    "date": "25 May 2007"
+  },
+  {
+    "id": 264,
+    "name": "Clear Water – a Spring of Life",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "25 May 2007"
+  },
+  {
+    "id": 355,
+    "name": "100 Years of JSC `Motor-Sich`",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "22 May 2007"
+  },
+  {
+    "id": 353,
+    "name": "1100 Years of Perejaslav-Khmelnytskyi",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "25 April 2007"
+  },
+  {
+    "id": 346,
+    "name": "Oleksander Liapunov",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "12 March 2007"
+  },
+  {
+    "id": 349,
+    "name": "Marmot",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "1 March 2007"
+  },
+  {
+    "id": 338,
+    "name": "Les Kurbas",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "26 February 2007"
+  },
+  {
+    "id": 348,
+    "name": "Pisces",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "15 February 2007"
+  },
+  {
+    "id": 347,
+    "name": "Pisces",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "15 February 2007"
+  },
+  {
+    "id": 344,
+    "name": "Aquarius",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "24 January 2007"
+  },
+  {
+    "id": 345,
+    "name": "Aquarius",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "24 January 2007"
+  },
+  {
+    "id": 342,
+    "name": "Capricorn",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "15 January 2007"
+  },
+  {
+    "id": 343,
+    "name": "Capricorn",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "15 January 2007"
+  },
+  {
+    "id": 337,
+    "name": "Serhii Koroliov",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "12 January 2007"
+  },
+  {
+    "id": 340,
+    "name": "Year of the Pig",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "2 January 2007"
+  },
+  {
+    "id": 341,
+    "name": "Nestor - the Chronicler",
+    "metal": "gold(Au 900)",
+    "denomination": "50 hryvnias",
+    "date": "27 December 2006"
+  },
+  {
+    "id": 285,
+    "name": "Tsymbaly",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "22 December 2006"
+  },
+  {
+    "id": 334,
+    "name": "The Water Baptism",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "18 December 2006"
+  },
+  {
+    "id": 336,
+    "name": "The Water Baptism",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "18 December 2006"
+  },
+  {
+    "id": 318,
+    "name": "Saint Cyril Church",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "8 November 2006"
+  },
+  {
+    "id": 333,
+    "name": "Kharkiv National Economic University",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "8 November 2006"
+  },
+  {
+    "id": 317,
+    "name": "Saint Cyril Church",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "8 November 2006"
+  },
+  {
+    "id": 331,
+    "name": "Serhii Ostapenko",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "30 October 2006"
+  },
+  {
+    "id": 332,
+    "name": "Mykhailo Lysenko",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "16 October 2006"
+  },
+  {
+    "id": 321,
+    "name": "Mykhailo Hrushevskyi",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "27 September 2006"
+  },
+  {
+    "id": 320,
+    "name": "Mykhailo Hrushevskyi",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "27 September 2006"
+  },
+  {
+    "id": 330,
+    "name": "10th anniversary of the Clearing House of Ukraine",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "14 September 2006"
+  },
+  {
+    "id": 322,
+    "name": "Dmytro Lutsenko",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "8 September 2006"
+  },
+  {
+    "id": 326,
+    "name": "Dmytro Lutsenko",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "8 September 2006"
+  },
+  {
+    "id": 327,
+    "name": "The 10th anniversary of the Recovery of Ukrainian Currency Unit - Hryvnia",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "29 August 2006"
+  },
+  {
+    "id": 328,
+    "name": "The 10th anniversary of the Recovery of Ukrainian Currency Unit - Hryvnia",
+    "metal": "silver(Ag 999)",
+    "denomination": "100 hryvnias",
+    "date": "29 August 2006"
+  },
+  {
+    "id": 311,
+    "name": "Ivan Franko",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "23 August 2006"
+  },
+  {
+    "id": 301,
+    "name": "Ivan Franko",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "23 August 2006"
+  },
+  {
+    "id": 324,
+    "name": "The 15th anniversary of the Independence of Ukraine",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "18 August 2006"
+  },
+  {
+    "id": 323,
+    "name": "The 15th anniversary of the Independence of Ukraine",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "18 August 2006"
+  },
+  {
+    "id": 325,
+    "name": "10 th anniversary of the Constitution of Ukraine",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "31 July 2006"
+  },
+  {
+    "id": 299,
+    "name": "Volodymyr Chekhivskyi",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "19 July 2006"
+  },
+  {
+    "id": 319,
+    "name": "Mykola Vasylenko",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "11 July 2006"
+  },
+  {
+    "id": 316,
+    "name": "10 Years of the Constitution of Ukraine",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "26 June 2006"
+  },
+  {
+    "id": 312,
+    "name": "Ukrainian Bush Cricket (Poecilimon Ukrainicus",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "14 June 2006"
+  },
+  {
+    "id": 313,
+    "name": "Ukrainian Bush Cricket (Poecilimon Ukrainicus",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "14 June 2006"
+  },
+  {
+    "id": 315,
+    "name": "Gemini",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "22 May 2006"
+  },
+  {
+    "id": 314,
+    "name": "Gemini",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "22 May 2006"
+  },
+  {
+    "id": 307,
+    "name": "Chyhyryn",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "18 May 2006"
+  },
+  {
+    "id": 290,
+    "name": "Mykola Strazhesko",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "28 April 2006"
+  },
+  {
+    "id": 308,
+    "name": "750th Anniversary of the City of Lviv",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "26 April 2006"
+  },
+  {
+    "id": 309,
+    "name": "Taurus",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "21 April 2006"
+  },
+  {
+    "id": 310,
+    "name": "Taurus",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "21 April 2006"
+  },
+  {
+    "id": 306,
+    "name": "Hedgehog",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "14 April 2006"
+  },
+  {
+    "id": 298,
+    "name": "Viacheslav Prokopovych",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "10 April 2006"
+  },
+  {
+    "id": 302,
+    "name": "100 Years of the Kyiv National Economic University",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "24 March 2006"
+  },
+  {
+    "id": 303,
+    "name": "100 Years of the Kyiv National Economic University",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "24 March 2006"
+  },
+  {
+    "id": 304,
+    "name": "Aries",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "20 March 2006"
+  },
+  {
+    "id": 305,
+    "name": "Aries",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "20 March 2006"
+  },
+  {
+    "id": 297,
+    "name": "Heorhyi Narbut",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "15 March 2006"
+  },
+  {
+    "id": 300,
+    "name": "Winter Olympic Games of 2006",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "28 February 2006"
+  },
+  {
+    "id": 294,
+    "name": "Oleh Antonov",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "3 February 2006"
+  },
+  {
+    "id": 295,
+    "name": "10 Years of the Antarctic Station Academician Vernadskyi",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "16 January 2006"
+  },
+  {
+    "id": 296,
+    "name": "Year of the Dog",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "4 January 2006"
+  },
+  {
+    "id": 292,
+    "name": "Illia Mechnikov",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "29 December 2005"
+  },
+  {
+    "id": 293,
+    "name": "Oleksii Alchevskyi",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "26 December 2005"
+  },
+  {
+    "id": 289,
+    "name": "500 Years to Cossack settlements. Kalmiuska palanqua",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "23 December 2005"
+  },
+  {
+    "id": 288,
+    "name": "Vsevolod Holubovych",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "20 December 2005"
+  },
+  {
+    "id": 280,
+    "name": "Sviatohirsk Assumption Lavra Monastery",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "8 December 2005"
+  },
+  {
+    "id": 287,
+    "name": "Volodymyr Vynnychenko",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "30 November 2005"
+  },
+  {
+    "id": 281,
+    "name": "The Family of Symyrenko",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "28 November 2005"
+  },
+  {
+    "id": 282,
+    "name": "Baturyn",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "16 November 2005"
+  },
+  {
+    "id": 279,
+    "name": "Sviatohirsk Assumption Lavra Monastery",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "20 October 2005"
+  },
+  {
+    "id": 284,
+    "name": "100 Years to the Olha Kobylianska Music and Drama Theatre in Chernivtsi",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "3 October 2005"
+  },
+  {
+    "id": 278,
+    "name": "The Protection of the Virgin",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "30 September 2005"
+  },
+  {
+    "id": 277,
+    "name": "The Protection of the Virgin",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "30 September 2005"
+  },
+  {
+    "id": 273,
+    "name": "Dmytro Yavornytsky",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "22 September 2005"
+  },
+  {
+    "id": 283,
+    "name": "300 Years to David Guramishvili",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "19 September 2005"
+  },
+  {
+    "id": 286,
+    "name": "The Vasyl Tairov institute for wine growing and wine making",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "6 September 2005"
+  },
+  {
+    "id": 274,
+    "name": "350 Years to the city of Sumy",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "1 September 2005"
+  },
+  {
+    "id": 276,
+    "name": "National Anthem of Ukraine",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "19 August 2005"
+  },
+  {
+    "id": 275,
+    "name": "1300 Years to the town of Korosten",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "19 August 2005"
+  },
+  {
+    "id": 271,
+    "name": "Sorochynsky Fair",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "17 August 2005"
+  },
+  {
+    "id": 272,
+    "name": "Sorochynsky Fair",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "17 August 2005"
+  },
+  {
+    "id": 265,
+    "name": "SPALAX ARENARIUS RESHETNIK",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "15 June 2005"
+  },
+  {
+    "id": 266,
+    "name": "SPALAX ARENARIUS RESHETNIK",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "15 June 2005"
+  },
+  {
+    "id": 267,
+    "name": "Ruslan AN-124 Aircraft",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "1 June 2005"
+  },
+  {
+    "id": 268,
+    "name": "Ruslan` AN-124 aircraft",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "1 June 2005"
+  },
+  {
+    "id": 262,
+    "name": "Olexander Korniychuk",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "1 June 2005"
+  },
+  {
+    "id": 270,
+    "name": "75 Years to the National Zhukovsky Aerospace University in Kharkiv",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "26 May 2005"
+  },
+  {
+    "id": 263,
+    "name": "60 Years of Ukraine Membership in UN",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "24 May 2005"
+  },
+  {
+    "id": 269,
+    "name": "50 Years to the Kyivmiskbud",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "18 May 2005"
+  },
+  {
+    "id": 261,
+    "name": "60th anniversary of the Victory in the Second World War",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "28 April 2005"
+  },
+  {
+    "id": 259,
+    "name": "Serhii Vsekhsviatskyi",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "26 April 2005"
+  },
+  {
+    "id": 260,
+    "name": "Scythian Gold",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "26 April 2005"
+  },
+  {
+    "id": 256,
+    "name": "Pavlo Virsky",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "21 February 2005"
+  },
+  {
+    "id": 257,
+    "name": "Maksym Rylsky",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "21 February 2005"
+  },
+  {
+    "id": 253,
+    "name": "Ulas Samchuk",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "26 January 2005"
+  },
+  {
+    "id": 254,
+    "name": "Volodymyr Filatov",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "12 January 2005"
+  },
+  {
+    "id": 255,
+    "name": "Boris Liatoshynsky",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "5 January 2005"
+  },
+  {
+    "id": 291,
+    "name": "Lyre",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "21 December 2004"
+  },
+  {
+    "id": 143,
+    "name": "The Ostrozkyi Family",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "1 December 2004"
+  },
+  {
+    "id": 234,
+    "name": "Icebreaker `Captain Belousov`",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "16 November 2004"
+  },
+  {
+    "id": 146,
+    "name": "Icebreaker `Captain Belousov`",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "16 November 2004"
+  },
+  {
+    "id": 252,
+    "name": "Nuclear Power of Ukraine",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "29 October 2004"
+  },
+  {
+    "id": 251,
+    "name": "Mykhailo Deregus",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "25 October 2004"
+  },
+  {
+    "id": 144,
+    "name": "200 Years to Kharkiv National University named after V.N.Karazin",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "5 October 2004"
+  },
+  {
+    "id": 231,
+    "name": "200 Years to Kharkiv National University named after V.N.Karazin",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "5 October 2004"
+  },
+  {
+    "id": 250,
+    "name": "The Yaroslav the Wise National Law Academy of Ukraine",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "30 September 2004"
+  },
+  {
+    "id": 140,
+    "name": "St.Yur Cathedral",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "15 September 2004"
+  },
+  {
+    "id": 230,
+    "name": "170 Years of the Kyiv National University",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "26 August 2004"
+  },
+  {
+    "id": 145,
+    "name": "170 Years of the Kyiv National University",
+    "metal": "silver(Ag 925)",
+    "denomination": "5 hryvnias",
+    "date": "26 August 2004"
+  },
+  {
+    "id": 207,
+    "name": "Mykhailo Kotsiubynskyi",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "20 August 2004"
+  },
+  {
+    "id": 220,
+    "name": "250 Years to Kirovohrad",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "20 August 2004"
+  },
+  {
+    "id": 206,
+    "name": "Mykhailo Maksymovych",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "17 August 2004"
+  },
+  {
+    "id": 204,
+    "name": "Yurii Fedkovych",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "26 July 2004"
+  },
+  {
+    "id": 205,
+    "name": "Mykola Bazhan",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "26 July 2004"
+  },
+  {
+    "id": 148,
+    "name": "28th Olympic Games",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "7 July 2004"
+  },
+  {
+    "id": 203,
+    "name": "Olexander Dovzhenko",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "5 July 2004"
+  },
+  {
+    "id": 218,
+    "name": "350 Years to the citu of Kharkiv",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "1 July 2004"
+  },
+  {
+    "id": 137,
+    "name": "Golden Gates",
+    "metal": "gold(Au 900)",
+    "denomination": "100 hryvnias",
+    "date": "29 June 2004"
+  },
+  {
+    "id": 182,
+    "name": "Maria Zankovetska",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "15 June 2004"
+  },
+  {
+    "id": 142,
+    "name": "Whitsunday",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "14 May 2004"
+  },
+  {
+    "id": 185,
+    "name": "Whitsunday",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "14 May 2004"
+  },
+  {
+    "id": 240,
+    "name": "50 Years of Ukraine Membership in UNESCO",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "12 May 2004"
+  },
+  {
+    "id": 147,
+    "name": "Heroic Defence of the city of Sevastopol in 1854-1856",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "28 April 2004"
+  },
+  {
+    "id": 239,
+    "name": "50 Years of Annexation of the Crimea to Ukraine",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "28 April 2004"
+  },
+  {
+    "id": 187,
+    "name": "AN-140 aircraft",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "26 April 2004"
+  },
+  {
+    "id": 141,
+    "name": "AN-140 Aircraft",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "26 April 2004"
+  },
+  {
+    "id": 138,
+    "name": "Stork",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "23 April 2004"
+  },
+  {
+    "id": 249,
+    "name": "50 Years of the State Design Office `Pivdenne`",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "29 March 2004"
+  },
+  {
+    "id": 136,
+    "name": "2006 Football World Cup",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "26 March 2004"
+  },
+  {
+    "id": 219,
+    "name": "2500 Years to Balaklava",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "24 March 2004"
+  },
+  {
+    "id": 181,
+    "name": "Azov Dolphin",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "22 March 2004"
+  },
+  {
+    "id": 139,
+    "name": "Azov Dolphin",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "22 March 2004"
+  },
+  {
+    "id": 180,
+    "name": "2006 Football World Cup",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "27 February 2004"
+  },
+  {
+    "id": 202,
+    "name": "Serzh Lyfar",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "25 February 2004"
+  },
+  {
+    "id": 135,
+    "name": "`Our Spirit Never Can be Downed, Our Striving To Be Free`",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "30 January 2004"
+  },
+  {
+    "id": 134,
+    "name": "350 Years of the Pereiaslav Cossack Rada of 1654",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "5 January 2004"
+  },
+  {
+    "id": 248,
+    "name": "Bandura",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "23 December 2003"
+  },
+  {
+    "id": 133,
+    "name": "Salamander",
+    "metal": "gold(Au 999,9)",
+    "denomination": "2 hryvnias",
+    "date": "8 December 2003"
+  },
+  {
+    "id": 132,
+    "name": "Kyrylo Rozumovskyi",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "27 November 2003"
+  },
+  {
+    "id": 131,
+    "name": "Pochaiv Laura",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "25 November 2003"
+  },
+  {
+    "id": 201,
+    "name": "Andrii Malyshko",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "31 October 2003"
+  },
+  {
+    "id": 179,
+    "name": "60 Years of Liberation of Kyiv from Fascist Invaders",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "27 October 2003"
+  },
+  {
+    "id": 130,
+    "name": "60 Years of Liberation of Kyiv from Fascist Invaders",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "27 October 2003"
+  },
+  {
+    "id": 200,
+    "name": "Vasyl Sukhomlynskyi",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "30 September 2003"
+  },
+  {
+    "id": 199,
+    "name": "Ostap Veresai",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "23 September 2003"
+  },
+  {
+    "id": 238,
+    "name": "150 Years of the Central State Historical Archives of Ukraine",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "19 September 2003"
+  },
+  {
+    "id": 129,
+    "name": "Livadia Palace",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "18 September 2003"
+  },
+  {
+    "id": 247,
+    "name": "100 Years of the World Aviation and 70 Years of the National Aviation University",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "22 August 2003"
+  },
+  {
+    "id": 128,
+    "name": "Pectoral",
+    "metal": "gold(Au 900)",
+    "denomination": "100 hryvnias",
+    "date": "28 July 2003"
+  },
+  {
+    "id": 127,
+    "name": "Seahorse (Hippocampus)",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "25 July 2003"
+  },
+  {
+    "id": 178,
+    "name": "Seahorse (Hippocampus)",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "25 July 2003"
+  },
+  {
+    "id": 217,
+    "name": "2500 Years of the town of Yevpatoria",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "24 July 2003"
+  },
+  {
+    "id": 198,
+    "name": "Borys Hmyria",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "20 July 2003"
+  },
+  {
+    "id": 197,
+    "name": "Volodymyr Korolenko",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "20 June 2003"
+  },
+  {
+    "id": 126,
+    "name": "Genoese Fortress in the town of Sudak",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "30 May 2003"
+  },
+  {
+    "id": 125,
+    "name": "AN-2 Aircraft",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "22 May 2003"
+  },
+  {
+    "id": 177,
+    "name": "AN-2 Aircraft",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "22 May 2003"
+  },
+  {
+    "id": 176,
+    "name": "Easter Holiday",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "22 April 2003"
+  },
+  {
+    "id": 124,
+    "name": "Easter Holiday",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "22 April 2003"
+  },
+  {
+    "id": 123,
+    "name": "BISON BONASUS",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "31 March 2003"
+  },
+  {
+    "id": 175,
+    "name": "BISON BONASUS",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "31 March 2003"
+  },
+  {
+    "id": 196,
+    "name": "Volodymyr Vernadskyi",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "26 March 2003"
+  },
+  {
+    "id": 174,
+    "name": "Boxing",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "28 February 2003"
+  },
+  {
+    "id": 195,
+    "name": "Viacheslav Chornovil",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "28 February 2003"
+  },
+  {
+    "id": 122,
+    "name": "Boxing",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "28 February 2003"
+  },
+  {
+    "id": 121,
+    "name": "Pavlo Polubotok",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "29 January 2003"
+  },
+  {
+    "id": 173,
+    "name": "Celebration of Christmas in Ukraine",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "20 December 2002"
+  },
+  {
+    "id": 120,
+    "name": "Celebration of Christmas in Ukraine",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "20 December 2002"
+  },
+  {
+    "id": 119,
+    "name": "Cathedral of Virgin`s Nativity in the town of Kozelets",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "16 December 2002"
+  },
+  {
+    "id": 118,
+    "name": "Volodymyr Monomakh",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "22 November 2002"
+  },
+  {
+    "id": 117,
+    "name": "Sviatoslav",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "24 October 2002"
+  },
+  {
+    "id": 237,
+    "name": "70 Years of the Dnipro Hydroelectric Power Station",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "2 October 2002"
+  },
+  {
+    "id": 194,
+    "name": "Leonid Hlibov",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "24 September 2002"
+  },
+  {
+    "id": 183,
+    "name": "350 Years of the Battle of Batih",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "22 August 2002"
+  },
+  {
+    "id": 116,
+    "name": "Eagle Owl (Bubo Bubo)",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "23 July 2002"
+  },
+  {
+    "id": 172,
+    "name": "Eagle Owl (Bubo Bubo)",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "23 July 2002"
+  },
+  {
+    "id": 171,
+    "name": "Swimmimg",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "27 June 2002"
+  },
+  {
+    "id": 115,
+    "name": "Swimming",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "27 June 2002"
+  },
+  {
+    "id": 216,
+    "name": "1100 Years of the Town of Romny (Romen)",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "26 June 2002"
+  },
+  {
+    "id": 114,
+    "name": "Pylyp Orlyk",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "30 May 2002"
+  },
+  {
+    "id": 215,
+    "name": "1000 Years of the town of Khotyn",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "28 May 2002"
+  },
+  {
+    "id": 113,
+    "name": "AN-225 `Mria`aircraft",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "30 April 2002"
+  },
+  {
+    "id": 170,
+    "name": "AN-225 `Mria`aircraft",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "30 April 2002"
+  },
+  {
+    "id": 193,
+    "name": "Mykola Lysenko",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "26 March 2002"
+  },
+  {
+    "id": 112,
+    "name": "Ivan Sirko",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "26 February 2002"
+  },
+  {
+    "id": 111,
+    "name": "Skating",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "30 January 2002"
+  },
+  {
+    "id": 208,
+    "name": "Skating Sport",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "30 January 2002"
+  },
+  {
+    "id": 110,
+    "name": "Kyivan Rus",
+    "metal": "bimetal from precious metals(Ag 925 - Au 916)",
+    "denomination": "20 hryvnias",
+    "date": "25 December 2001"
+  },
+  {
+    "id": 236,
+    "name": "10 Years of the Armed Forces of Ukraine",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "29 November 2001"
+  },
+  {
+    "id": 169,
+    "name": "Polish Larch (LARIX POLONICA RACIB)",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "26 November 2001"
+  },
+  {
+    "id": 109,
+    "name": "Polish Larch (Larix Polonica Racib)",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "26 November 2001"
+  },
+  {
+    "id": 192,
+    "name": "200 Years of Volodymyr Dal",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "19 November 2001"
+  },
+  {
+    "id": 106,
+    "name": "Khan Palace in Bakhchyserai",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "31 October 2001"
+  },
+  {
+    "id": 190,
+    "name": "Mykhailo Drahomanov",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "26 September 2001"
+  },
+  {
+    "id": 214,
+    "name": "400 Years of the town of Krolevets",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "6 September 2001"
+  },
+  {
+    "id": 224,
+    "name": "100 Years of Mykolayiv Zoo",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "21 August 2001"
+  },
+  {
+    "id": 104,
+    "name": "10 Years of the Declaration of Independence of Ukraine",
+    "metal": "gold(Au 900)",
+    "denomination": "10 hryvnias",
+    "date": "20 August 2001"
+  },
+  {
+    "id": 189,
+    "name": "Mykhailo Ostrohradskyi",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "20 August 2001"
+  },
+  {
+    "id": 105,
+    "name": "10 Years of the Declaration of Independence of Ukraine",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "20 August 2001"
+  },
+  {
+    "id": 213,
+    "name": "1100 Years of the city of Poltava",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "15 August 2001"
+  },
+  {
+    "id": 168,
+    "name": "10 Years of the Declaration of Independence of Ukraine",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "31 July 2001"
+  },
+  {
+    "id": 103,
+    "name": "Hockey",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "6 July 2001"
+  },
+  {
+    "id": 167,
+    "name": "Hockey",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "6 July 2001"
+  },
+  {
+    "id": 222,
+    "name": "5 Years of the Constitution of Ukraine",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "26 June 2001"
+  },
+  {
+    "id": 246,
+    "name": "Kindness to Children",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "24 May 2001"
+  },
+  {
+    "id": 226,
+    "name": "The Ostroh Academy",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "28 April 2001"
+  },
+  {
+    "id": 166,
+    "name": "LYNX LYNX",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "25 April 2001"
+  },
+  {
+    "id": 102,
+    "name": "Lynx lynx",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "25 April 2001"
+  },
+  {
+    "id": 101,
+    "name": "10 Years of the National Bank of Ukraine",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "29 March 2001"
+  },
+  {
+    "id": 165,
+    "name": "10 Years of the National Bank of Ukraine",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "29 March 2001"
+  },
+  {
+    "id": 235,
+    "name": "On the Verge of Millenniums",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "7 March 2001"
+  },
+  {
+    "id": 81,
+    "name": "Yaroslav the Wise",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "26 February 2001"
+  },
+  {
+    "id": 80,
+    "name": "Ivan Mazepa",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "20 February 2001"
+  },
+  {
+    "id": 107,
+    "name": "Scythia",
+    "metal": "bimetal from precious metals(Ag 925 - Au 916)",
+    "denomination": "20 hryvnias",
+    "date": "30 January 2001"
+  },
+  {
+    "id": 100,
+    "name": "Ice Dancing",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "30 January 2001"
+  },
+  {
+    "id": 164,
+    "name": "Ice Dancing",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "30 January 2001"
+  },
+  {
+    "id": 233,
+    "name": "ТИСЯЧОЛІТЬ (On the Verge of Millenniums) (2000)",
+    "metal": "bimetal from nonprecious metals",
+    "denomination": "5 hryvnias",
+    "date": "28 December 2000"
+  },
+  {
+    "id": 99,
+    "name": "Olbia",
+    "metal": "bimetal from precious metals(Ag 925 - Au 916)",
+    "denomination": "20 hryvnias",
+    "date": "26 December 2000"
+  },
+  {
+    "id": 212,
+    "name": "2600 Years of the town of Kerch",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "25 December 2000"
+  },
+  {
+    "id": 98,
+    "name": "Paleolith",
+    "metal": "bimetal from precious metals(Ag 925 - Au 916)",
+    "denomination": "20 hryvnias",
+    "date": "20 December 2000"
+  },
+  {
+    "id": 97,
+    "name": "Trypillia",
+    "metal": "bimetal from precious metals(Ag 925 - Au 916)",
+    "denomination": "20 hryvnias",
+    "date": "20 December 2000"
+  },
+  {
+    "id": 188,
+    "name": "Kateryna Bilokur",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "28 November 2000"
+  },
+  {
+    "id": 79,
+    "name": "55 years of Victory in the Second World War",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "20 November 2000"
+  },
+  {
+    "id": 158,
+    "name": "the Lviv Opera and Ballet Theatre",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "30 October 2000"
+  },
+  {
+    "id": 78,
+    "name": "(the Lviv Opera and Ballet Theatre",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "19 October 2000"
+  },
+  {
+    "id": 95,
+    "name": "Baptizing of Rus",
+    "metal": "gold(Au 900)",
+    "denomination": "50 hryvnias",
+    "date": "16 October 2000"
+  },
+  {
+    "id": 163,
+    "name": "Baptizing of Rus",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "16 October 2000"
+  },
+  {
+    "id": 96,
+    "name": "Baptizing of Rus",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "16 October 2000"
+  },
+  {
+    "id": 94,
+    "name": "Volodymyr the Great",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "25 September 2000"
+  },
+  {
+    "id": 232,
+    "name": "125 Years of the Chernivtsi State University",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "15 September 2000"
+  },
+  {
+    "id": 162,
+    "name": "Freshwater Crab (POTAMON TAURICUM)",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "2 August 2000"
+  },
+  {
+    "id": 93,
+    "name": "Freshwater Crab (Potamon Tauricum)",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "2 August 2000"
+  },
+  {
+    "id": 92,
+    "name": "Oles Honchar",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "31 July 2000"
+  },
+  {
+    "id": 244,
+    "name": "Calisthenics",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "29 June 2000"
+  },
+  {
+    "id": 243,
+    "name": "Sailing",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "31 May 2000"
+  },
+  {
+    "id": 210,
+    "name": "Bilhorod-Dnistrovskyi",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "29 May 2000"
+  },
+  {
+    "id": 156,
+    "name": "Triple Jump",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "28 April 2000"
+  },
+  {
+    "id": 157,
+    "name": "Parallel Bars",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "28 April 2000"
+  },
+  {
+    "id": 159,
+    "name": "55 Years of Victory in the Second World War",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "25 April 2000"
+  },
+  {
+    "id": 91,
+    "name": "Vikentii Khvoika",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "29 March 2000"
+  },
+  {
+    "id": 90,
+    "name": "Ivan Kozlovskyi",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "15 March 2000"
+  },
+  {
+    "id": 73,
+    "name": "Petro Sahaidachnyi",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "6 March 2000"
+  },
+  {
+    "id": 70,
+    "name": "Olha",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "19 January 2000"
+  },
+  {
+    "id": 89,
+    "name": "Christmas",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "29 December 1999"
+  },
+  {
+    "id": 88,
+    "name": "Christmas",
+    "metal": "gold(Au 900)",
+    "denomination": "50 hryvnias",
+    "date": "29 December 1999"
+  },
+  {
+    "id": 161,
+    "name": "Christmas",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "29 December 1999"
+  },
+  {
+    "id": 155,
+    "name": "Garden Dormouse (ELIOMYS QUERCINUS)",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "15 December 1999"
+  },
+  {
+    "id": 75,
+    "name": "Garden Dormouse (ELIOMYS QUERCINUS)",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "15 December 1999"
+  },
+  {
+    "id": 87,
+    "name": "500 Years of the Magdeburg Right in Kyiv",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "1 November 1999"
+  },
+  {
+    "id": 160,
+    "name": "500 Years of the Magdeburg Right in Kyiv",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "1 November 1999"
+  },
+  {
+    "id": 242,
+    "name": "55 Years of Liberation of Ukraine from Fascist Invaders",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "20 October 1999"
+  },
+  {
+    "id": 86,
+    "name": "Anatolii Solovianenko",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "22 September 1999"
+  },
+  {
+    "id": 72,
+    "name": "Petro Doroshenko",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "7 September 1999"
+  },
+  {
+    "id": 154,
+    "name": "(Butterfly Orchid) and PLATANTHERA BIFOLIA",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "26 July 1999"
+  },
+  {
+    "id": 74,
+    "name": "Butterfly Orchid (PLATANTHERA BIFOLIA)",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "26 July 1999"
+  },
+  {
+    "id": 85,
+    "name": "Askold",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "30 June 1999"
+  },
+  {
+    "id": 209,
+    "name": "900 years of the Novgorod-Siversk Principality",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "25 June 1999"
+  },
+  {
+    "id": 84,
+    "name": "100 Years of the National Mining Academy of Ukraine",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "10 June 1999"
+  },
+  {
+    "id": 82,
+    "name": "Panas Myrnyi",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "7 May 1999"
+  },
+  {
+    "id": 77,
+    "name": "Parallel Bars",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "30 April 1999"
+  },
+  {
+    "id": 76,
+    "name": "Triple Jump",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "30 April 1999"
+  },
+  {
+    "id": 71,
+    "name": "Dmytro Vyshnevetskyi (Baida)",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "31 March 1999"
+  },
+  {
+    "id": 221,
+    "name": "80 Years of Declaration of the Integrity of Ukraine",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "18 February 1999"
+  },
+  {
+    "id": 153,
+    "name": "Steppe Eagle (Aquila Rapax)",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "28 January 1999"
+  },
+  {
+    "id": 69,
+    "name": "Steppe Eagle (Aquila Rapax)",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "20 January 1999"
+  },
+  {
+    "id": 68,
+    "name": "Kyiv-Pechersk Assumption Cathedral",
+    "metal": "gold(Au 900)",
+    "denomination": "100 hryvnias",
+    "date": "30 December 1998"
+  },
+  {
+    "id": 151,
+    "name": "St.Michael Golden-Domed Cathedral",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "28 December 1998"
+  },
+  {
+    "id": 66,
+    "name": "St.Michae`s Golden-Domed Cathedral",
+    "metal": "gold(Au 900)",
+    "denomination": "100 hryvnias",
+    "date": "28 December 1998"
+  },
+  {
+    "id": 67,
+    "name": "The Kyiv-Pechersk Assumption Cathedral",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "24 December 1998"
+  },
+  {
+    "id": 241,
+    "name": "50th anniversary of Declaration of Human Rights.",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "24 December 1998"
+  },
+  {
+    "id": 152,
+    "name": "The Kyiv-Pechersk Assumption Cathedral",
+    "metal": "nickel silver",
+    "denomination": "5 hryvnias",
+    "date": "24 December 1998"
+  },
+  {
+    "id": 65,
+    "name": "St.Michae`s Golden-Domed Cathedral",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "3 December 1998"
+  },
+  {
+    "id": 63,
+    "name": "Aeneid",
+    "metal": "gold(Au 900)",
+    "denomination": "100 hryvnias",
+    "date": "28 October 1998"
+  },
+  {
+    "id": 229,
+    "name": "100 Years of the Kyiv Polytechnical Institute",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "28 August 1998"
+  },
+  {
+    "id": 64,
+    "name": "100 Years of the Kyiv Polytechnical Institute",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "28 August 1998"
+  },
+  {
+    "id": 60,
+    "name": "Danylo of Halych",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "1 July 1998"
+  },
+  {
+    "id": 61,
+    "name": "Kyi",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "29 June 1998"
+  },
+  {
+    "id": 62,
+    "name": "The Liberation War in the Middle of 17th Century",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "25 June 1998"
+  },
+  {
+    "id": 56,
+    "name": "Askania-Nova",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "20 May 1998"
+  },
+  {
+    "id": 55,
+    "name": "Askania-Nova",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "20 May 1998"
+  },
+  {
+    "id": 223,
+    "name": "Ascania - Nova",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "20 May 1998"
+  },
+  {
+    "id": 54,
+    "name": "the EBRD Annual Meeting of the Board of Governors in Kyiv in 1998",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "8 May 1998"
+  },
+  {
+    "id": 57,
+    "name": "the EBRD Annual Meeting of the Board of Governors in Kyiv in 1998",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "8 May 1998"
+  },
+  {
+    "id": 53,
+    "name": "80 Years of Declaration of UPR Independence",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "20 March 1998"
+  },
+  {
+    "id": 150,
+    "name": "80 Years of Declaration of the UPR Independence",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "20 March 1998"
+  },
+  {
+    "id": 51,
+    "name": "Biathlon",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "16 February 1998"
+  },
+  {
+    "id": 50,
+    "name": "Figure Skating",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "16 February 1998"
+  },
+  {
+    "id": 52,
+    "name": "Ski",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "12 February 1998"
+  },
+  {
+    "id": 49,
+    "name": "The 80th Anniversary of the Battle of Kruty",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "30 January 1998"
+  },
+  {
+    "id": 149,
+    "name": "The 80th Anniversary of the Battle of Kruty",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "30 January 1998"
+  },
+  {
+    "id": 47,
+    "name": "Severyn Nalyvayko",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "26 January 1998"
+  },
+  {
+    "id": 46,
+    "name": "Volodymyr Sosyura",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "23 January 1998"
+  },
+  {
+    "id": 48,
+    "name": "Kyiv Psalmbook",
+    "metal": "gold(Au 900)",
+    "denomination": "100 hryvnias",
+    "date": "22 January 1998"
+  },
+  {
+    "id": 45,
+    "name": "First Anniversary of the Constitution of Ukraine",
+    "metal": "german silver",
+    "denomination": "2 hryvnias",
+    "date": "1 December 1997"
+  },
+  {
+    "id": 44,
+    "name": "Solomiya Krushelnytska",
+    "metal": "german silver",
+    "denomination": "2 hryvnias",
+    "date": "12 November 1997"
+  },
+  {
+    "id": 43,
+    "name": "Kyiv Contract Fair",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "16 October 1997"
+  },
+  {
+    "id": 40,
+    "name": "Orante",
+    "metal": "gold(Au 999,9)",
+    "denomination": "250 hryvnias",
+    "date": "28 July 1997"
+  },
+  {
+    "id": 41,
+    "name": "Orante",
+    "metal": "gold(Au 999,9)",
+    "denomination": "125 hryvnias",
+    "date": "28 July 1997"
+  },
+  {
+    "id": 42,
+    "name": "Orante",
+    "metal": "gold(Au 999,9)",
+    "denomination": "50 hryvnias",
+    "date": "28 July 1997"
+  },
+  {
+    "id": 39,
+    "name": "Orante",
+    "metal": "gold(Au 999,9)",
+    "denomination": "500 hryvnias",
+    "date": "28 July 1997"
+  },
+  {
+    "id": 36,
+    "name": "Cossack Mamai",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "23 July 1997"
+  },
+  {
+    "id": 37,
+    "name": "The Savior Cathedral in Chernihiv",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "24 June 1997"
+  },
+  {
+    "id": 38,
+    "name": "Yuri Kondratyuk",
+    "metal": "german silver",
+    "denomination": "2 hryvnias",
+    "date": "17 June 1997"
+  },
+  {
+    "id": 35,
+    "name": "Kyiv-Pechersk Lavra",
+    "metal": "gold(Au 900)",
+    "denomination": "200 hryvnias",
+    "date": "10 April 1997"
+  },
+  {
+    "id": 34,
+    "name": "T.H.Shevchenko",
+    "metal": "gold(Au 900)",
+    "denomination": "200 hryvnias",
+    "date": "12 March 1997"
+  },
+  {
+    "id": 245,
+    "name": "Coins of Ukraine",
+    "metal": "nickel silver",
+    "denomination": "2 hryvnias",
+    "date": "12 March 1997"
+  },
+  {
+    "id": 33,
+    "name": "Petro Mohyla",
+    "metal": "silver(Ag 925)",
+    "denomination": "10 hryvnias",
+    "date": "25 December 1996"
+  },
+  {
+    "id": 31,
+    "name": "The Tithe Church",
+    "metal": "german silver",
+    "denomination": "2 hryvnias",
+    "date": "26 November 1996"
+  },
+  {
+    "id": 32,
+    "name": "The Tithe Church",
+    "metal": "silver(Ag 925)",
+    "denomination": "20 hryvnias",
+    "date": "26 November 1996"
+  },
+  {
+    "id": 30,
+    "name": "Sophiyivka",
+    "metal": "german silver",
+    "denomination": "2 hryvnias",
+    "date": "16 September 1996"
+  },
+  {
+    "id": 20,
+    "name": "Mykhaylo Hrushevsky",
+    "metal": "silver(Ag 925)",
+    "denomination": "1000000 karbovanets",
+    "date": "9 August 1996"
+  },
+  {
+    "id": 19,
+    "name": "Mykhaylo Hrushevsky",
+    "metal": "german silver",
+    "denomination": "200000 karbovanets",
+    "date": "9 August 1996"
+  },
+  {
+    "id": 18,
+    "name": "Independence",
+    "metal": "silver(Ag 925)",
+    "denomination": "2000000 karbovanets",
+    "date": "1 August 1996"
+  },
+  {
+    "id": 15,
+    "name": "Centennial of Modern Olympic Games",
+    "metal": "silver(Ag 925)",
+    "denomination": "2000000 karbovanets",
+    "date": "10 July 1996"
+  },
+  {
+    "id": 14,
+    "name": "Centennial of Modern Olympic Games",
+    "metal": "german silver",
+    "denomination": "200000 karbovanets",
+    "date": "10 July 1996"
+  },
+  {
+    "id": 16,
+    "name": "First Participation in the Summer Olympic Games",
+    "metal": "german silver",
+    "denomination": "200000 karbovanets",
+    "date": "10 July 1996"
+  },
+  {
+    "id": 17,
+    "name": "First Participation in the Summer Olympic Games",
+    "metal": "silver(Ag 925)",
+    "denomination": "2000000 karbovanets",
+    "date": "10 July 1996"
+  },
+  {
+    "id": 21,
+    "name": "Hrygoriy Skovoroda",
+    "metal": "silver(Ag 925)",
+    "denomination": "1000000 karbovanets",
+    "date": "21 June 1996"
+  },
+  {
+    "id": 3,
+    "name": "Bohdan Khmelnytsky",
+    "metal": "silver(Ag 925)",
+    "denomination": "1000000 karbovanets",
+    "date": "21 June 1996"
+  },
+  {
+    "id": 12,
+    "name": "10 years of Chornobyl Disaster",
+    "metal": "german silver",
+    "denomination": "200000 karbovanets",
+    "date": "25 April 1996"
+  },
+  {
+    "id": 13,
+    "name": "10th anniversary of the disaster at the Chornobyl Nuclear Power Plant.",
+    "metal": "silver(Ag 925)",
+    "denomination": "2000000 karbovanets",
+    "date": "25 April 1996"
+  },
+  {
+    "id": 11,
+    "name": "Lesya Ukrainka",
+    "metal": "silver(Ag 925)",
+    "denomination": "1000000 karbovanets",
+    "date": "10 April 1996"
+  },
+  {
+    "id": 9,
+    "name": "50th Anniversary of the United Nations",
+    "metal": "silver(Ag 925)",
+    "denomination": "2000000 karbovanets",
+    "date": "7 March 1996"
+  },
+  {
+    "id": 8,
+    "name": "50th Anniversary of the United Nations",
+    "metal": "german silver",
+    "denomination": "200000 karbovanets",
+    "date": "7 March 1996"
+  },
+  {
+    "id": 10,
+    "name": "Lesya Ukrainka",
+    "metal": "german silver",
+    "denomination": "200000 karbovanets",
+    "date": "1 March 1996"
+  },
+  {
+    "id": 4,
+    "name": "Hero-City of Kyiv",
+    "metal": "german silver",
+    "denomination": "200000 karbovanets",
+    "date": "23 August 1995"
+  },
+  {
+    "id": 6,
+    "name": "Hero-City of Sevastopol",
+    "metal": "german silver",
+    "denomination": "200000 karbovanets",
+    "date": "23 August 1995"
+  },
+  {
+    "id": 7,
+    "name": "Hero-City of Kerch",
+    "metal": "german silver",
+    "denomination": "200000 karbovanets",
+    "date": "23 August 1995"
+  },
+  {
+    "id": 5,
+    "name": "Hero-City of Odesa",
+    "metal": "german silver",
+    "denomination": "200000 karbovanets",
+    "date": "23 August 1995"
+  },
+  {
+    "id": 2,
+    "name": "Bohdan Khmelnytsky",
+    "metal": "german silver",
+    "denomination": "200000 karbovanets",
+    "date": "19 July 1995"
+  },
+  {
+    "id": 1,
+    "name": "50th anniversary of Victory in the Great Patriotic War 1941-1945",
+    "metal": "german silver",
+    "denomination": "200000 karbovanets",
+    "date": "7 May 1995"
+  }
+]

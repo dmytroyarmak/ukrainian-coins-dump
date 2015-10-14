@@ -1,0 +1,20 @@
+{
+  "id": 373,
+  "name": "The Year of Rat",
+  "metal": "silver (Ag 925)",
+  "denomination": "5 hryvnias",
+  "date": "3 January 2008",
+  "weight": 15.55,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 15000,
+  "categoryId": 5921,
+  "category": "Oriental calendar",
+  "generalDescription": "The coin is dedicated to the Year of Rat, one of the animal-symbols of the Oriental calendar, which is based on the twelve months cycle of Jupiter, the largest planet of the Solar system.",
+  "averseDescription": "On the coin obverse within setting made of a conventionalized vegetable ornamentation there are inscriptions:НАЦІОНАЛЬНИЙ БАНК/ УКРАЇНИ/ 5/ ГРИВЕНЬ (National Bank /of Ukraine/ 5/ Hryvnia); above there is the small National Emblem of Ukraine, beneath: 2008, the coin issue year, as well as Ag 925, the designation of metal; 15,55g, its weight in fineness and the NBU Mint logotype.",
+  "reverseDescription": "On the coin reverse there is depicted a rat made in a technique of a cheap popular print within a vegetable ornamentation setting (a rat eye is decorated with 0,01carat diamond). Both above and below this composition there is a depiction of contour figures of all 12 symbols of the Oriental calendar.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=373",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=373"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 271,
+  "name": "Sorochynsky Fair",
+  "metal": "silver (Ag 925)",
+  "denomination": "20 hryvnias",
+  "date": "17 August 2005",
+  "weight": 62.2,
+  "diameter": 50,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "sectoral corrugation",
+  "mintage": 5000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The coin is dedicated to the Sorochynsky Fair, a genuine merchant festival which was poetized by Mykola Hohol in one of his tales of the `Nights in the Khutor near Dykan`ka` series.",
+  "averseDescription": "On the coin obverse in the centre and against the background of the Ukrainian landscape there is a depiction of Mykola V.Hohol and Rudy Panko, his literary character, above there is the semicircular inscription: УКРАЇНА (Ukraine), beneath - the small National Emblem of Ukraine, 20-05, the coin mintage year and the inscriptions: 20/ ГРИВЕНЬ (20/ hryvnia), Ag 925, designation of the metal and 62,2 g, its weight in fineness, as well as the logotype of the NBU Mint is depicted.",
+  "reverseDescription": "On the coin reverse there is a multi -figured composition, typical for a country fair of 19th-20th centuries; above there is a semicircular inscription: СОРОЧИНСЬКИЙ ЯРМАРОК (Sorochynsky Fair)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=271",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=271"
+}

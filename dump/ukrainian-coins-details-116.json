@@ -1,0 +1,20 @@
+{
+  "id": 116,
+  "name": "Eagle Owl (Bubo Bubo)",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "23 July 2002",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 3000,
+  "categoryId": 5935,
+  "category": "Flora and Fauna",
+  "generalDescription": "The coin of is dedicated to Bubo Bubo, a sedentary and migratory bird - the only representative of this species in the fauna of Ukraine. Its prevailing population is concentrated mostly at the western parts of the country. This species is on the endangered-species list of Ukraine",
+  "averseDescription": "On the coin obverse within the window frame, formed by depictions of various species of flora and fauna there is the small State Emblem of Ukraine is depicted and the four-line inscriptions: on the silver coin: УКРАЇНА, 10, ГРИВЕНЬ, 2002, (Ukraine/ 10/ hryvnia/ 2002), as well as the designation of the metal, its fineness and its weight in fineness. There is also the Mint logo of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse there is a depiction of Bubo bubo, sitting on a oak twig and circular inscriptions: ПУГАЧ and BUBO BUBO",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=116",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=116"
+}

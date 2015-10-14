@@ -1,0 +1,20 @@
+{
+  "id": 598,
+  "name": "Centenary of the Kyiv Research Institute of Forensic Science",
+  "metal": "bimetal from nonprecious metals",
+  "denomination": "5 hryvnias",
+  "date": "3 July 2013",
+  "weight": 9.4,
+  "diameter": 28,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "sectoral corrugation",
+  "mintage": 15000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The commemorative coin is dedicated to one of the oldest state establishments of Ukraine for forensics which started its activities in 1913 as the Office for Forensics attached to the Prosecutor of the Kyiv Court, which is called now Kyiv Research Institute of Forensic Science. Having behind a hundred years of history the institute has become one of the leading institutions of forensics where highly skilled legal experts work.",
+  "averseDescription": "Obverse: bears the Small Coat of Arms of Ukraine and the semicircular legends НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) above and П`ЯТЬ ГРИВЕНЬ (five hryvnias) beneath; to the right there is indicated the coin issue year 2013, to the left there is the mark of the National Bank of Ukraine Mint; in the center there is the Institute emblem.",
+  "reverseDescription": "Reverse: bears the Institute building image with the legend 100/РОКІВ (100/years) and the circular inscription КИЇВСЬКИЙ НАУКОВО-ДОСЛІДНИЙ ІНСТИТУТ СУДОВИХ ЕКСПЕРТИЗ (Kyiv Research Institute of Forensic Science).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=598",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=598"
+}

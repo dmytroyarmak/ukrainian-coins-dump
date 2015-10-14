@@ -1,0 +1,20 @@
+{
+  "id": 60,
+  "name": "Danylo of Halych",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "1 July 1998",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 10000,
+  "categoryId": 5930,
+  "category": "Ukraine",
+  "generalDescription": "The coin is dedicated to Danylo of Halych (1201-1264), the Duke of the Grand Duchy of Halytsien and Volynien",
+  "averseDescription": "On the coin obverse within the frame of an ornament of the capitals of 12th century Halych stone church with the emblematic figures of a bird and a lion which are the symbols of the cities of Halych and Lviv, there are depictions of the small National Emblem of Ukraine and the conventionalized four-line inscriptions: УКРАЇНА, 10 ГРИВЕНЬ, 1998 and the indications of the precious metal, its fineness and the coin weight in fineness",
+  "reverseDescription": "On the coin reverse against the background of a roll there is a three-view composition, consisted of the portrait depiction of Prince Danylo, wearing the ceremonial attire of a warrior, as well as old-Rus buildings and Prince`s troops. On the coin there is a legend: ДАНИЛО ГАЛИЦЬКИЙ 1205-1264 (Danylo of Halych) (above in two lines) and КНЯЖА УКРАЇНА (Princes of Ukraine (underneath in two lines).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=60",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=60"
+}

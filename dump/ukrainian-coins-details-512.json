@@ -1,0 +1,20 @@
+{
+  "id": 512,
+  "name": "150 Years of Ukrainian Railroads",
+  "metal": "silver (Ag 925)",
+  "denomination": "20 hryvnias",
+  "date": "28 October 2011",
+  "weight": 62.2,
+  "diameter": 50,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "smooth with in-depth legends",
+  "mintage": 4000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The coin is dedicated to the 150th anniversary of Ukrainian railroads whose operation began with the arrival of the Yaroslav passenger train in Lviv from Peremyshl (Przemysl). The rail transport is the most instrumental in the transportation system of Ukraine. At present, there are six territorial railroad companies operational in Ukraine.",
+  "averseDescription": "Obverse: above there is the Small Coat of Arms of Ukraine with the inscription НАЦІОНАЛЬНИЙ / БАНК / УКРАЇНИ (National / Bank / of Ukraine); against the dark background there is depicted a modern high-speed train of the Ukrainian Railways and a part of the rail track; to the left indicated is the coin face value 20/ГРИВЕНЬ (20/hryvnias) and to the right - the coin issue year 2011.",
+  "reverseDescription": "Reverse: there is depicted one of the first trains of the Ukrainian railroads; above there is the semicircular inscription УКРАЇНСЬКА ЗАЛІЗНИЦЯ (Ukrainian Railways) with the logotype of the Ukrainian Railways (Ukrzaliznytsia) company thereunder; below there is the inscription 150 РОКІВ (150 years).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=512",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=512"
+}

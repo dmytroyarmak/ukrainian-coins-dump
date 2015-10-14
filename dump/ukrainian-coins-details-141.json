@@ -1,0 +1,20 @@
+{
+  "id": 141,
+  "name": "AN-140 Aircraft",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "26 April 2004",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 10000,
+  "categoryId": 5938,
+  "category": "Airplanes of Ukraine",
+  "generalDescription": "The coin is dedicated to a new generation aircraft `AN`-140 for passenger and cargo carriage (up to 6 tons). AN-140 aircraft performed its first flight in 2002. It has high performance capability and is in serial production at Kharkiv Aviation Plant",
+  "averseDescription": "On the coin obverse in the centre of the circle made of a string of beads there is depicted the small National Emblem of Ukraine within an allegoric composition of the sun, a conventionalized wing, birds and stars that symbolize the dream of mankind to reach outer space. There are the following inscriptions: on the silver coin - УКРАЇНА, 2004, 10, ГРИВЕНЬ, (Ukraine/ 10/ hryvnia/ 2004), as well as the designation of the metal, its fineness and its weight in fineness. There is also the Mint logotype of the National Bank of Ukraine. On the coin there is also the Mint logotype of the National Bank of Ukraine",
+  "reverseDescription": "On the coin reverse there is a depiction of AN-140 aircraft and there are circular inscriptions between the coin external rim and the beads circle: ЛІТАКИ УКРАЇНИ (aircrafts of Ukraine)- above, АН-140 and AN-140 -beneath; , between which there is AN logotype is depicted.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=141",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=141"
+}

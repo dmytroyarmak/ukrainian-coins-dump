@@ -1,0 +1,20 @@
+{
+  "id": 137,
+  "name": "Golden Gates",
+  "metal": "gold (Au 900)",
+  "denomination": "100 hryvnias",
+  "date": "29 June 2004",
+  "weight": 31.1,
+  "diameter": 32,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "sectoral corrugation",
+  "mintage": 2000,
+  "categoryId": 5925,
+  "category": "Architectural monuments of Ukraine",
+  "generalDescription": "The coin is dedicated to the Golden Gates of Kyiv, the principal ceremonial entrance to the city, a unique fortification structure built during ruling period of the Prince Yaroslav the Wise. The structure was crowned with the Church of Annunciation. Golden Gates... Attracts attention the very name of the gate which originates still from ancient times. In bygone period it laid emphasis on its specific importance among others defensive structures of the city. The chronicler Nestor in entries for the year 1037 noted: `And laid Yaroslav a great city with the Golden Gates, and also founded a Church devoted to St.Sophia, the centre of the empire, as well as the Church of Annunciation on the top of the Golden Gates...`",
+  "averseDescription": "On the coin obverse against the background of an old-Rus symbol of the sun there is depicted the small National Emblem of Ukraine; above there is the semicircular inscription: УКРАЇНА (Ukraine). Underneath the Emblem there is the coin face value - 100 ГРИВЕНЬ (100 Hryvnia). On each side of the obverse there are stylized cranes (from the motifs of old Kyiv bracelets) with the indications of the metal, its fineness and its weight in fineness (on the right) and the logotype of Mint of the National Bank of Ukraine. Underneath there is a stylized ornamental stripe, under which there is engraved 2004.",
+  "reverseDescription": "On the coin reverse there is a stylized miniature-like annalistic scene - riders approaching the gates. Overhead to the right there is a semicircular stylized inscription: ЗОЛОТІ ВОРОТА (Golden Gates, underneath the stylized ornamental stripe - 1037, the year of the gates construction.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=137",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=137"
+}

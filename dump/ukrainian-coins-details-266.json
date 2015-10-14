@@ -1,0 +1,20 @@
+{
+  "id": 266,
+  "name": "SPALAX ARENARIUS RESHETNIK",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "15 June 2005",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 60000,
+  "categoryId": 5935,
+  "category": "Flora and Fauna",
+  "generalDescription": "The coin is dedicated to SPALAX ARENARIUS RESHETNIK, a rare species living only in the territory of Ukraine, which is on the endangered-species list of Ukraine, the International Union for Conservation of Nature and Natural Resources and Europe",
+  "averseDescription": "On the coin obverse set in the wreath made of images of plants and animals there is engraved the small National Emblem of Ukraine and a legend:",
+  "reverseDescription": "On the coins reverse з there is a depiction of the rodent on the background of plants (left) and inscriptions: СЛІПАК ПІЩАНИЙ (above) and SPALAX ARENARIUS RESHETNIK (beneath).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=266",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=266"
+}

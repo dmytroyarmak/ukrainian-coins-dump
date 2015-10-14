@@ -1,0 +1,20 @@
+{
+  "id": 430,
+  "name": "Surb Khach Monastery",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "30 March 2009",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "smooth with in-depth legends",
+  "mintage": 10000,
+  "categoryId": 5925,
+  "category": "Architectural monuments of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to one of the outstanding Armenian monuments in Crimea – Surb Khach (Holy Cross) Monastery established in the XIVth century.",
+  "averseDescription": "On the obverse there are: above - the Small National Emblem of Ukraine and the circumferential legend: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine); in the centre – a Khachkar (cross-stone), that is located on the monastery territory, decorated with a vegetational ornamentation pattern, below – the coin issue year – 2009 and face value ДЕСЯТЬ ГРИВЕНЬ (ten hryvnias).",
+  "reverseDescription": "On the reverse there are depicted the monastery buildings with the legends: СТАРИЙ КРИМ/ВІРМЕНСЬКИЙ МОНАСТИР XIV ст. (STARYI KRYM / ARMENIAN MONASTERY OF XIV century) on the left and СУРБ ХАЧ (SURB KHACH) on the right.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=430",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=430"
+}

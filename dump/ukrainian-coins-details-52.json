@@ -1,0 +1,20 @@
+{
+  "id": 52,
+  "name": "Ski",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "12 February 1998",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 7500,
+  "categoryId": 5936,
+  "category": "Sport",
+  "generalDescription": "The commemorative coin of 10 Hryvnias denomination is dedicated to the 18th Winter Olympic Games in Nagano (Japan), the participant of which was the Olympic team of Ukraine.",
+  "averseDescription": "On the coin obverse at the center, there is the small National Emblem of Ukraine; at its sides there are depictions of snow-flakes and designations of Ag 925, the symbol of precious metal, and its weight 31,1. Above the National Emblem, there is the year of coin issue -1998. Around the circumference there is a two line legend: УКРАЇНА (Ukraine) and 10 ГРИВЕНЬ (10 Hryvnia)",
+  "reverseDescription": "On the coin reverse there is a picture of a skier against a background of decorative tracks. Around the circumference there is an inscription: ХVІІІ ЗИМОВІ ОЛІМПІЙСЬКІ ІГРИ НАГАНО, split with snow-flakes.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=52",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=52"
+}

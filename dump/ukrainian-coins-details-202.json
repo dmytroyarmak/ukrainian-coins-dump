@@ -1,0 +1,20 @@
+{
+  "id": 202,
+  "name": "Serzh Lyfar",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "25 February 2004",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to the birth centenary of Serhii Mykhailovych Lyfar, an outstanding ballet dancer, choreographer, pedagogue and ballet theorist.",
+  "averseDescription": "On the coin obverse against the background of a relief square there is depicted a dancer`s figure as Ikar`s character (one of the most famous parts of Lyfar); to the right against the coin smooth background there is the small National Emblem of Ukraine and semicircular inscriptions: УКРАЇНА, (Ukraine) 2004, 2, ГРИВНІ (2004 / Ukraine/ 2 /hryvnia) and the Mint logotype the National bank of Ukraine",
+  "reverseDescription": "On the coin reverse there is Serzh Lyfar`s profile portrait and inscriptions: СЕРЖ ЛИФАР (Serzh Lyfar) (beneath) in two lines and 1904-1986, his years of life - to the right.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=202",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=202"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 260,
+  "name": "Scythian Gold",
+  "metal": "gold (Au 999,9)",
+  "denomination": "2 hryvnias",
+  "date": "26 April 2005",
+  "weight": 1.24,
+  "diameter": 13.92,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "smooth",
+  "mintage": 15000,
+  "categoryId": 5926,
+  "category": "The smallest golden coin",
+  "generalDescription": "The coin is dedicated to the Scythian period (7th - 3d centuries B.C.), an extremely important stage in the development of the jeweller`s art in the territory of Ukraine. This distinctive jeweller`s art was embodied in figures of animals which decorated military munitions, household goods, clothing; etc.",
+  "averseDescription": "On the coin obverse within the bead circle there is depicted the small National Emblem of Ukraine, above which there is 2005, the coin issue year; between the bead circle and the coin rim there are inscriptions: УКРАЇНА (Ukraine) -above, 2 ГРИВНІ (2 / hryvnia)-beneath, as well as Au 999,9, the designation of metal (on the left), 1,24 g, its weight in fineness and the Mint logotype of the National Bank of Ukraine (on the right).",
+  "reverseDescription": "On the coin reverse there is a golden plaque depicting a relief sideview figure of a Scythian horseman, which was found in 1830 during archeological excavations of Kul-Oba burial mound near the city of Kerch.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=260",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=260"
+}

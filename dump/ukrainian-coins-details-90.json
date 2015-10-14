@@ -1,0 +1,20 @@
+{
+  "id": 90,
+  "name": "Ivan Kozlovskyi",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "15 March 2000",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "uncirculated",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to the birth centenary of the outstanding Ukrainian and Russian opera singer, Ivan Kozlovskyi (1900-1993).",
+  "averseDescription": "On the coin obverse there is depicted a lyre against the background of a flower design and the legend: 2000, УКРАЇНА, 2, ГРИВНІ. (2000/ Ukraine/ 2 /hryvnia). Above there is the small National Emblem of Ukraine",
+  "reverseDescription": "On the coin reverse there is a profile portrait of the singer and the circular inscription: 1900, ІВАН КОЗЛОВСЬКИЙ, 1993 (1900/ Kozlovskyi/ 1993)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=90",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=90"
+}

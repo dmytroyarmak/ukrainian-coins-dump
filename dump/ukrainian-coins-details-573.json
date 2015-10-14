@@ -1,0 +1,20 @@
+{
+  "id": 573,
+  "name": "The Great Bustard",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "26 April 2013",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5935,
+  "category": "Flora and Fauna",
+  "generalDescription": "The coin is dedicated to the great bustard, one of the largest birds in Ukraine. This disappearing species from the gruiformes order is on the Ukrainian and European Red List of Threatened Species as a worldwide endangered species.",
+  "averseDescription": "Obverse: within the wreath formed by images of some flora and fauna species there are located the Small Coat of Arms of Ukraine and the legends: on the German silver coin НАЦІОНАЛЬНИЙ/БАНК/УКРАЇНИ/2/ГРИВНІ/2013 (National/Bank/of Ukraine/2/hryvnias/2013); on the German silver coin there is the mark of the National Bank of Ukraine Mint.",
+  "reverseDescription": "Reverse: on the German silver coin there is the great bustard image and the legends: above - ДРОХВА (great bustard) and, below against the background of grass - OTIS TARDA. The German silver coin was fabricated with making use of the pad printing.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=573",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=573"
+}

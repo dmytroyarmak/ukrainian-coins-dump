@@ -1,0 +1,20 @@
+{
+  "id": 161,
+  "name": "Christmas",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "29 December 1999",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 100000,
+  "categoryId": 5929,
+  "category": "2000 Years of Christmas",
+  "generalDescription": "The coin of 5 hryvnia denomination is dedicated to the 2000th anniversary of Christmas",
+  "averseDescription": "On the coin obverse there is depicted the small National Emblem of Ukraine between two figures of angels and the following legend: УКРАЇНА 5 / ГРИВЕНЬ / 1999 (Ukraine/ 5 /hryvnia/1999).",
+  "reverseDescription": "On the coin reverse within the frame of symbolic geometric figures there is pictured the birth of Jesus Christ according to the Bible. The Blessed Virgin with the baby in the aureole of the Bethlehem star is surrounded by the domestic animals and The Three Wise Men with gifts.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=161",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=161"
+}

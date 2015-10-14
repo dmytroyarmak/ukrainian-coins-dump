@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "name": "50th anniversary of Victory in the Great Patriotic War 1941-1945",
+  "metal": "german silver",
+  "denomination": "200000 karbovanets",
+  "date": "7 May 1995",
+  "weight": 14.35,
+  "diameter": 33,
+  "thickness": 1.85,
+  "quality": "proof-like",
+  "edge": "corrugated",
+  "mintage": 250000,
+  "categoryId": 6053,
+  "category": "Перемога у Великій Вітчизняній війні 1941-1945 рр.",
+  "generalDescription": "The coin is dedicated to the 50th anniversary of Victory in the Great Patriotic War.",
+  "averseDescription": "On the coin obverse there is the Small State Emblem of Ukraine in the middle of the beads circumference decoration, framed with guelder-rose sprays. Above the State Emblem there is the year of issue -1995. The two-line inscription 200000 КАРБОВАНЦІВ, the coin face value, is beneath the small State Emblem (200000 number is split by the beads ornamentation). Between the external edge and the beads ornamentation, around the circumference there is an inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ split with rhombic separative marks from the word КАРБОВАНЦІВ.",
+  "reverseDescription": "On the coin reverse there is in the center the Sophia square ensemble in Kiev - St.Sophia cathedral and the Bohdan Khmelnytsky monument. Against a background of the Cathedral, to the right there is the figure of a young woman with flowers in national attire - symbol of young independent Ukraine, who is bending her head in front of eternal flame of peoples memory on all perished at the Great Patriotic War. Around the circumference at the coin upper part there is an inscription ПЕРЕМОГА У ВЕЛИКІЙ ВІТЧИЗНЯНІЙ ВІЙНІ. Beneath the horizontal line there is the inscription 1941-1945",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=1",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=1"
+}

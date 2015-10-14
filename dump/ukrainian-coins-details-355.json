@@ -1,0 +1,20 @@
+{
+  "id": 355,
+  "name": "100 Years of JSC `Motor-Sich`",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "22 May 2007",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 45000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The commemorative coin is dedicated to one of the largest in the world and the only one in Ukraine enterprise involved in production, testing, maintenance in service and repair of 55 engine types and modifications for 61 kinds of airplanes and helicopters for different purposes, which are operated in 106 countries of the world - Zaporozhian open joint stock company `Motor-Sich`.",
+  "averseDescription": "On the obverse against the Earth hemispheres there is the image of the Falcon, above there is the Small National Emblem of Ukraine with the circumferential legend НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) over it, to the left – the coin minting year 2007 and 5 ГРИВЕНЬ (5 hryvnias) below, as well as the logotype of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the reverse the image of the aeroengine is depicted, above on the right there is the logotype JSC of “Motor-Sich” and the inscriptions: МОТОР СІЧ (Motor-Sich) above on the left and 100 РОКІВ (100 years) below.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=355",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=355"
+}

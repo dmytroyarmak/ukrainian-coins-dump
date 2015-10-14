@@ -1,0 +1,20 @@
+{
+  "id": 433,
+  "name": "Ukrainian Pysanka",
+  "metal": "silver (Ag 925)",
+  "denomination": "20 hryvnias",
+  "date": "16 April 2009",
+  "weight": 62.2,
+  "diameter": 50,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "smooth with in-depth legends",
+  "mintage": 8000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The coin is dedicated to pysanka-making art (Easter egg decoration) being a striking example of creative work in Ukrainian traditional art and having peculiar ornamentation patterns and scales of colours in each ethnographic region of Ukraine.",
+  "averseDescription": "On the obverse of the 20 hryvnia coin: above there are the Small National Emblem of Ukraine and semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine), below against the background of rushnyky (Ukrainian embroidered towels) there is the composition of a dish with the pysanky decorated with vegetational and geometrical ornamentation patterns peculiar to different regions of Ukraine; below there is the legend 20/ГРИВЕНЬ/2009 (20 hryvnias).",
+  "reverseDescription": "On the reverse of the silver coin - the coin circumference is decorated with a pysanka-like ornamentation pattern whose inner contour line forms the egg in the middle whereof there is a composition - a woman (pysanka maker) ornamenting an egg and a sitting girl observing her; on the ornamental circumference there are the legends: УКРАЇНСЬКА (Ukrainian) on the left and ПИСАНКА (pysanka);",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=433",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=433"
+}

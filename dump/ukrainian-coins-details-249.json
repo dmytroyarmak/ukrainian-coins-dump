@@ -1,0 +1,20 @@
+{
+  "id": 249,
+  "name": "50 Years of the State Design Office `Pivdenne`",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "29 March 2004",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The coin is dedicated to the State design office `Pivdenne`, which was founded on 10 April, 1954 in the city of Dnipropetrovsk. About 70 types of space vehicles developed at the design office `Pivdenne` enabled to conduct space researches within the frame of both national and international projects, contributing to the development of science and the national economy. As of today, one of the priority tasks of this design office is the implementation of the National Space Program of Ukraine according to which the launch of `Sich-1M` multifunctional space vehicle is planned for 2004.",
+  "averseDescription": "On the coin obverse there is depicted a space satellite orbit above one part of a terrestrial globe, against whose background there is the small National Emblem of Ukraine and the inscriptions: 2004, УКРАЇНА, 5 ГРИВЕНЬ (2004/ Ukraine/ 5 hryvnia), as well as the logotype of the NBU Mint.",
+  "reverseDescription": "On the coin reverse there are depicted a crescent (on the left) and a space vehicle, above there is the semicircular inscription: `КБ`ПІВДЕННЕ` (Design office `Pivdenne`) and 50 РОКІВ (50 Years) - below",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=249",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=249"
+}

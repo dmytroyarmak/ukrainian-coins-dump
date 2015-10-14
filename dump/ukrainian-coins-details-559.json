@@ -1,0 +1,20 @@
+{
+  "id": 559,
+  "name": "Mykhailo Kravchuk",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "20 September 2012",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 15000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to Mykhailo Pylypovych KRAVCHUK, a mathematician, educator and public figure, who was a member of the Ukrainian Academy of Sciences, author of basic research works in algebra, analysis, linear transformation theory, function theory, etc. Thanks to his wide range of scientific interests and scientific results Mykhailo Kravchuk came into prominence not only in Ukraine, but also beyond.",
+  "averseDescription": "Obverse: above there is the Small Coat of Arms of Ukraine with the semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine), in the centre there is a part of one of M.P.Kravchuk`s formulae with his utterance in the middle thereof МОЯ ЛЮБОВ - УКРАЇНА І МАТЕМАТИКА (My love - Ukraine and mathematics), below there are the coin face value - ДВІ ГРИВНІ (two hryvnias), issue year indication - 2012 and the National Bank of Ukraine Mint logo.",
+  "reverseDescription": "Reverse: against the background of numbers personifying the mathematician`s activities there are his portrait and legends: МИХАЙЛО/КРАВЧУК (Mykhailo/Kravchuk) and to the right 1892/1942 (years of his life).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=559",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=559"
+}

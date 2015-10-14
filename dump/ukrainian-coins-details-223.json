@@ -1,0 +1,20 @@
+{
+  "id": 223,
+  "name": "Ascania - Nova",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "20 May 1998",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 90000,
+  "categoryId": 5935,
+  "category": "Flora and Fauna",
+  "generalDescription": "The coin is dedicated to the centenary of foundation of `Ascania Nova`, the first in Ukraine steppe reserve, the founder of which was Fridrich Falz-Fain.",
+  "averseDescription": "On the coin obverse there is a depiction of the small National Emblem of Ukraine against a background of a steppe landscape, combined from some species of local flora and fauna. Above the National Emblem, there is an inscription: УКРАЇНА (Ukraine) and 1998. Under the picture, there is the following inscription: 2 ГРИВНІ (2 /hryvnia).",
+  "reverseDescription": "On the coin reverse there is a composition, consisting of the stone steppe idol and a dynamic group of animals-inhabitants of the Reserve. Above the picture, around the circumference there is an inscription: АСКАНІЯ-НОВА. (Ascania-Nova). At the composition lower part, there is a depiction of Falz-Fain`s family emblem and a circumference inscription: 100 РОКІВ (100 Years)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=223",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=223"
+}

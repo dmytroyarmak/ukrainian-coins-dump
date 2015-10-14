@@ -1,0 +1,20 @@
+{
+  "id": 47,
+  "name": "Severyn Nalyvayko",
+  "metal": "silver (Ag 925)",
+  "denomination": "20 hryvnias",
+  "date": "26 January 1998",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 5000,
+  "categoryId": 5937,
+  "category": "Heroes of Cossack Age",
+  "generalDescription": "The commemorative coin of 20 Hryvnias denomination is dedicated to the memory of Severyn Nalyvayko (? - 1597), leader of Cossack-peasant uprising of 1594-1596 in Ukraine against Polish domination",
+  "averseDescription": "On the coin obverse in the middle of the beads circumference decoration, there is the composition symbolizing the national idea of Unification of Ukraine: the emblematic figures of the Holy Michael Archistrategos, the patron of Kiev and crowned lion of Galitch and Volhyn principalities hold the Small State Emblem of Ukraine-Trident on the shield. Over the composition, there is the year of coin issue -1997. Above, around the coin external circumference there is an inscription: УКРАЇНА and - underneath in two line - 20 ГРИВЕНЬ, coin`s face value",
+  "reverseDescription": "On the coin reverse at the center there is a depiction of Severyn Nalyvayko on a horse with a sword at his right hand and a torch at his left. Underneath and at the right, there are figures of armed insurgent people. At the left mat segment there is an inscription СЕВЕРИН НАЛИВАЙКО (Severyn Nalyvayko) between the external edge and the beads semicircle. At the right mat segment there is a two line inscription 1594-1596 - years of uprising under Severyn Nalyvayko`s leadership",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=47",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=47"
+}

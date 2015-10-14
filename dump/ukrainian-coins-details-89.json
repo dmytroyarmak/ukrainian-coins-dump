@@ -1,0 +1,20 @@
+{
+  "id": 89,
+  "name": "Christmas",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "29 December 1999",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 10000,
+  "categoryId": 5929,
+  "category": "2000 Years of Christmas",
+  "generalDescription": "The coin of 10 hryvnia denomination is dedicated to the 2000th anniversary of Christmas",
+  "averseDescription": "On the coin obverse there is depicted the small National Emblem of Ukraine between two figures of angels and the following legends: УКРАЇНА 10 / ГРИВЕНЬ / 1999, (Ukraine/ 10/hryvnia/1999, as well as the designation of the metal, its fineness and the coin weight in fineness",
+  "reverseDescription": "On the coin reverse within the frame of symbolic geometric figures there is pictured the birth of Jesus Christ according to the Bible. The Blessed Virgin with the baby in the aureole of the Bethlehem star is surrounded by the domestic animals and The Three Wise Men with gifts",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=89",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=89"
+}

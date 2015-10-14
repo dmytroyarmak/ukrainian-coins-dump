@@ -1,0 +1,20 @@
+{
+  "id": 372,
+  "name": "Skythian Gold (The Goddess Api)",
+  "metal": "gold (Au 999,9)",
+  "denomination": "2 hryvnias",
+  "date": "22 February 2008",
+  "weight": 1.24,
+  "diameter": 13.92,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "smooth",
+  "mintage": 10000,
+  "categoryId": 5926,
+  "category": "The smallest golden coin",
+  "generalDescription": "The coin is dedicated to an artefact of the Skythian culture - a lamina applique`s work of 6th century B.C. with the depiction of the Goddess Api, the Scythians` original mother.",
+  "averseDescription": "On the coin obverse within a bead circle there is depicted the small National Emblem of Ukraine, above which there is 2008, the coin mintage year; between the bead circle and the coin rim there are the inscriptions: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) (above), 2 ГРИВНІ (2 Hryvnia) (below), as well as Au 999,9 , the designation of the metal (on the left), 1,24, its mass and the NBU Mint logotype (on the right).",
+  "reverseDescription": "On the coin reverse there is a depiction of a golden lamina applique` work as the Goddess Api with serpent-like legs and there is also a semicircular inscription: СКІФСЬКЕ ЗОЛОТО (Skythian Gold) (beneath).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=372",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=372"
+}

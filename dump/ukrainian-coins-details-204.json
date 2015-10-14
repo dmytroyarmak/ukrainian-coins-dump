@@ -1,0 +1,20 @@
+{
+  "id": 204,
+  "name": "Yurii Fedkovych",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "26 July 2004",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to 170th anniversary of Yurii Fedkovych (1834-1888), an innovative writer, poet, ethnographer, specialist in folklore, playwright and public figure. Being a son of the Ukrainian Carpathian region, Yurii (Osyp) A.Fedkovych is a folk author, one of the pioneers of the national Renaissance in Bykovyna region.",
+  "averseDescription": "On the coin obverse a composition is depicted which personifies a patriotic, heroic and romantic trend in the creative work of Fedkovych: a horseman holding a hatchet in his hand defending swallows from a bird of prey. To the left from the composition there is the coin mintage year: 2004, under which there is the small National Emblem of Ukraine and the Mint logo of the National Bank of Ukraine; to the right there is a three-lined conventionalized inscription : УКРАЇНА (Ukraine) and the coin face value: 2 ГРИВНІ (2 hryvnia).",
+  "reverseDescription": "On the coin reverse there is a portrait of Yuri Fedkovych, to the right from which an inscription ЮРІЙ ФЕДЬКОВИЧ(Yurii Fedkovych) and his years of life: 1834 - 1888 are depicted.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=204",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=204"
+}

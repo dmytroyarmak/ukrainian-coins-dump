@@ -1,0 +1,20 @@
+{
+  "id": 3,
+  "name": "Bohdan Khmelnytsky",
+  "metal": "silver (Ag 925)",
+  "denomination": "1000000 karbovanets",
+  "date": "21 June 1996",
+  "weight": 15.55,
+  "diameter": 33,
+  "thickness": 1.85,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 10000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coins are dedicated to 400th anniversary of Bohdan Khmelnytsky - the Hetman of Ukraine, outstanding statesman, political and military figure of 17th century, who made significant contribution to the formation of Ukrainian statehood at one of the most dramatic periods of the liberation war of Ukrainian people in 1648-1654.",
+  "averseDescription": "On the coin obverse there is the small State Emblem of Ukraine in the middle of the beads circumference decoration, framed with guelder-rose sprays. Above the State Emblem there is the year of issue -1996. Around the coin circumference there are inscriptions: УКРАЇНА - above and 1 МІЛЬЙОН КАРБОВАНЦІВ - underneath in three lines. Left and right from figure 1 there are designations of Аg 925 and 15,55, coin pure weight",
+  "reverseDescription": "On the coin reverse in the center there is the photographic picture of Bohdan Khmelnytsky monument at the Sophia square in Kyiv. Around the circumference there is an inscription БОГДАН on the left, ХМЕЛЬНИЦЬКИЙ - on the right, 1595-1657 - against a background of the pedestal.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=3",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=3"
+}

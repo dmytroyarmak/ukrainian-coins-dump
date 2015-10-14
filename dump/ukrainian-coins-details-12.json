@@ -1,0 +1,20 @@
+{
+  "id": 12,
+  "name": "10 years of Chornobyl Disaster",
+  "metal": "german silver",
+  "denomination": "200000 karbovanets",
+  "date": "25 April 1996",
+  "weight": 14.35,
+  "diameter": 33,
+  "thickness": 1.85,
+  "quality": "proof-like",
+  "edge": "corrugated",
+  "mintage": 250000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The coin is sued to mark the 10th anniversary of the disaster at the Chornobyl Nuclear Power Plant.",
+  "averseDescription": "On the coin obverse on the coin obverse there is the Small State Emblem of Ukraine in the middle of the beads circumference decoration, framed with guelder-rose sprays. Above the State Emblem there is the year of issue:1996. Around the coin circumference there are inscriptions: УКРАЇНА at the upper part and in two rows: 200000 КАРБОВАНЦІВ",
+  "reverseDescription": "On the coin reverse there is a bell depiction in the coin centre with the inscription ЧОРНОБИЛЬ upon it. Beneath the bell there is a strip with the inscription 1986-1996. On the background there are flying cranes: three - left from the bell and two - to its right. Around the coin circumference there is an inscription: ТРАГЕДІЯ ПОДВИГ ЗАСТЕРЕЖЕННЯ. Words are separated with dots from one another and from the strip.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=12",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=12"
+}

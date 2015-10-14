@@ -1,0 +1,20 @@
+{
+  "id": 123,
+  "name": "BISON BONASUS",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "31 March 2003",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 2000,
+  "categoryId": 5935,
+  "category": "Flora and Fauna",
+  "generalDescription": "The coin of is dedicated to BISON BONASUS, an almost completely annihilated representative of the artiodactila species in the fauna of Ukraine who has been successfully bred and settled in Ukraine since 1965. The bison is on the endangered-species list of Ukraine, the International Union for Conservation of Nature and Natural Resources and Europe.",
+  "averseDescription": "On the coin obverse set in the wreath made of images of plants and animals there is engraved the small National Emblem of Ukraine and a legend:",
+  "reverseDescription": "On the coin reverse there is a bison depiction circumscribed by: ЗУБР(bison) -above and BISON BONASUS -beneath",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=123",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=123"
+}

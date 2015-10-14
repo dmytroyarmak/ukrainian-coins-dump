@@ -1,0 +1,20 @@
+{
+  "id": 217,
+  "name": "2500 Years of the town of Yevpatoria",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "24 July 2003",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5931,
+  "category": "Ancient cities of Ukraine",
+  "generalDescription": "The coin is dedicated to 2500 Years of the ancient town of Yevpatoria. At the turn of 6-th and 5-th centuries B.C. in the period of Greek colonization, an ancient town of Cerkinitidus appeared there. It was first mentioned in written sources by Hecateus of Miletus, later - by Herodotus, Ptolemy and Arrian. Today Yevpatoria is an All-Ukrainian child health centre, climatic, balneal and mud health resort",
+  "averseDescription": "On the coin obverse there is a conventionalized image of the sun and sea, above - there is the coin issue year: 2003, below there are engraved the small National Emblem of Ukraine and inscriptions: УКРАЇНА, 5 ГРИВЕНЬ (Ukraine/ 5/ hryvnia), as well as the Mint logotype of the National Bank of Ukraine",
+  "reverseDescription": "On the coin reverse at the top against the background of sea there is a collage made of depictions of architectural monuments and modern buildings; in the centre there is a two-lined inscription: ЄВПАТОРІЯ, 2500 років (Yevpatoria / 2500 Years). In the foreground there is depicted an amphora with a sea gull sitting on it.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=217",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=217"
+}

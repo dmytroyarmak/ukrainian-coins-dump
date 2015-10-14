@@ -1,0 +1,20 @@
+{
+  "id": 33,
+  "name": "Petro Mohyla",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "25 December 1996",
+  "weight": 15.55,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 5000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to 400th anniversary of Petro Mohyla (1596-1647), an outstanding Ukrainian ecclesiastical, cultural, educational and political figure of the first half of the 17th century, the Metropolitan of Kyiv and Halych, one of the founders of the first higher school in Ukraine and Eastern Europe - the Kyiv-Mohyla Collegium (later-Academy).",
+  "averseDescription": "The coin is dedicated to 400th anniversary of Petro Mohyla (1596-1647), an outstanding Ukrainian ecclesiastical, cultural, educational and political figure of the first half of the 17th century, the Metropolitan of Kyiv and Halych, one of the founders",
+  "reverseDescription": "On the coin reverse there is a portrait of Petro Mohyla, made by an unknown artist of 18th century (now preserved at the National Museum of the History of Ukraine). Above the baton there is a three line inscription: ПЕТРО МОГИЛА and 1596-1647.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=33",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=33"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 461,
+  "name": "Yevhen Paton",
+  "metal": "silver (Ag 925)",
+  "denomination": "5 hryvnias",
+  "date": "5 February 2010",
+  "weight": 15.55,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "smooth with in-depth legends",
+  "mintage": 5000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to Yevhen Oskarovych PATON (1870-1953), a world-famous scientist, founder of Ukrainian schools of bridge engineering and electric welding, outstanding engineer and pedagogue. On his initiative established was the Electric Welding Laboratory under the Academy of Sciences of Ukraine which in 1934 was reorganized into the Electric Welding Institute whose director and research manager Yevhen Paton was continuously to the end of his life.",
+  "averseDescription": "On the coin obverse above there is the Small Coat of Arms of Ukraine with the semicircular legend НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine); below there is the composition symbolizing the scholar`s activity in the bridge engineering which represents the Paton Bridge, the first fully welded bridge in Europe, the footbridge over Petrovska Alley and conventionalized Whatman`s paper sheet (to the left); beneath there is the inscription 5 ГРИВЕНЬ/2010 (5 hryvnias).",
+  "reverseDescription": "On the coin reverse there is a portrait of Yevhen Paton, to the right whereof there is the conventionalized image of electric arc scintillation that appears during the welding; below there are the inscriptions: ЄВГЕН/ПАТОН/1870-1953 (Yevhen/Paton).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=461",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=461"
+}

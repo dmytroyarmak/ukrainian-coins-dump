@@ -1,0 +1,20 @@
+{
+  "id": 212,
+  "name": "2600 Years of the town of Kerch",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "25 December 2000",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 50000,
+  "categoryId": 5931,
+  "category": "Ancient cities of Ukraine",
+  "generalDescription": "Jubilee coin of 5 Hryvnias denomination is dedicated to 2600th anniversary of the town of Kerch, which was founded in the 6th century B.C. by ancient Greeks and was called Pantikapaeum (the capital of the Bosporus Kingdom in the 5-6th centuries B.C.). Due to its favorable geo-political location the town was trade, cultural and crafts center, it also minted its own coins",
+  "averseDescription": "On the coin obverse at its upper part there is the small National Emblem of Ukraine; on the background of the Mitrydat hill there is a bracelet made of archeological finds of Kul-Oba kurgan; on the hill both sides there are conventionalized depictions of Black and Azov Seas, as well as inscriptions: УКРАЇНА (Ukraine) 2000, 5, ГРИВЕНЬ (5/Hryvnias) and the Mint logotype of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse at the center there is a depiction of the ionic order column, a monument in the town of Kerch; above the column there are coins of Pantikapaeum, on the column left side against the background of a town landscape there is the church of John the Baptist, the monument of 10th-14th century; on the column right side there are stairs leading to the Mitrydat hill and semicircular inscriptions: КЕРЧ 2600 (Kerch/ 2600",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=212",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=212"
+}

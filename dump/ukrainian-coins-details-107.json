@@ -1,0 +1,20 @@
+{
+  "id": 107,
+  "name": "Scythia",
+  "metal": "bimetal from precious metals (Ag 925 - Au 916)",
+  "denomination": "20 hryvnias",
+  "date": "30 January 2001",
+  "weight": 14.7,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "unspecified",
+  "edge": "sectoral corrugation",
+  "mintage": 3000,
+  "categoryId": 5924,
+  "category": "Monuments of ancient cultures of Ukraine",
+  "generalDescription": "Commemorative coin of 20 Hryvnias denomination is dedicated to a great union of Scythian cattle-breeding and settled tribes (7th century B.C. - 3d century A.D.) which inhabited the steppe and forest-step regions of today` Ukraine. The political union of Scythian tribes played important role in the life of the south-western Europe and the northern Black Sea regions",
+  "averseDescription": "On the coin obverse in the centre of the insert ring and against the background of rye ears there is depicted of a symbolic wheel of history with a falcon sitting on it, underneath it there is depicted a snake; above and to the left there is the small National Emblem of Ukraine; within the outer ring, there are depicted a Scythian warrior with a bowl in his hand (on the left) and a Scythian queen holding a mirror (on the right), as well as the logotype of the NBU Mint and the inscriptions: УКРАЇНА / 2000 / 20 / ГРИВЕНЬ (Ukraine/ 20/ hryvnia/ 2000)",
+  "reverseDescription": "On the coin reverse within the insert ring there is a depiction of a archeological find (7th beginning of 6th centuries B.C.) a Scythian plate which decorated a female headdress; within the outer ring there are conventionalized depictions made in so-called Scythian animal style and the inscription: СКІФІЯ (Scythia)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=107",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=107"
+}

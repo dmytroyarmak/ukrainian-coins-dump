@@ -1,0 +1,20 @@
+{
+  "id": 128,
+  "name": "Pectoral",
+  "metal": "gold (Au 900)",
+  "denomination": "100 hryvnias",
+  "date": "28 July 2003",
+  "weight": 31.1,
+  "diameter": 32,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "sectoral corrugation",
+  "mintage": 1500,
+  "categoryId": 5928,
+  "category": "Spiritual Treasures of Ukraine",
+  "generalDescription": "Commemorative coin of 100 Hryvnias denomination is dedicated to the golden Pectoral (4-th century B.C.), the unsurpassed masterpiece of Hellenic and Scythian art found in the Tovsta Mohyla burial mound in Dnipropetrovsk region (1971). The archaeologist Boris M. Mozolevskyi who found this moonlike three-tier decoration of a Scythian tsar said, ` Like a drop of dew it reflects not only the shine of Scythian gold but also the great heart of the whole nation`",
+  "averseDescription": "On the coin obverse there is a depicted a stranded twine with a floral ornament, separating the pectoral tiers. Inside it there is the small National Emblem of Ukraine and the year of coin issue (2003), as well as inscriptions: УКРАЇНА, 100 ГРИВЕНЬ,(Ukraine/ 100/ hryvnia ), the designation of the metal, its fineness and its weight in fineness .On the coin obverse there is also the Mint logotype of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse against the background of a Scythian kurgan there is the pectoral depiction with magnified fragments of the top tier. Above the pectoral there is a mare with a foal, beneath - two men stretching an animal skin",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=128",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=128"
+}

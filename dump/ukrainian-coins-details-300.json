@@ -1,0 +1,20 @@
+{
+  "id": 300,
+  "name": "Winter Olympic Games of 2006",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "28 February 2006",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 5000,
+  "categoryId": 5936,
+  "category": "Sport",
+  "generalDescription": "The coin continues the `Sport` Series and is dedicated to the XXth Winter Olympic Games, which took place in Turin (Italy)",
+  "averseDescription": "On the coin obverse there is a depiction of the Olympic torch against the background of a conventionalized glass toboggan road; to the right from the torch there are inscriptions: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ 10 ГРИВЕНЬ 2006 (National Bank of Ukraine) to the left there is the National Emblem of Ukraine; beneath: the logotype of the Mint of the National Bank of Ukraine; marking of the metal and its fineness Ag 925, and its weight in fineness.31,1 g.",
+  "reverseDescription": "On the coin reverse a female tobogganer on the road is depicted, to the left there is the emblem of the National Olympic Committee of Ukraine against the background of a glass surface; to the right there are inscriptions: ЗИМОВІ ОЛІМПІЙСЬКІ ІГРИ / WINTER OLYMPIC GAMES/ 2006.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=300",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=300"
+}

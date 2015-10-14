@@ -1,0 +1,20 @@
+{
+  "id": 287,
+  "name": "Volodymyr Vynnychenko",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "30 November 2005",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to 125th anniversary of Volodymyr Vynnychenko, a public and political figure and writer. Volodymyr Vynnychenko is one of the key figures of the Ukrainian history and culture of the first decades of twenties century. Being in the centre of political life he became the Vice Chairman of the Central Rada (Ukrainian Parliment), he headed the first Ukrainian Government and at the end of 1918 became the first Directoire Chairman of the Ukrainian People` Republic.",
+  "averseDescription": "On the coin obverse in the centre there is the small National Emblem of Ukraine, beneath - 2005, the coin issue year; around the coin circumference there are inscriptions: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) -above; ДВІ ГРИВНІ (2/ hryvnia) -beneath, as well as the NBU Mint logotype",
+  "reverseDescription": "On the coin reverse there is depicted a portrait of Vynnychenko, on both sides of which there are inscriptions: ВОЛОДИМИР/ ВИННИЧЕНКО (Volodymyr Vynnychenko) - on the left and his years of life: 1880/1951 - on the right.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=287",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=287"
+}

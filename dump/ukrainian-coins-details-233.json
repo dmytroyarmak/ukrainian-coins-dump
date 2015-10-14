@@ -1,0 +1,20 @@
+{
+  "id": 233,
+  "name": "ТИСЯЧОЛІТЬ (On the Verge of Millenniums) (2000)",
+  "metal": "bimetal from nonprecious metals",
+  "denomination": "5 hryvnias",
+  "date": "28 December 2000",
+  "weight": 9.4,
+  "diameter": 28,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "sectoral corrugation",
+  "mintage": 50000,
+  "categoryId": 5923,
+  "category": "On the Edge of Millenniums",
+  "generalDescription": "The coin is dedicated to transition of mankind to the third millennium, which is associated with people`s expectations of peace, mutual understanding and prosperity",
+  "averseDescription": "On the coin obverse against the background of a mirror there is depicted the vivid three-petal ornament formed by three semicircles, symbolizing the triunity of the past, the present and the future. In the middle of this ornament there is the small National Emblem of Ukraine. Among the petals there are circular inscriptions: УКРАЇНА, 5, ГРИВЕНЬ, 2000 (Ukraine/ 5/ hryvnia/ 2000) and the logotype of the Mint of the National bank of Ukraine",
+  "reverseDescription": "On the coin reverse there is a conventionalized figure of a sower, who is walking along a tillage and sowing the seeds of the `rational, good and eternal` for those people who will live in the next millennium. Around the circle there is an inscription: НА МЕЖІ ТИСЯЧОЛІТЬ (On the Verge of Millenniums)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=233",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=233"
+}

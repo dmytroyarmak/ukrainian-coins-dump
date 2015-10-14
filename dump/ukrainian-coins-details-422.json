@@ -1,0 +1,20 @@
+{
+  "id": 422,
+  "name": "Andrii Livytskyi",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "27 March 2009",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The commemorative coin “Andrii Livytskyi” with the face value of 2 hryvnias is dedicated to Andrii Mykolaiovych Livytskyi, a Ukrainian expert in law, statesman, public and political figure.",
+  "averseDescription": "On the coin obverse there are: the Small State Emblem of Ukraine (in the centre), the coin issue year 2009 (thereunder), the circumferential legends Національний Банк України (National Bank of Ukraine) above and ДВІ ГРИВНІ (Two hryvnias) below together with the logotype of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the coin reverse there are A.M. Livytskyi’s portrait and the inscriptions: АНДРІЙ ЛІВИЦЬКИЙ (Andrii Livytskyi) – above (semicircular), 1879/1954 – years of life, to the right of the portrait, and beneath (semicircular) – ПРЕЗИДЕНТ УНР В ЕКЗИЛІ (President of the UPR (Ukrainian People’s Republic) in Exile).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=422",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=422"
+}

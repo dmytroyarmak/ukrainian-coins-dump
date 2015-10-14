@@ -1,0 +1,20 @@
+{
+  "id": 63,
+  "name": "Aeneid",
+  "metal": "gold (Au 900)",
+  "denomination": "100 hryvnias",
+  "date": "28 October 1998",
+  "weight": 15.55,
+  "diameter": 25,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "smooth",
+  "mintage": 2000,
+  "categoryId": 5928,
+  "category": "Spiritual Treasures of Ukraine",
+  "generalDescription": "The coin is dedicated to the 200th anniversary since the first publication of `Aeneid` poem by Ivan Kotliarevskyi (1769-1838), the founder of the new Ukrainian literatureT",
+  "averseDescription": "On the coin obverse there is a depiction of the Small State Emblem of Ukraine, surrounded by the antique and Cossack attributes: two lyres, a helmet, a sabre, a flask and a quiver with arrows. On the coin there are the following inscriptions: УКРАЇНА and 1998 ( above); 100 ГРИВЕНЬ, Au 900, designation of precious metal and 15,55, its pure weight (underneath, in two lines)",
+  "reverseDescription": "On the coin reverse there is the composition, consisting of grotesque images: Aeneid and Didona, the heroes of the poem, standing near the central figure of the Cossack playing bandura (a folk Ukrainian instruments) on the background of a landscape. On the coin there are the following inscriptions: ЕНЕЇДА - above; І.КОТЛЯРЕВСЬКОГО and 200 РОКІВ - underneath, in three lines.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=63",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=63"
+}

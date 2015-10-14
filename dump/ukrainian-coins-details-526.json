@@ -1,0 +1,20 @@
+{
+  "id": 526,
+  "name": "Glassblower",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "28 February 2012",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5922,
+  "category": "Folk Crafts of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to the glassblowing, i.e. glass production known as early as in the Kyiv Rus epoch. After many centuries of development the glassblowing has reached a high artistic level. Especially ingenuous were flasks, very small casks, large bottles, quart bottles and differently shaped vessels in the form of cockerels, birds, teddy-bears, etc.",
+  "averseDescription": "Obverse: above there are the Small Coat of Arms of Ukraine and the conventionalized legend: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) thereunder; in the centre there are depicted in a conventionalized manner two little birds and (to the left and right of them) different glassblowing products - glass household stuff; below there are the legends: 5/ГРИВЕНЬ/2012 (5 hryvnias) together with the National Bank of Ukraine Mint logo.",
+  "reverseDescription": "Reverse: there is depicted a glassblower fabricating a vessel. Above, there is the legend ГУТНИК (glassblower). To the left and right of the central composition there are ornamental flower patterns.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=526",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=526"
+}

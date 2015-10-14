@@ -1,0 +1,20 @@
+{
+  "id": 639,
+  "name": "Nicholas Roerich",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "25 September 2014",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin commemorates the 140th anniversary of the birth of Nicholas Roerich (Nikolai Konstantinovich Rerikh), a world-famous artist, philosopher, scholar, archaeologist, explorer, who made a substantial contribution to the treasure house of the world science and culture having elaborated the first international Treaty on the Protection of Artistic and Scientific Institutions and Historic Monuments known as the Roerich Pact. Nicholas Roerich was connected with Ukraine by various intercommunications - from his delight in Taras Shevchenko`s creative work up to the monumental mosaic compositions spiritualizing the orthodox churches.",
+  "averseDescription": "Obverse: above there is the Small Coat of Arms of Ukraine with the semicircular inscription Національний банк України (National Bank of Ukraine); in the centre there is the conventionalized image: the Protecting Veil of the Blessed Virgin Mary, the mosaic by Nicholas Roerich`s sketch in the church of the village of Parkhomivka in the Kyiv Oblast; to the left there is the mark of the National Bank of Ukraine Mint; below there are the coin face value 2 / ГРИВНІ (2 / hryvnias) and the coin issue year indication 2014.",
+  "reverseDescription": "Reverse: against the background of the conventionalized image of mountains there is the portrait of Nicholas Roerich holding `Kobzar`, one of his most favourite books; above there is the semicircular inscription МИКОЛА РЕРІХ (Nicholas Roerich); to the right there is the indication of the years of his life 1874/1947.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=639",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=639"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 72,
+  "name": "Petro Doroshenko",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "7 September 1999",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 10000,
+  "categoryId": 5937,
+  "category": "Heroes of Cossack Age",
+  "generalDescription": "Commemorative coin is dedicated to Petro Doroshenko, the outstanding hetman of the Ukrainian Cossack state",
+  "averseDescription": "On the coin obverse there is the composition similar to the whole Series of coins which embodies the National idea of the Unified Ukraine: next to the small National Emblem of Ukraine, the emblematic figures of Michael the Archistrategos and crowned lion are located, which are symbols of Kyiv and L`viv Cities. Circular inscriptions are split by baroque ornamentation: УКРАЇНА, 10 ГРИВЕНЬ, 1999, (Ukraine/ 10 Hryvnia/ 1999), the designation of precious metal - Ag 925 and its weight in fineness - 31,1.",
+  "reverseDescription": "On the coin reverse in the circle made of a string of beads, there is a depiction of a riding hetman dressed in a festive military attire; on the right there is the Coat of arms of Doroshenko`s family (artist H.Narbut, 1914). There are conventionalized circular inscriptions: ПЕТРО ДОРОШЕНКО (Petro Doroshenko) and 1627-1698",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=72",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=72"
+}

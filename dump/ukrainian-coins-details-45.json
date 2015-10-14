@@ -1,0 +1,20 @@
+{
+  "id": 45,
+  "name": "First Anniversary of the Constitution of Ukraine",
+  "metal": "german silver",
+  "denomination": "2 hryvnias",
+  "date": "1 December 1997",
+  "weight": 14.35,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "proof-like",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5933,
+  "category": "Rebirth of Ukrainian Statehood",
+  "generalDescription": "The coin is dedicated to the principal Law of Ukraine, adopted on June 28,1996 at the 5-th Session of the Verkhovna Rada of Ukraine",
+  "averseDescription": "On the coin obverse there is the small State Emblem of Ukraine in the middle of the beads circumference decoration, framed with guilder-rose sprays. Above the State Emblem there is the year of issue - 1997. Around the coin circumference there are inscriptions: УКРАЇНА - above and two line inscription 2 ГРИВНІ - underneath. The inscriptions are separated from one another with decorative signs",
+  "reverseDescription": "On the coin reverse there is a depiction of octahedron with a three line inscription: 28 ЧЕРВНЯ 1996. Above the octahedron there is a heraldic ornamentation. The whole composition is framed with beads ornamentation. Around the coin circumference there is inscription: ПЕРША РІЧНИЦЯ КОНСТИТУЦІЇ УКРАЇНИ.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=45",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=45"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 57,
+  "name": "the EBRD Annual Meeting of the Board of Governors in Kyiv in 1998",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "8 May 1998",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "uncirculated",
+  "edge": "corrugated",
+  "mintage": 10000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The coin is dedicated to the Annual Meeting of the Board of Governors of the European Bank for Reconstruction and Development (EBRD) held in1998 in the city of Kyiv",
+  "averseDescription": "On the coin obverse there is a depiction of the small National Emblem of Ukraine within a square, made by the following inscriptions: УКРАЇНА (Ukraine) (above), 2 ГРИВНІ (2 Hryvnias) (underneath), 1998 (on the left).",
+  "reverseDescription": "On the coin reverse there is a logotype of the Annual Meeting of the Board of Governors of the European Bank for Reconstruction and Development (EBRD) in Kyiv in 1998, consisting of a depiction of the monument to the legendary founders of Kyiv and the EBRD logotype within a frame of inscriptions: EBRD ANNUAL MEETING (underneath), BOARD OF GOVERNORS (at the right), KYIV MAY 1998 (at the left).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=57",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=57"
+}

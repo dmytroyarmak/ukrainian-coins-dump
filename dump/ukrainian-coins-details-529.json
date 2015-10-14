@@ -1,0 +1,20 @@
+{
+  "id": 529,
+  "name": "Malva",
+  "metal": "gold (Au 999,9)",
+  "denomination": "2 hryvnias",
+  "date": "31 May 2012",
+  "weight": 1.24,
+  "diameter": 13.92,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "smooth",
+  "mintage": 8000,
+  "categoryId": 5926,
+  "category": "The smallest golden coin",
+  "generalDescription": "The commemorative coin continues the `Smallest Gold Coin` series and is dedicated to one of the Ukrainian symbols, the malva (mallow), the flower which represents love to one`s homeland and people.",
+  "averseDescription": "On the coin obverse within the circle of beads there is the Small Coat of Arms of Ukraine, above it - 2012 (the coin issue year); between the circle and the coin edge there are the semicircular legends: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) above and 2 ГРИВНІ (2 hryvnias) underneath, as well as Au 999,9 (coin metal and its fineness) to the left and the coin weight in fineness - 1,24 with the logotype of the National Bank of Ukraine Mint to the right of the Coat.",
+  "reverseDescription": "On the coin reverse there is the malva picture together with the legends: МАЛЬВА (malva) to the left and MALVA to the right.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=529",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=529"
+}

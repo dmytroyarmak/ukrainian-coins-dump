@@ -1,0 +1,20 @@
+{
+  "id": 275,
+  "name": "1300 Years to the town of Korosten",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "19 August 2005",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5931,
+  "category": "Ancient cities of Ukraine",
+  "generalDescription": "The coin is dedicated to the town of Korosten (annalistic Iskorosten), one of the ancient towns in the territory of Ukraine (Zhytomir region), which was first mentioned in the chronik writer Nestor`s `Tale of bygone years` for the year of 945.",
+  "averseDescription": "On the coin obverse there is depicted in the centre the small National Emblem of Ukraine, under it - 2005, the coin issue year and the circular inscriptions: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ ( National Bank of Ukraine) and ПЯТЬ ГРИВЕНЬ (5/ hryvnia) (beneath), as well as the Mint logotype of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse there is a depiction of the town panorama, on the foreground there is a silver earring (dated before 946), which was found during an archeological dig on the territory of the town, at the top right corner there is the coat of arm of the town of Korosten, as well as inscriptions: 1300/ РОКІВ, above to the left and КОРОСТЕНЬ Korosten, beneath and in semicircle.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=275",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=275"
+}

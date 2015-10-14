@@ -1,0 +1,20 @@
+{
+  "id": 215,
+  "name": "1000 Years of the town of Khotyn",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "28 May 2002",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5931,
+  "category": "Ancient cities of Ukraine",
+  "generalDescription": "Jubilee coin of 5 Hryvnias denomination is dedicated to a town in Bukovyna situated on a high Dnister bank, which in 10-11th centuries belonged to Kyiv Rus and since the second half of 12th century formed a part of Halych and Volyn principality. Its first fortifications and a stone church were constructed yet in 1250 – 1264, in the period of Danyla of Halych. The fortress walls witnessed many important events. But in particular, Khotyn is famous through the victorious military campaign of 1621 when the Cossack army headed by Petro Sahaidachny and Polish army met here for a battle against Turkish and Tartar forces.",
+  "averseDescription": "On the coin obverse within an arch opening of the brick fortress wall decorated with geometric ornament there is the small National Emblem of Ukraine, some attributes of the Cossack army (flags, trumpets, drums, spikes, muskets, cannons and balls), the inscriptions: УКРАЇНА/ 2002/ 5/ ГРИВЕНЬ (Ukraine/ 2002 / 5/ hryvnia), as well as the Mint logotype of the National Bank of Ukraine",
+  "reverseDescription": "On the coin reverse there is a depiction of a mighty structure of the Khotyn fortress (13th-18th centuries), an unsurpassed monument of fortification art, above which there is the town coat of arms is depicted and circular inscriptions: ХОТИН 1000 РОКІВ (1000 Years of Khotyn)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=215",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=215"
+}

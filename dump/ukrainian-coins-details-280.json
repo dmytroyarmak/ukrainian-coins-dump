@@ -1,0 +1,20 @@
+{
+  "id": 280,
+  "name": "Sviatohirsk Assumption Lavra Monastery",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "8 December 2005",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 45000,
+  "categoryId": 5925,
+  "category": "Architectural monuments of Ukraine",
+  "generalDescription": "The coin is dedicated to Sviatohirsk Assumption Monastery, a famous architectural and historical monument (17th - 19th cc), which was given the Lavra status in 2004. The monastery, founded at the bottom of the hill on the right bank of the Siversky Donets river, was first mentioned for the year 1624. The principle role in its architectural composition is played by St.Nicolas church (17th c.), the most ancient temple of the monastery, the main part of which is located inside a rock",
+  "averseDescription": "On the coin obverse there is depicted the Miracle-working icon of Sviatohirsk Mother of God, on both sides of which there are two angels holding gifts: coins, crosses, pendants, etc.; above there is a semicircular inscription: УКРАЇНА (Ukraine), on the right: the small National Emblem of Ukraine, on the left: 2005, the coin issue year; beneath in semicircle: П`ЯТЬ ГРИВЕНЬ (5 hryvnia) and the Mint logo of the National Bank of Ukraine",
+  "reverseDescription": "On the coin reverse there is depicted the ancient Sviatohirsk Assumption Monastery on the river bank, which is located at the bottom of cretaceous hills covered with thick forest and above there is the semicircular inscription: СВЯТО-УСПЕНСЬКА СВЯТОГІРСЬКА ЛАВРА (Sviatohirsk Assumption Lavra Monastery)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=280",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=280"
+}

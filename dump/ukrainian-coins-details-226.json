@@ -1,0 +1,20 @@
+{
+  "id": 226,
+  "name": "The Ostroh Academy",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "28 April 2001",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5919,
+  "category": "Higher educational establishments of Ukraine",
+  "generalDescription": "The сoin is dedicated to the Ostroh academy, the first Ukrainian high level school founded by Vasyl Konstiantyn Ostrozkyi in 1576. The Slavic, Greek and Latin languages were taught in the high school, as well as the so-called free sciences (Grammar, Arithmetic, Rhetoric, Logics, etc. The writer and scientist Meletii Smotrytskiy, hetman Petro Sahaidachnyi and other famous people were among the high school graduates. Ostroh academy was closely linked to the printing-house, where works of the school tutors were printed and in 1581 Ivan Fedorov printed here the Bible a.k.a. the Ostroh Bible",
+  "averseDescription": "On the coin obverse in its upper part there is the small National Emblem of Ukraine and beneath there are depicted: printing attributes: a galley, printing-press and a cutting tool - to the right and a roll with a seal and an inkstand - to the left and the four line inscriptions: УКРАЇНА, 5, ГРИВЕНЬ, 2001 (Ukraine/ 2001/ 5 / hryvnia) and the Mint logotype of the National Bank of Ukraine",
+  "reverseDescription": "On the coin reverse in the centre of the composition there is a depiction of a teacher and students; against the background there are the Round tower and church outlines. The general background combining this picture is the first page of the Ostroh ABC book printed at Ivan Fedorov`s printing house; to the left there is the family emblem of the prince Vasyl K.Ostrozhskiy and a semicircular inscription: ОСТРОЗЬКА АКАДЕМІЯ (Ostroh academy), and beneath, there is the Academy foundation date - 1576",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=226",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=226"
+}

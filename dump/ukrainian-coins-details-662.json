@@ -1,0 +1,20 @@
+{
+  "id": 662,
+  "name": "Revolution of Dignity",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "18 February 2015",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 100000,
+  "categoryId": 6062,
+  "category": "Героям Майдану",
+  "generalDescription": "The commemorative coin is dedicated to the civic spirit and patriotism manifested by the citizens of Ukraine of all nationalities aspiring to develop and strengthen the democracy, its constitutional principles, human rights and liberties.",
+  "averseDescription": "On the coin obverse, against the background of the bell, there are: the inscription Україна (Ukraine) above with the image of a participant in the events thereunder; against the embossment background of the coin representing the flame there are: the Small Coat of Arms of Ukraine (to the right) and the coin face value 5/ГРИВЕНЬ (5/hryvnias) and issue year 2015 indication with the mark of the National Bank of Ukraine Mint (to the left).",
+  "reverseDescription": "On the coin reverse there is depicted the composition in the form of the cross representing a moment of the events - opposition offering (pad printing used); above there is the inscription РЕВОЛЮЦІЯ/ГІДНОСТІ (revolution / of dignity).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=662",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=662"
+}

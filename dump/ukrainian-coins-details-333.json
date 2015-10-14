@@ -1,0 +1,20 @@
+{
+  "id": 333,
+  "name": "Kharkiv National Economic University",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "8 November 2006",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5919,
+  "category": "Higher educational establishments of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to the Kharkiv National Economic University, founded in 1930.",
+  "averseDescription": "On the coin obverse in the centre there is the Small National Emblem of Ukraine, below the year of coinage: 2006. There are two semicircular inscriptions: above - НАЦІОНАЛЬНИЙ БАНК/ УКРАЇНИ (National Bank of Ukraine), below - ДВІ ГРИВНІ (2 Hryvnia) ) and the logotype of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the coin reverse there is depicted the university building, above which its logotype is placed (to the right) and the inscriptions: to the left - ХАРКІВСЬКИЙ НАЦІОНАЛЬНИЙ ЕКОНОМІЧНИЙ УНІВЕРСИТЕТ (the Kharkiv National Economic University, below - РІК ЗАСНУВАННЯ/ 1930 (the year of the foundation/1930).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=333",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=333"
+}

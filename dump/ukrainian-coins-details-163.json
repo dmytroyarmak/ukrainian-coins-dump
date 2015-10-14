@@ -1,0 +1,20 @@
+{
+  "id": 163,
+  "name": "Baptizing of Rus",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "16 October 2000",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 100000,
+  "categoryId": 5929,
+  "category": "2000 Years of Christmas",
+  "generalDescription": "The coin is dedicated to the official establishment of Christianity as the state religion in Kiyv Rus. Volodymyr the Great and his nearest milieu adopted Christianity at the beginning of 988. In spring that year the kievites were baptized. It initiated the process of baptizing of the whole country.",
+  "averseDescription": "On the coin obverse there is depicted the small National Emblem of Ukraine between two figures of angels and the following legend: on the German silver coin - УКРАЇНА and 5 / ГРИВЕНЬ / 2000, (Ukraine/ 5/ hryvnia/ 2000), as well as the logotype of the NBU Mint is placed",
+  "reverseDescription": "On the coin reverse in the foreground there is placed a cruciform composition depicting the Prince Volodymyr the Baptist (Volodymyr the Great) against the background of the scene of kievites baptizing and the conventionalized inscription: ХРЕЩЕННЯ РУСІ (Baptizing of Rus)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=163",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=163"
+}

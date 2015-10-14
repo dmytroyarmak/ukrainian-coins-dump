@@ -1,0 +1,20 @@
+{
+  "id": 70,
+  "name": "Olha",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "19 January 2000",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 10000,
+  "categoryId": 5930,
+  "category": "Ukraine",
+  "generalDescription": "The coin is dedicated to the princess Olha (about 910-969) - the governor of the Kyiv state in 945-964. She carried out the state reform and organized strong points of Kyiv central power and legal procedure throughout the country which contributed to the formation of the Old-Rus state. In foreign policy Olha continued the course initiated by Ascold. She was baptized in Constantinople in 955. She used to invite European priests to Kyiv to spread Christianity. Princess Ohga was canonized by the Orthodox church (Christian name Olena).",
+  "averseDescription": "On the coin obverse within the frame of the old-Rus ornament of the Princess Olha`s sarcophagus from the Tirth church there is the depiction of the small National Emblem of Ukraine and the inscriptions: 2000 / УКРАЇНА / 10 / ГРИВЕНЬ , (2000/ Ukraine/ 10/ hryvnia), аs well as designation of metal, its fineness, and the coin weight in fineness.",
+  "reverseDescription": "On the coin reverse against the background of the historical scene depicting the reception of the Princess Olha by the Emperor Constantine, there is a ceremonial portrait of the Princess Olha and the conventionalized inscriptions: ОЛЬГА and 945-964 (945, Olha, 964) - above, and КНЯЖА / УКРАЇНА (Princes of Ukraine) -below.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=70",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=70"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 648,
+  "name": "Year of the Goat",
+  "metal": "silver (Ag 925)",
+  "denomination": "5 hryvnias",
+  "date": "10 December 2014",
+  "weight": 15.55,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5921,
+  "category": "Oriental calendar",
+  "generalDescription": "The commemorative coin is dedicated to the Year of the Goat according to a calendar of Chinese origin, which is based on the twelve-year orbit of Jupiter, the largest planet in the Solar System.",
+  "averseDescription": "Obverse: above there is the Small Coat of Arms of Ukraine with the inscription НАЦІОНАЛЬНИЙ БАНК/ УКРАЇНИ (National Bank/of Ukraine) thereunder; in the centre, within a conventionalized vegetable ornamentation pattern, there is the coin face value 5/ ГРИВЕНЬ (5/ Hryvnias); below there is the year indication 2015, as well as the indications of the metal and its fineness Ag 925, coin weight in fineness 15,55 g and the National Bank of Ukraine Mint mark.",
+  "reverseDescription": "Reverse: within a conventionalized vegetable ornamentation pattern there is depicted in a technique of a cheap popular print a goat (the goat`s eye is represented by a blue cubic zirconium oxide of 1.25 mm diameter). Both above and below this composition there is a depiction of contour figures of all 12 symbols of the Oriental calendar.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=648",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=648"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 370,
+  "name": "Vasyl Stus",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "8 January 2008",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to Vasyl Stus (1938 – 1985), a public figure, translator, literary critic and poet of a tragic fate, whose works are translated into many languages of the world. A tireless fighter for human rights Vasyl Stus was a member ( in 1979 – 1980 - a chairman) of the Ukrainian Helsinki group for human rights observation",
+  "averseDescription": "On the coin obverse against the glass background there is a semicircular inscription: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ ((National Bank of Ukraine), under which there is the small National Emblem of Ukraine, a conventionalized composition symbolizing the way to the independence, below there are the inscriptions: 2008 / 2 ГРИВНІ (2 Hryvnia/2008) and the Mint logotype of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse there is depicted a portrait of Vasyl Stus against the background of Alla Horska conventionalized mosaics Woman-Bird, to the right of which there is the semicircular inscription: ВАСИЛЬ СТУС (Vasyl Stus",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=370",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=370"
+}

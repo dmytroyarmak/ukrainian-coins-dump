@@ -1,0 +1,20 @@
+{
+  "id": 301,
+  "name": "Ivan Franko",
+  "metal": "silver (Ag 925)",
+  "denomination": "5 hryvnias",
+  "date": "23 August 2006",
+  "weight": 15.55,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 5000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coins are dedicated to the 150th birth anniversary of Ivan Franko, an outstanding Ukrainian writer, publicist, public and state figure, doctor of philosophy. His talent as a creator went far beyond the scope of the national interest: he wrote his works in Ukrainian, Polish, and German. Poetry prose, dramatic composition, scientific works, journalism - in all these fields Ivan Franko achieved perfection. His contribution to the development of the Ukrainian publicism, study of literature and theatre science is invaluable.",
+  "averseDescription": "On the coin obverse above (on the left) there is the small National Emblem of Ukraine, in the centre there is depicted a mason splitting a rock, below there is the coin issue year - 2006, around the coin circumference there are inscriptions: on the silver coin: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) (above), П`ЯТЬ ГРИВЕНЬ (5 Hryvnias) (below), as well the indication of the metal, its fineness and its weight in fineness. On the coin there is also the NBU Mint logotype",
+  "reverseDescription": "On the coin reverse there is depicted a portrait of Ivan Franko, on either sides of which there are fragments of the stone rock and inscriptions: ІВАН ФРАНКО (Ivan Franko) (on the left) and his years of life - 1856/ 1916 (on the right).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=301",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=301"
+}

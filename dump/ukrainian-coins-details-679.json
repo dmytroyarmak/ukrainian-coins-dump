@@ -1,0 +1,20 @@
+{
+  "id": 679,
+  "name": "PIDHIRTSI CASTLE",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "23 September 2015",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5925,
+  "category": "Architectural monuments of Ukraine",
+  "generalDescription": "The commemorative coins is dedicated to Pidhirtsi Castle, a historical and architectural masterpiece of the seventeenth century, one of the most beautiful Ukrainian castles in the Renaissance style.",
+  "averseDescription": "Obverse: above, there is the legend УКРАЇНА (UKRAINE) under which there is the Small Coat of Arms of Ukraine; below, the face value: 5/ГРИВЕНЬ (5/hryvnias); in the center, there is a conventionalized Baroque cartouche featuring the castle plan. On the German silver coin, below, there is the mark of the National Bank of Ukraine Mint to the left.",
+  "reverseDescription": "On the reverse, there is depicted Pidhirtsi Castle, in the foreground, there are horsemen; against a smooth background, there are the legends: ПІДГОРЕЦЬКИЙ ЗАМОК (PIDHIRTSI CASTLE) (above, in a semicircle), XVII cт. (17th century) (below).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=679",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=679"
+}

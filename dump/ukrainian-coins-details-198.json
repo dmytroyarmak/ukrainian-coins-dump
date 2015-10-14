@@ -1,0 +1,20 @@
+{
+  "id": 198,
+  "name": "Borys Hmyria",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "20 July 2003",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to the birth centenary of Borys Romanovych Hmyria, bass singer, who rose to eminence in his performance. Working as a soloist in Kharkiv (1936) and Kyiv (1939-1957) opera and ballet theatres he contributed to the world treasury of masterly performance over 600 romances, 39 opera parts, 85 fragments from vocal -stage and symphonic compositions. Borys Hmyria was given the rank of the People`s artist of the USSR (1951) and became a winner of the USSR State prize.",
+  "averseDescription": "On the coin obverse there is depicted a treble set within the frame of wildflowers, above which there is the small National Emblem of Ukraine, beneath there are depicted 2003, the mintage year and circular inscriptions: УКРАЇНА (Ukraine) (left), 2 ГРИВНІ (2 hryvnia) (right), as well as the Mint logotype of the National Bank of Ukraine",
+  "reverseDescription": "On the coin reverse Borys Hmyria `s portrait is depicted, on its right there is a two-lined depiction of the years of his life:1903 - 1969, beneath there is a facsimile of the outstanding singer",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=198",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=198"
+}

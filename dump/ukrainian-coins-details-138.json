@@ -1,0 +1,20 @@
+{
+  "id": 138,
+  "name": "Stork",
+  "metal": "gold (Au 999,9)",
+  "denomination": "2 hryvnias",
+  "date": "23 April 2004",
+  "weight": 1.24,
+  "diameter": 13.92,
+  "thickness": null,
+  "quality": "improved",
+  "edge": "smooth",
+  "mintage": 10000,
+  "categoryId": 5926,
+  "category": "The smallest golden coin",
+  "generalDescription": "Dedicated to a white stork, one of two species of the stork family in the fauna of Ukraine.",
+  "averseDescription": "On the coin obverse within the circle made of a string of beads there is the small National emblem of Ukraine is depicted, with the year of coin issue above it - 2004, the coin mintage year. Between the beads circle and the coin rim there are circular inscriptions УКРАЇНА ((Ukraine) -above, 2 Г РИВНІ (2/ hryvnia) - beneath), as well as the designation of the metal, its fineness and its weight in fineness. There is also the Mint logo of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse within the circle made of a string of beads there is a depiction of a stork taking wing; between the coin external rim and the beads circle there are circular inscriptions: ЛЕЛЕКА (Stork) - above CICONIA CICONIA -beneath",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=138",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=138"
+}

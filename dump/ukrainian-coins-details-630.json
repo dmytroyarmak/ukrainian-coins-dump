@@ -1,0 +1,20 @@
+{
+  "id": 630,
+  "name": "Anna Yaroslavna",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "22 May 2014",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to Anna Yaroslavna (Anne of Rus), a Kyiv princess, the middle daughter of the grand prince Yaroslav the Wise. In the late forties of the 11th century she married the king Henry I of France (house of Capet) and, after his death, became the queen regent of their underage son; she participated actively in the government of the country and was in fact the reigning queen. The beautiful, highly educated and wise woman excited admiration of her contemporaries and meritoriously represented Kyiv Rus, a developed power that was held in esteem and played an important role in the international relations of the countries of Europe and the Middle East.",
+  "averseDescription": "Obverse: above there is the semicircular inscription Національний банк України (National Bank of Ukraine) with the inscription АННА/ЯРОСЛАВНА (Anna/Yaroslavna) thereunder and the Small Coat of Arms of Ukraine to the left; in the center there is the conventionalized figure of the Kyiv princess Anna against the background of the image of Saint Sophia`s Cathedral of Kyiv; below there are the coin face value 2 / ГРИВНІ (2 / hryvnias), coin issue year indication 2014 and the mark of the National Bank of Ukraine Mint (to the left).",
+  "reverseDescription": "On the reverse there is depicted the conventionalized image of Anna as a queen of France against the background of St.Vincent Abbey church; above there is her conventionalized Cyrillic signature; below there are the inscriptions ХІ ст. (XI century) and КОРОЛЕВА/ФРАНЦІЇ (queen/of France).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=630",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=630"
+}

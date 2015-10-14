@@ -1,0 +1,20 @@
+{
+  "id": 262,
+  "name": "Olexander Korniychuk",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "1 June 2005",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to the birth centenary of Olexander Korniychuk, a Ukrainian playwright, a script writer, a public figure and a member of the World Peace Council, who was born in Kyiv region. The plays of Korniychuk made an impact on the development of dramatic art.",
+  "averseDescription": "On the coin obverse on the left and against the background of conventionalized sheets of paper there is depicted theatre masks - symbols of dramatic art, under them - a conventionalized pen and the Mint logotype of the National Bank of Ukraine, above and on the right there is the small National Emblem of Ukraine, below which there is the inscription: УКРАЇНА/ 2/ГРИВНІ/2005 (Ukraine/ 2 / hryvnia /2005).",
+  "reverseDescription": "On the coin reverse upon a background of conventionalized sheets of paper there is a portrait of Korniychuk (left), right from it there is a two lined inscription: 1905 - 1972, his years of life and a semicircular inscription: ОЛЕКСАНДР КОРНІЙЧУК (Olexander Korniychuk)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=262",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=262"
+}

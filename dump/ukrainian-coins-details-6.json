@@ -1,0 +1,20 @@
+{
+  "id": 6,
+  "name": "Hero-City of Sevastopol",
+  "metal": "german silver",
+  "denomination": "200000 karbovanets",
+  "date": "23 August 1995",
+  "weight": 14.35,
+  "diameter": 33,
+  "thickness": 1.85,
+  "quality": "proof-like",
+  "edge": "corrugated",
+  "mintage": 75000,
+  "categoryId": 5940,
+  "category": "Hero-Cities of Ukraine",
+  "generalDescription": "The coin is dedicated to the Ukrainian hero-city of Sevastopol",
+  "averseDescription": "On the coin obverse there is the Small State Emblem of Ukraine in the middle of the beads circumference decoration, framed with guelder-rose sprays. There are per five leaves and three bunch of berries on each spray. Upper bunch consists of seven berries, middle - of five, lower - of six berries. Above the State Emblem, there is the year of issue -1995. Beneath the small State Emblem, there ia a two line inscription 200000 КАРБОВАНЦІВ, the coin face value (200000 number is split by the beads ornamentation). Around the coin circumference, between the external edge and the beads ornamentation, there is an inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ split with rhombic separative marks from the word КАРБОВАНЦІВ",
+  "reverseDescription": "On the coin reverse in the center there is depicted an Obelisk to the Hero-city of Sevastopol, erected on the high bank of the North Bay in honour of the perished warriors of Special Prymorsk Army, seamen of the Black Sea Navy, emergency volunteers and fighter battalion warriors , who had heroically defended the city against German-fascist invaders for 250 days - from November 1941 till July 1942. To the obelisk left against a background of sea waves, there is a monument to ships, sank when defending Sevastopol in 1854-1855. To the right there is a depiction of three rows of sea waves with a modern warship silhouette above them. Around the coin circumference there are inscriptions: МІСТО-ГЕРОЙ СЕВАСТОПОЛЬ - at the upper part and 1941-1945 - under the Obelisk.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=6",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=6"
+}

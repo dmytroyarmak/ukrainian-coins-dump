@@ -1,0 +1,20 @@
+{
+  "id": 371,
+  "name": "Sydir Holubovych",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "26 February 2008",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to Sydir Holubovych (1873 – 1938), a Ukrainian political and public figure who in October 1918 was elected to the ZUNR Ukrainian National Council. Since January 1919 he was the head of the ZOUNR, ZUNR State Secretariat.",
+  "averseDescription": "On the coin obverse in the centre there is depicted the small National Emblem of Ukraine, under which there is 2008, the coin mintage year, around the coin circumference there are the inscriptions: НАЦІОНАЛЬНИЙ/БАНК/ УКРАЇНИ (National/ Bank /of Ukraine) (above), 2/ГРИВНІ (2 Hryvnia) (below) and the NBU Mint logotype.",
+  "reverseDescription": "On the coin reverse there is depicted a portrait of Sydir Holubovych, on its right - 1873/1938, his years of life, on the left there are the inscriptions: ЗУNР (ZUNR) and semicircular inscription: СИДІР ГОЛУБОВИЧ (Sydir Holubovych) (below).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=371",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=371"
+}

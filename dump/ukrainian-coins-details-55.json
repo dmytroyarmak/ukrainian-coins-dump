@@ -1,0 +1,20 @@
+{
+  "id": 55,
+  "name": "Askania-Nova",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "20 May 1998",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "uncirculated",
+  "edge": "corrugated",
+  "mintage": 10000,
+  "categoryId": 5935,
+  "category": "Flora and Fauna",
+  "generalDescription": "The coin of 2 Hryvnia denomination is dedicated to the centenary of foundation of Askania-Nova, the first in Ukraine steppe reserve founded by Friedrich Falz-Fain.",
+  "averseDescription": "On the coin obverse there is a depiction of the Small State Emblem of Ukraine against a background of a steppe landscape, combined from some species of local flora and fauna. Above the State Emblem, there is an inscription: УКРАЇНА and 1998. Under the picture,on the silver coin there are the following designations: 10 ГРИВЕНЬ - coin face value (in two lines); 31,1- coin weight (at the left); Ag 925 (at the right). On the coin made of German silver, there is a two line inscription: 2 ГРИВНІ beneath the picture",
+  "reverseDescription": "On the coin reverse there is a composition, made of a depiction of a stone steppe idol and a dynamic group of animals-inhabitants of the Reserve. Above the picture, around the circumference there is an inscription: АСКАНІЯ-НОВА. At the composition lower part, there is a depiction of Falz-Fain`s family emblem and an circumference inscription: 100 РОКІВ. (100 Years)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=55",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=55"
+}

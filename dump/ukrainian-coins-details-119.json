@@ -1,0 +1,20 @@
+{
+  "id": 119,
+  "name": "Cathedral of Virgin`s Nativity in the town of Kozelets",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "16 December 2002",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 3000,
+  "categoryId": 5925,
+  "category": "Architectural monuments of Ukraine",
+  "generalDescription": "The coin is dedicated to the Cathedral of Virgin`s Nativity in the town of Kozelets (Chernigiv region), an exquisite five-domed temple which was built in 1752 - 1763 according to a design project of architects B.Rastrelli, A.Kvasov and I.Hryhorovich-Barskyi. The temple is considered to be one of the best architectural works of Ukrainian baroque of the middle of 18th century.",
+  "averseDescription": "On the coin obverse there is depicted the small National Emblem of Ukraine surrounded by figures of four archangels from the cathedral murals and a four-line inscription: 2002, УКРАЇНА, 10, ГРИВЕНЬ (Ukraine/ 10/ hryvnia/ 2002), аs well as designation of metal, its fineness, and the coin weight in fineness. There is also the logotype of the NBU Mint",
+  "reverseDescription": "On the coin reverse there are depicted the temple and the bell-tower against the background of a symbolic triangle with the Star of Bethlehem in the upper corner. Under the triangle there is a lily flower - a symbol of purity; around the triangle there are circular inscriptions: СОБОР РІЗДВА (Cathedral of Nativity) -left, БОГОРОДИЦІ (of Virgin) -right, КОЗЕЛЕЦЬ (Kozelets ) -below.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=119",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=119"
+}

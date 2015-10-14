@@ -1,0 +1,20 @@
+{
+  "id": 673,
+  "name": "Kyiv Funicular",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "27 May 2015",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The coin commemorates Kyiv funicular, one of the symbols of Kyiv, historical monument that is very popular among residents and visitors of the city, a specialized transport means built in 1905. Originally it was called Mykhailivskyi Mekhanichnyi Pidyom (St. Michael`s Mechanical Lift) and was one of the examples of innovative solutions to engineering challenges.",
+  "averseDescription": "Obverse: above there is the Small Coat of Arms of Ukraine with the semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine); in the center there is depicted a modern view of Kyiv funicular (main entrance on Poshtova Square); to the left below there is a floral ornament - conventionalized chestnut-tree leaves; to the right - the legend 2015 (the coin issue year), the mark of the National Bank of Ukraine Mint, semicircular inscription of the coin face value - П`ЯТЬ ГРИВЕНЬ (5 hryvnias).",
+  "reverseDescription": "On the reverse: there is depicted a design of the city from early ХХ century in a modernist style: against the background of the landscape of Kyiv there is depicted the funicular, in the foreground - a man and a woman (to the right) and a floral ornament - conventionalized chestnut-tree leaves (to the left), above there are the inscriptions 110/РОКІВ, КИЇВСЬКОМУ/ФУНІКУЛЕРУ (110/YEARS, KYIV/FUNICULAR)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=673",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=673"
+}

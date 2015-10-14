@@ -1,0 +1,20 @@
+{
+  "id": 321,
+  "name": "Mykhailo Hrushevskyi",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "27 September 2006",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 45000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coins are dedicated to the 140th birth anniversary of birth of Mykhailo Hrushevskyi (1866 – 1934), a leading personality in the national culture and statehood renaissance of Ukraine, literary critic, writer, sociologist, publicist, the author of a comprehensive study of the Ukrainian history.",
+  "averseDescription": "On obverse of both coins there are above - the Small National Emblem of Ukraine, under which there is the inscription - НАЦІОНАЛЬНИЙ БАНК/ УКРАЇНИ (National Bank of Ukraine), elements of the conventionalized ornament are depicted diagonally, to the left - the coin face value: on the coin of German silver - 2 ГРИВНІ/ 2006 (2 Hryvnia/2006). On the coin there is also the logotype of the National Bank of Ukraine Mint .",
+  "reverseDescription": "On the coin reverse there is a portrait of Mykhailo Hrushevsky, to the left there is the vertical inscription: МИХАЙЛО/ ГРУШЕВСЬКИЙ (Mykhailo Hrushevskyi), beneath there are the years of life: 1866/ 1934.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=321",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=321"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 38,
+  "name": "Yuri Kondratyuk",
+  "metal": "german silver",
+  "denomination": "2 hryvnias",
+  "date": "17 June 1997",
+  "weight": 14.35,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "proof-like",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to 100th birth anniversary of Yuri Kondratiuk (Olexander Sharhei), an outstanding Ukrainian scientist in the field of space exploration and wind energy, one of the pioneers of rocketry and theory of space flights.",
+  "averseDescription": "On the coin obverse against the background of the zodiacal star map there is the small National Emblem of Ukraine. Above the National Emblem there is the year of issue - 1996. Above, around the coin circumference there is an inscription: УКРАЇНА (Ukraine), below 2 / ГРИВНІ (2 hryvnia). On the right there is the year of issue:1997.",
+  "reverseDescription": "On the coin reverse there is a portrait of the scientist and the so-called `Kondratiuk` route`, the scheme of spaceship flight to the Moon, its landing on the Moon`s surface and return to the Earth. Above the portrait and on the left from it, there are conventionalized star depictions, under the portrait there are inscriptions: 1897-1942, the years of the scientist`s life. Around the coin circumference there are inscriptions: ЮРІЙ КОНДРАТЮК(Yuri Kondratiuk) - above and ОЛЕКСАНДР ШАРГЕЙ (Olexander Sharhei)- underneath in brackets.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=38",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=38"
+}

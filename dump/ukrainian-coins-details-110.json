@@ -1,0 +1,20 @@
+{
+  "id": 110,
+  "name": "Kyivan Rus",
+  "metal": "bimetal from precious metals (Ag 925 - Au 916)",
+  "denomination": "20 hryvnias",
+  "date": "25 December 2001",
+  "weight": 14.7,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "unspecified",
+  "edge": "sectoral corrugation",
+  "mintage": 2000,
+  "categoryId": 5924,
+  "category": "Monuments of ancient cultures of Ukraine",
+  "generalDescription": "The coin is dedicated to one of the greatest early medieval states in Europe (9th - middle of 12th centuries), which appeared through unification of Eastern-Slavic tribes around Kyiv and Middle Dnipro basin",
+  "averseDescription": "On the coin obverse in the centre of the insert ring and against the background of rye ears there is depicted of a symbolic wheel of history with a falcon sitting on it, underneath it there is depicted a snake; above and to the left there is the small National Emblem of Ukraine; within the outer ring, there are depicted a Duke holding a model of a cathedral in his hands. At Duke`s feet there is a lying cheetah; on the right there are depicted a Duchess with sewing, as well as the logotype of the NBU Mint and the inscriptions: УКРАЇНА / 2000 / 20 / ГРИВЕНЬ (Ukraine/ 20/ hryvnia/ 2000)",
+  "reverseDescription": "On the coin reverse within the insert ring there is depicted an old-Rus feminine adornment; within the outer ring there are depicted fragments of Kyivan ritual bracelet (12th c.- 13th c.) and the conventionalized inscription: КИЇВСЬКА РУСЬ (Kyivan Rus)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=110",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=110"
+}

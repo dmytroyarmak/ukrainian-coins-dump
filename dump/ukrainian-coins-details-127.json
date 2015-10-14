@@ -1,0 +1,20 @@
+{
+  "id": 127,
+  "name": "Seahorse (Hippocampus)",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "25 July 2003",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 2000,
+  "categoryId": 5935,
+  "category": "Flora and Fauna",
+  "generalDescription": "The coin is dedicated to a representative of the Spicular family (pipefishes and seahorses), the only endemic subspecies of the Black Sea Hippocampus in the fauna of Ukraine that inhabits the Sea of Azov and the Black Sea.",
+  "averseDescription": "On the coin obverse set in the wreath made of images of plants and animals there is engraved the small National Emblem of Ukraine and a legend: on the silver coin: УКРАЇНА, 10, ГРИВЕНЬ, 2003, (Ukraine/ 10/ hryvnia/ 2003), as well as the designation of the metal, its fineness and its weight in fineness. There is also the Mint logo of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse there is the Hippocampus is presented a picture of a seahorse surrounded by the inscriptions: МОРСЬКИЙ КОНИК ЧОРНОМОРСЬКИЙ (Black Sea seahorse) and HIPPOCAMPUS GUTTULATUS MICROSTEPHANUS",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=127",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=127"
+}

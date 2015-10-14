@@ -1,0 +1,20 @@
+{
+  "id": 481,
+  "name": "SPAS",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "28 July 2010",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 45000,
+  "categoryId": 5941,
+  "category": "Ritual Holidays of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to one of the major Orthodox feasts - the Transfiguration of Jesus (in common parlance - Spas, i.e. the Savior`s Feast) when grapes, apples, honey and other food are blessed by sprinkling with holy water.",
+  "averseDescription": "Obverse: above there are the Small Coat of Arms of Ukraine and the semicircular legend: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine); in the centre there is the composition symbolizing the Savior`s Feast and consisting of an honeycomb frame against an amulet bunch of flowers with a sunflower above; to the left and right thereof there are depicted conventionalized cornucopias replete with apples, pears, grapes, etc.; below there is the legend: 5/ГРИВЕНЬ/2010 (5 hryvnias) together with the National Bank of Ukraine Mint logo.",
+  "reverseDescription": "Reverse: there is the multi-figure composition of peasants in preparation for the act of blessing the gifts of nature with holy water; below there is a beehive; above there are the symbol of the Transfiguration of Jesus and the bow-shaped inscription СВЯТО СПАСА (Feast of Spas).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=481",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=481"
+}

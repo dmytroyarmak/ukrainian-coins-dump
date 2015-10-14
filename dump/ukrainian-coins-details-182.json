@@ -1,0 +1,20 @@
+{
+  "id": 182,
+  "name": "Maria Zankovetska",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "15 June 2004",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to 150th birth anniversary of Maria Zankovetska, an outstanding actress, public figure, one of the founders of the Ukrainian National theatre and the first People` artist of Ukraine (1923)",
+  "averseDescription": "On the coin obverse against the smooth background there is the small National Emblem of Ukraine and inscriptions: УКРАЇНА (Ukraine) (above) and 2 ГРИВНІ (2 hryvnia) / 2004 (beneath); in the centre there is a depiction of a stylized flower; on the right this composition is framed with a stage curtain. On the coin obverse there is also the Mint logotype of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse in the foreground there is a portrait of Maria Zankovetska; in the background there is a stylized floral ornamental pattern; on the left around the circumference there is an inscription: МАРІЯ ЗАНЬКОВЕЦЬКА (Maria Zankovetska) and beneath - 1854-1934, her years of life.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=182",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=182"
+}

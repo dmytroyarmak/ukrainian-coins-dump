@@ -1,0 +1,20 @@
+{
+  "id": 8,
+  "name": "50th Anniversary of the United Nations",
+  "metal": "german silver",
+  "denomination": "200000 karbovanets",
+  "date": "7 March 1996",
+  "weight": 28.28,
+  "diameter": 38.6,
+  "thickness": 1.85,
+  "quality": "uncirculated",
+  "edge": "corrugated",
+  "mintage": 100000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The coins are dedicated to 50th Anniversary of the United Nations",
+  "averseDescription": "On the coin obverse there is the Small State Emblem of Ukraine in the middle of the beads circumference decoration, framed with guelder-rose sprays. Above the State Emblem there is the year of issue - 1995. Around the coins circumference there are inscriptions: УКРАЇНА - at the coins upper part and 2 МІЛЬЙОНИ КАРБОВАНЦІВ or 200000 КАРБОВАНЦІВ - at the lower part. On the silver coin under the State Emblem of Ukraine there are designations of Аg 925 and 31,1, the coin pure weight.",
+  "reverseDescription": "On the coin reverse there is the globe with flags of world states upon it and UN-50 - emblem. Around the coins circumference, there are inscriptions: NATIONS UNITED FOR PEACE - at the upper part and НАЦІЇ, ОБ ЄДНАНІ ЗАРАДИ МИРУ - at the lower part.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=8",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=8"
+}

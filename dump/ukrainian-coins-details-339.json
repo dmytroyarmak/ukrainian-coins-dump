@@ -1,0 +1,20 @@
+{
+  "id": 339,
+  "name": "Ivan Ohiienko",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "12 June 2007",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to Ivan Ohienko (1882 – 1972), an outstanding Ukrainian scientist, public and ecclesiastical figure. Ivan Ohienko - a philologist, literary critic, founder and rector of the Kamianetz-Podilskyi state university was a minister of education and a minister of religions of the Ukrainian National Republic. Ivan Ohiienko made a significant contribution to development of Ukrainian culture and linguistics.",
+  "averseDescription": "On the coin obverse against the glass background there is the inscription: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine), beneath there is a three line inscription: 2/ ГРИВНІ/ 2007 (2 Hryvnia, 2007), and four three-cornered sectors, which are decorated with vegetable ornament in Baroque style, as well as the NBU Mint logotype.",
+  "reverseDescription": "On the coin reverse there is depicted a portrait of Ivan Ohienko, at the left and at the right of it, in three-cornered segments there is inscribed: 1882 - 1972, his year of life, below there is a semicircular inscription: ІВАН ОГІЄНКО (Ivan Ohienko)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=339",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=339"
+}

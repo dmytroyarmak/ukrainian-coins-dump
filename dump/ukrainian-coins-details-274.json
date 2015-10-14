@@ -1,0 +1,20 @@
+{
+  "id": 274,
+  "name": "350 Years to the city of Sumy",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "1 September 2005",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5931,
+  "category": "Ancient cities of Ukraine",
+  "generalDescription": "The coin is dedicated to the city of Sumy, located at the picturesque right bank of the river Psel, which was founded at the beginning of fifties of 17th century by Ukrainian Cossacks-migrants from the Right Bank Ukraine.",
+  "averseDescription": "On the coin obverse in the centre there is depicted the small National Emblem of Ukraine, under it - 2005, the coin issue year and circular inscriptions: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) and ПЯТЬ ГРИВЕНЬ (5/ hryvnia) (beneath), as well as the Mint logotype of the National Bank of Ukraine",
+  "reverseDescription": "On the coin reverse there is depicted the main street of the city with the Saviour and Transfiguration cathedral, against the street background there is the coat of arm of city of Sumy and the semicircular inscriptions: СУМИ (Sumy) (above), 350 РОКІВ (350 Years) - beneath",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=274",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=274"
+}

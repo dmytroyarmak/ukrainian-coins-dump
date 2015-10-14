@@ -1,0 +1,20 @@
+{
+  "id": 540,
+  "name": "Antiquity Navigation",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "30 August 2012",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5916,
+  "category": "Maritime History of Ukraine",
+  "generalDescription": "The commemorative coins continue the `Maritime History of Ukraine` series reflecting the history of navigation and shipbuilding on the territory of our country. The shipbuilding being one of the major productive industries of the ancient Greek towns on the northern coast of the Black Sea contributed greatly to the technological advance of the then society being conducive to development of mathematics, construction engineering, natural sciences, etc. The Southern Crimea was during almost two millennia a node of the seaborne trade and intensive navigation.",
+  "averseDescription": "Obverse: above there are the Small Coat of Arms of Ukraine and the conventionalized semicircular legend: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) with the coin issue year indication 2012 thereunder; against the background of the conventionalized map there are depicted the wind rose as a symbol of sea voyages (to the left) and an ancient coin of the Bosporan Kingdom (to the right); below there are the meander and the coin face value: 5/ГРИВЕНЬ (5/hryvnias) on the German silver one (together with the National Bank of Ukraine Mint logo).",
+  "reverseDescription": "Reverse: on both coins to the left there is a conventionalized image of the prora, i.e. the ship bow, often depicted on the ancient Greek and Roman coins as a seafaring symbol; to the right above there is depicted an ancient sailing ship and below, on the wide meander, there is the conventionalized inscription АНТИЧНЕ/СУДНОПЛАВСТВО (Antiquity/navigation).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=540",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=540"
+}

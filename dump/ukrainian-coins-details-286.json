@@ -1,0 +1,20 @@
+{
+  "id": 286,
+  "name": "The Vasyl Tairov institute for wine growing and wine making",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "6 September 2005",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The coin is dedicated to the centenary since foundation of the National scientific centre `The Vasyl Tairov institute for wine growing and wine making `. For the period of the institute existing great achievements were made in development of new technologies for wine growing and wine treatment.",
+  "averseDescription": "On the coin obverse in the centre there is depicted the small National Emblem of Ukraine, under it there is 2005, the coin issue year, around the coin circumference there are inscriptions: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) -above, ДВІ ГРИВНІ (2/ hryvnia) (beneath) and the NBU Mint logotype",
+  "reverseDescription": "On the coin reverse a structure of the institute is depicted, on the background of which there is a portrait of V.E.Tairov; over the portrait, between the years: 1905 2005 there is the institute logo, beneath - a conventionalized vine and a circular inscription: ІНСТИТУТ ВИНОГРАДАРСТВА І ВИНОРОБСТВА ІМЕНІ В.Є.ТАЇРОВА (The Vasyl Tairov institute for wine growing and wine making)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=286",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=286"
+}

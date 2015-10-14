@@ -1,0 +1,20 @@
+{
+  "id": 252,
+  "name": "Nuclear Power of Ukraine",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "29 October 2004",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The coin is dedicated to the nuclear power, which is the leader in the power industry of Ukraine and is of strategic importance for its economy satisfying for 50% of the state`s needs in electric power. These indicators will further increase due to setting in operation of two new nuclear power units - the second unit of Khmelnytsk- and the forth unit of Rivne nuclear power plants, which are being put into operation under compliance of current requirements and safety regulations. The completion of these units have been accomplished without drawing foreign credits but with support of international institutions which do care about their future safety",
+  "averseDescription": "On the coin obverse there is a conventionalized fire wheel symbolizing motion and technological progress. Atomic energy serves as an engine placed in the centre of the wheel. Against the wheel background around its circumference there is the small National Emblem of Ukraine (above) and the inscriptions: 2 ГРИВНІ (2 hryvnia) (beneath), УКРАЇНА, 2004 (2004 (Ukraine/ 2004), the coin mintage year and the Mint logotype of the National Bank of Ukraine",
+  "reverseDescription": "On the coin reverse upon the background of a nuclear reactor`s encapsulation there is a symbolic depiction of 15 nuclear reactors in the form of fuel channels (according to their number in Ukraine), two of which are designated with sprouts symbolizing new nuclear power units.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=252",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=252"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 75,
+  "name": "Garden Dormouse (ELIOMYS QUERCINUS)",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "15 December 1999",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 5000,
+  "categoryId": 5935,
+  "category": "Flora and Fauna",
+  "generalDescription": "Commemorative coin is dedicated to the only species of dormouse (Eliomys Quercinus) in the fauna of Ukraine, which is occasionally met in pine and deciduous forests of plains, mountains and in the gardens Woodlands and Forest-steppes (Rivno, Kyiv and Cherkasy regions).",
+  "averseDescription": "On the coin obverse set in the wreath made of images of plants and animals there is engraved the small National Emblem of Ukraine and a four line legend:",
+  "reverseDescription": "On the coin reverse there is a depiction of an enlarged orchid flower, to its left there is a flower stem with two leaves and inflorescence; to its right there On the coin reverse there is a picture of a garden dormouse sitting on a raspberry twig and the circular legend: СОНЯ САДОВА (Garden Dormouse) and ELIOMYS QUERCINUS.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=75",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=75"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 450,
+  "name": "220 Years of the City of Mykolaiv",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "7 September 2009",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5931,
+  "category": "Ancient cities of Ukraine",
+  "generalDescription": "The commemorative coin continues the `Ancient Cities of Ukraine` series and is dedicated to the city of Mykolaiv, a pride of shipbuilders, an important shipbuilding, industrial, administrative and cultural centre of Southern Ukraine situated on the left bank of the Southern Buh Lyman (estuary).",
+  "averseDescription": "On the coin obverse there are the semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine), the Small Coat of Arms of Ukraine and the sea gull depicted thereunder; the composition: the Varvarivskyi Bridge and a cruiser built in Mykolaiv; below there is an anchor pictured being a city coeval made in 1789, under it there are the coin issue year 2009, semicircular legend П`ЯТЬ ГРИВЕНЬ (five hryvnias) and the National Bank of Ukraine Mint logotype.",
+  "reverseDescription": "On the coin reverse there are depicted the frigate `Saint Nicholas`, the first ship built at Mykolaiv shipyard, against the background of architectural monuments of the city, i.e. Mykolaiv Astronomical Observatory and the building of the Staff of the Black Sea Fleet Commander-in-Chief; above there is the city coat of arms with the inscription МИКОЛАЇВ (Mykolaiv) thereunder; below there is the inscription РІК ЗАСНУВАННЯ/1789 (year of foundation/1789)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=450",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=450"
+}

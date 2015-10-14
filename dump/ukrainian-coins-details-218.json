@@ -1,0 +1,20 @@
+{
+  "id": 218,
+  "name": "350 Years to the citu of Kharkiv",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "1 July 2004",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5931,
+  "category": "Ancient cities of Ukraine",
+  "generalDescription": "The coin is dedicated to the city of Kharkiv, one of the largest industrial, scientific and cultural centres of Ukraine. The city was founded about 1655 by Ukrainian Cossacks - migrators from the Right Bank Ukraine as a fortress for defense of the Ukrainian territories from aggressive attacks of conquerors.",
+  "averseDescription": "On the coin obverse there is depicted the Bell tower of the Assumption Cathedral (1821 - 1848); above - the small National Emblem of Ukraine; on the left - designation of metal - 5, on the right there is a semicircular inscription: УКРАЇНА (Ukraine); beneath - the ГРИВЕНЬ (hryvnia), inscription and the coin issue year: 2004. Furthermore, there is the Mint logotype of the National bank of Ukraine",
+  "reverseDescription": "On the coin reverse there is depicted the State Industry building (Derzhprom), which was built in the constructivism style (1928), above and on the left there is the city coat of arms, below there is the semicircular inscription ХАРКІВ o 350 РОКІВ (Kharkiv/ 350 Years)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=218",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=218"
+}

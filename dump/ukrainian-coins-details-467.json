@@ -1,0 +1,20 @@
+{
+  "id": 467,
+  "name": "Mykola Pyrohov",
+  "metal": "silver (Ag 925)",
+  "denomination": "5 hryvnias",
+  "date": "25 March 2010",
+  "weight": 15.55,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "smooth with in-depth legends",
+  "mintage": 5000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to Mykola Ivanovych PYROHOV (1810-1881), a scientist, surgeon, pedagogue and public figure (transliteration from Russian - Nicolay Ivanovich PIROGOV). His innovative scientific works have become the base for the applied anatomy and operative surgery, while his contribution to the development of medicine was marked with a clever combination of the science and practice. Whole life of the great scientist was selfless service to people.",
+  "averseDescription": "On the coin obverse above there is the Small Coat of Arms of Ukraine with the semicircular legend НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine); within the circle formed by beads there is depicted the sepulchral church erected over the scientist`s tomb; beneath there is the coin issue year indication 2010 and bow-shaped inscription П`ЯТЬ ГРИВЕНЬ (5 hryvnias).",
+  "reverseDescription": "On the coin reverse there is a portrait of Mykola Pyrohov having surgical instruments in his hands, to the left whereof 1810/1881 (the years of life) and the bow-shaped legend МИКОЛА ПИРОГОВ (Mykola Pyrohov) below.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=467",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=467"
+}

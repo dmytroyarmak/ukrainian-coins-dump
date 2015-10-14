@@ -1,0 +1,20 @@
+{
+  "id": 211,
+  "name": "ST. ANDREW`S CHURCH",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "20 July 2011",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "smooth with in-depth legends",
+  "mintage": 8000,
+  "categoryId": 5925,
+  "category": "Architectural monuments of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to an architectural pearl of Kyiv built in the middle of the XVIIIth century in the style of Baroque to a design by prominent architect F.B.Rastrelli, i.e. to the St. Andrew`s Church. The church`s sophisticated outlines, clear-cut proportions, splendid harmony of forms and surrounding landscape won it general recognition and fame.",
+  "averseDescription": "Obverse: above there are the Small Coat of Arms of Ukraine and the three-line legend: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) thereunder; lower there is depicted a fragment of Baroque embossment on which an emphasis was put in decoration of the interior of the church; beneath there are the coin face values and issue year: 10/ГРИВЕНЬ/2011 (10 hryvnias).",
+  "reverseDescription": "Reverse: there are the St.Andrew`s Church image and legends: КИЇВ (Kyiv) against the background of the church, АНДРІЇВСЬКА ЦЕРКВА (St. Andrew`s Church) to the left, semicircular, and XVIII ст. (XVIII century) to the right, vertical.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=211",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=211"
+}

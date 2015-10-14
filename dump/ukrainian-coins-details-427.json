@@ -1,0 +1,20 @@
+{
+  "id": 427,
+  "name": "Nikolay Bogolyubov",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "20 August 2009",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The jubilee coin of 2 hryvnia face value is dedicated to the 100th anniversary of birthday of Nikolay Bogolyubov (Ukr. Mykola Boholiubov), one of the promoters of modern fundamental science, the founder of the nonlinear mechanics and statistical physics schools. Nikolay Bogolyubov`s extraordinary talent for science has made important discoveries possible in different branches of world science. The Theoretical Physics Institute of the National Academy of Sciences of Ukraine is named for him.",
+  "averseDescription": "On the coin obverse there are depicted a diagram and formula fragments from the theory of nonlinear oscillations and theoretical physics, against the dark background above there are the Small Coat of Arms of Ukraine, semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) and the National Bank of Ukraine Mint logotype; below against the light background there are the face value 2 ГРИВНІ (2 hryvnias) beneath and coin issue year 2009 (to the left).",
+  "reverseDescription": "On the coin reverse in the centre there is a portrait of N.Bogolyubov, against the light background there is a formula fragment; below against the dark background there are the semicircular legend МИКОЛА БОГОЛЮБОВ (Mykola Boholiubov) and years of his life 1909 (to the left) and 1992 (to the right).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=427",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=427"
+}

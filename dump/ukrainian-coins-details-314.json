@@ -1,0 +1,20 @@
+{
+  "id": 314,
+  "name": "Gemini",
+  "metal": "silver (Ag 925)",
+  "denomination": "5 hryvnias",
+  "date": "22 May 2006",
+  "weight": 15.55,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 10000,
+  "categoryId": 5918,
+  "category": "Signs of the Zodiac",
+  "generalDescription": "The coins are dedicated to one of the twelve Zodiac constellations - Gemini",
+  "averseDescription": "On the obverse of the 5 hryvnia coin in the center of the circle there is a conventionalized image of the Sun, on the left, on the right, above and underneath whereof – four lighted by it spheres symbolizing the seasons. To the left of the circle there is the Small National Emblem of Ukraine, to the right – the coin issue year: 2006 as well as the indication of the metal, its fineness – Ag 925, and weight of the precious metal in fineness 15.55 are indicated; the circumscription: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) above, 5 ГРИВЕНЬ (5 hryvnias) below, and the logotype of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the reverse of the 5 hryvnia coin a styled image of Gemini with stars around them is depicted, to the left whereof is their Sign of Zodiac, to the right – the inscription: БЛИЗНЮКИ (Gemini)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=314",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=314"
+}

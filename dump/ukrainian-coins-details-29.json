@@ -1,0 +1,20 @@
+{
+  "id": 29,
+  "name": "Smith",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "28 March 2011",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "smooth with in-depth legends",
+  "mintage": 10000,
+  "categoryId": 5922,
+  "category": "Folk Crafts of Ukraine",
+  "generalDescription": "The commemorative coin is dedicated to the smithcraft, i.e. treatment of iron by the hot forging techniques. As early as in the Xth-XIIth centuries the skills of smiths reached such a high level that some of the iron treatment methods and processes for manufacture of tools and household goods have remained practically unchanged to this day.",
+  "averseDescription": "Obverse: above there are the Small Coat of Arms of Ukraine and the conventionalized legend: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) thereunder; in the centre there are depicted in a conventionalized manner two little birds and (to the left and right of them) different smithcraft products - Old Rus arms and household stuff; below there is the legend: 10/ГРИВЕНЬ/2011 (10 hryvnias) (on the silver coin) together with the National Bank of Ukraine Mint logo.",
+  "reverseDescription": "Reverse: there is depicted a smith at work. Above, there is the legend КОВАЛЬ (smith). To the left and right of the central composition there are ornamental patterns.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=29",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=29"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 133,
+  "name": "Salamander",
+  "metal": "gold (Au 999,9)",
+  "denomination": "2 hryvnias",
+  "date": "8 December 2003",
+  "weight": 1.24,
+  "diameter": 13.92,
+  "thickness": null,
+  "quality": "improved",
+  "edge": "smooth",
+  "mintage": 10000,
+  "categoryId": 5926,
+  "category": "The smallest golden coin",
+  "generalDescription": "The coin is dedicated to the speckled salamander, a representative of Caudate amphibious species, the only type of salamander species in the fauna of Ukraine, that habits the mountain and submountain regions of the Carpathian mountains",
+  "averseDescription": "On the coin obverse in the circle made of a string of beads there is engraved the small National Emblem of Ukraine with the year of coin issue above it - 2003. There are the circular inscriptions: УКРАЇНА (Ukraine) 2003 (above), 2 ГРИВНІ (2/ Hryvnia/ (beneath), as well as Ag 925, the designation of the metal, its fineness and 31.1, the coin weight in fineness. There is also the Mint logotype of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse there is the salamander depiction, around which there are circular inscriptions: САЛАМАНДРА (salamander) та SALAMANDRA",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=133",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=133"
+}

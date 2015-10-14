@@ -1,0 +1,20 @@
+{
+  "id": 94,
+  "name": "Volodymyr the Great",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "25 September 2000",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 5000,
+  "categoryId": 5930,
+  "category": "Ukraine",
+  "generalDescription": "The coin is dedicated to the Great Kievan Prince and statesman, during whose reign the formation of the old-Rus state was completed and the Christianity as the state religion was introduced.",
+  "averseDescription": "On the coin obverse within the frame of old-Rus ornamental pattern there are depicted the small National Emblem of Ukraine and the conventionalized inscription: 2000 / УКРАЇНА / 10 / ГРИВЕНЬ, (Ukraine/ 10/ hryvnia/ 2000), as well as indication of the metal, its fineness - Ag 925 and the coin weight in fineness 31,1 and the logotype of the Mint of the National Bank of Ukraine",
+  "reverseDescription": "On the coin reverse in the foreground there are depicted the Prince Volodymyr against the background of the scene of baptism of the the prince himself and the conventionalized inscriptions: 978 ВОЛОДИМИР (Volodymyr) 1015 (above), КНЯЖА УКРАЇНА (Princes of Ukraine) - below",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=94",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=94"
+}

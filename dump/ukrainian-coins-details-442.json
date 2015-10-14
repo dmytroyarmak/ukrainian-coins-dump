@@ -1,0 +1,20 @@
+{
+  "id": 442,
+  "name": "Bokorash",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "28 July 2009",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "smooth with in-depth legends",
+  "mintage": 10000,
+  "categoryId": 5922,
+  "category": "Folk Crafts of Ukraine",
+  "generalDescription": "The coin is dedicated to the profession of the timber-floater or raftsman (in Ukrainian vernacular - bokorash) which required uncommon strength and skill. The logging was carried out in Polesia (Polissia) and in the Carpathians where this craft was widespread till the 50-ies of the last century.",
+  "averseDescription": "On the obverse of the coin there are depicted the Small Coat of Arms of Ukraine (above) with the conventionalized inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) thereunder, conventionalized images of two birds in the centre and Carpathian landscapes to the left and to the right with spruces, cottages and logs; below there are the legends: on the silver coin 10/ГРИВЕНЬ/2009 (10 hryvnias).",
+  "reverseDescription": "On the reverse of the coin there is depicted the figure of a bokorash with a tsapyna (pole) in the hands which is directing the raft downstream, on either side of him there are traditional Carpathian ornamental patterns; above, against the background in the form of a log butt end there is the legend БОКОРАШ (Bokorash).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=442",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=442"
+}

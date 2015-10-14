@@ -1,0 +1,20 @@
+{
+  "id": 140,
+  "name": "St.Yur Cathedral",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "15 September 2004",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 8000,
+  "categoryId": 5925,
+  "category": "Architectural monuments of Ukraine",
+  "generalDescription": "The coin is dedicated to one of the outstanding monuments of Ukrainian architecture of the 18th century whereinto the Western European Baroque canons were brilliantly embodied. The Lviv cathedral was founded by a metropolitan Atanasiy Sheptytskiy. It was constructed in the years 1744 - 1761 according to the design project of Bernard Meretyn, the most distinguished architect of the Dniper Right Bank-Side Ukraine in the epoch.",
+  "averseDescription": "On the coin obverse there is depicted the statue of St.Yur (St.George) chiseled by Johan Pinsel (1759 - 1761) on the cathedral fa?ade; on the left from the statue there is the coin issue year - 2004 with the small National Emblem of Ukraine placed beneath; above the statue there is a semicircular inscription: УКРАЇНА (Ukraine) - 10 ГРИВЕНЬ (hryvnia) -beneath, as well as the designation of the metal, its fineness and its weight in fineness.",
+  "reverseDescription": "On the coin reverse there is depicted the cathedral, as well as the inscriptions: СОБОР СВЯТОГО ЮРА (St.Yur cathedral) (semicircular, above) and ЛЬВІВ (Lviv) -beneath.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=140",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=140"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 61,
+  "name": "Kyi",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "29 June 1998",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 10000,
+  "categoryId": 5930,
+  "category": "Ukraine",
+  "generalDescription": "The coin is dedicated to the Prince Kyi, a legendary founder of the city of Kyiv and Kyiv state at the end of 5th-beginning of 6th centuries",
+  "averseDescription": "On the coin obverse within a frame of an old-Rus ornament made in the form of an arched talisman of the 12th century, which represented the universe model among eastern Slavs, there is depicted the small National Emblem of Ukraine and the conventionalized four-line inscriptions: УКРАЇНА, 10 ГРИВЕНЬ, 1998 (Ukraine/ 10/ Hryvnia/ 1998) and the indication of the precious metal, its fineness and the coin weight in fineness.",
+  "reverseDescription": "On the coin reverse against the background of an roll there is a three-view composition, consisted of the depiction of the Prince Kyi, figures of three brothers-riders and a woman (Kyi, Shchek, Khoryv and their sister Lybid) and a fortress upon the hill. There is a conventionalized legend on the coin: КИЙ (Kyi)(above) and КНЯЖА УКРАЇНА (Princes of Ukraine) (underneath in two line).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=61",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=61"
+}

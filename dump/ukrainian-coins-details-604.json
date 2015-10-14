@@ -1,0 +1,20 @@
+{
+  "id": 604,
+  "name": "Year of the Horse",
+  "metal": "silver (Ag 925)",
+  "denomination": "5 hryvnias",
+  "date": "10 December 2013",
+  "weight": 15.55,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 25000,
+  "categoryId": 5921,
+  "category": "Oriental calendar",
+  "generalDescription": "The coin is dedicated to the Year of the Horse according to a calendar of Chinese origin, which is based on the twelve-year orbit of Jupiter.",
+  "averseDescription": "Obverse: above, there is the Small Coat of Arms of Ukraine with the inscription НАЦІОНАЛЬНИЙ БАНК/ УКРАЇНИ (National Bank / of Ukraine) thereunder; within a conventionalized vegetable ornamentation pattern there is the face value 5/ ГРИВЕНЬ (5/hryvnias); below there is the coin issue year indication 2014, as well as the indications of the metal and its fineness Ag 925, coin weight in fineness 15.55 g and the National Bank of Ukraine Mint mark.",
+  "reverseDescription": "Reverse: within a conventionalized vegetable ornamentation pattern there is depicted in a technique of a cheap popular print a horse (the horse`s eye is represented by a brown cubic zirconium oxide). Both above and below this composition there is a depiction of contour figures of all 12 symbols of the Oriental calendar.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=604",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=604"
+}

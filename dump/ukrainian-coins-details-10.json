@@ -1,0 +1,20 @@
+{
+  "id": 10,
+  "name": "Lesya Ukrainka",
+  "metal": "german silver",
+  "denomination": "200000 karbovanets",
+  "date": "1 March 1996",
+  "weight": 14.35,
+  "diameter": 33,
+  "thickness": 1.85,
+  "quality": "proof-like",
+  "edge": "corrugated",
+  "mintage": 100000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to 125th anniversary of Lesya Ukrainka (Larysa Petrivna Kosach) - an outstanding Ukrainian poetess and public figure.",
+  "averseDescription": "On the coin obverse there is the small State Emblem of Ukraine in the middle of the beads circumference decoration, framed with guelder-rose sprays. Above the State Emblem there is the year of issue -1996. Around the coin circumference there are inscriptions: at the coin upper part - НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ and at the coin lower part:",
+  "reverseDescription": "On the coin reverse Lesya Ukrainkas portrait is depicted. Around the coin circumference there are inscriptions: ЛЕСЯ УКРАЇНКА - to the left and 1871-1913 - years of poetess birth and death - to the right.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=10",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=10"
+}

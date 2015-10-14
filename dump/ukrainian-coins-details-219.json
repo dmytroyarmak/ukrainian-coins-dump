@@ -1,0 +1,20 @@
+{
+  "id": 219,
+  "name": "2500 Years to Balaklava",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "24 March 2004",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5931,
+  "category": "Ancient cities of Ukraine",
+  "generalDescription": "The coin is dedicated to a former ancient town and one of today`s districts of the city of Sevastopol. According to Strabo, Pliny the Elder and other ancient authors there was located on the territory of the present Balaklava an ancient Tauridian settlement of Palakion (the 7-6th century B.C.), in 4th century B.C. it was captured by the Greeks, in 5-th - by the Byzantines. The bay, well sheltered from the sea by high rocks, constantly attracted attention: in 1357 the town was captured by the Genoeses who built here Chymbalo fortress; in 1457 it was captured by the Turks and since that it is called Balaklava (fish town).",
+  "averseDescription": "On the coin obverse there are depicted ancient Greek merchant ships, between them in the centre there is the small National Emblem of Ukraine, under which there is a two-line inscription: 5 ГРИВЕНЬ (5 hryvnia), within the frame of an ornamental composition made of acanthus leaves and vines; besides there is the Mint logotype of the National Bank of Ukraine. Above there is УКРАЇНА (Ukraine) inscription, under which - 2004, the coin issue year .",
+  "reverseDescription": "On the coin reverse in the upper part of the coin field the Balaklava bay is depicted; to the right - sailing ships, to the left - the coat of arms of the town of Balaklava; in the lower part of the coin field there is a column and two anchors, found during archeological excavations; above there is a semicircular inscription: 2500 РОКІВ БАЛАКЛАВІ (2500 Years to Balaklava)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=219",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=219"
+}

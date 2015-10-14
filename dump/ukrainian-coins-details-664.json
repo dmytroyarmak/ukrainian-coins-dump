@@ -1,0 +1,20 @@
+{
+  "id": 664,
+  "name": "Euromaidan",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "18 February 2015",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 100000,
+  "categoryId": 6062,
+  "category": "Героям Майдану",
+  "generalDescription": "The commemorative coin is dedicated to the protest actions that took place in Ukraine and were full of the aspiration for changes, for the European direction of our country development.",
+  "averseDescription": "On the coin obverse, against the embossment background, being a conventionalized image of the wavering flag, there are: the inscription Україна (Ukraine) above with the Small Coat of Arms of Ukraine to the left thereof; the coin face value 5/ГРИВЕНЬ (5/hryvnias) and issue year 2015 indication (to the left); the mark of the National Bank of Ukraine Mint (below); in the centre, within the square formed by the inscription quoting Article 5 of the Constitution of Ukraine: НОСІЄМ СУВЕРЕНІТЕТУ/І ЄДИНИМ ДЖЕРЕЛОМ/ВЛАДИ В УКРАЇНІ/Є НАРОД (THE BEARERS OF SOVEREIGNTY / AND THE ONLY SOURCE / OF POWER IN UKRAINE / ARE ITS PEOPLE) there is a fragment representing the viche (popular assembly).",
+  "reverseDescription": "On the coin reverse there is depicted the symbolic composition: against the background of the European Union flag the clenched hand is holding the State Flag of Ukraine (the flags are represented with use of pad printing); to the left there is the legend ЄВРОМАЙДАН (Euromaidan).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=664",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=664"
+}

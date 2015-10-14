@@ -1,0 +1,20 @@
+{
+  "id": 20,
+  "name": "Mykhaylo Hrushevsky",
+  "metal": "silver (Ag 925)",
+  "denomination": "1000000 karbovanets",
+  "date": "9 August 1996",
+  "weight": 15.55,
+  "diameter": 33,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 10000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to 130th anniversary of Mykhaylo Hrushevsky (1866-1934), an outstanding Ukrainian scientist, historian, academician, public and political figure, first president of the Ukrainian People`s Republic in 1917-1918.",
+  "averseDescription": "On the coin obverse there is the small State Emblem of Ukraine in the middle of the beads circumference decoration, framed with guelder-rose sprays. Above the State Emblem there is the year of issue -1996. Around the coin circumference there are inscriptions: УКРАЇНА - above, and three line inscription 1 МІЛЬЙОН КАРБОВАНЦІВ - underneath. On the silver coin beneath the guelder-rose sprays there are designations of Аg 925 and 15,55, coin`s pure weight.",
+  "reverseDescription": "On the coin reverse in the centre there is a portrait of M.Hrushevsky, left on the background - the Central Rada House (now the Teacher Club), where the first president of the Ukrainian People`s Republic worked in 1917-1918. Around the coins circumference there are inscriptions: МИХАЙЛО - to the left, ГРУШЕВСЬКИЙ - to the right, and 1866-1934 - years of Hrushevsky`s birth and death.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=20",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=20"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 41,
+  "name": "Orante",
+  "metal": "gold (Au 999,9)",
+  "denomination": "125 hryvnias",
+  "date": "28 July 1997",
+  "weight": 7.78,
+  "diameter": 20,
+  "thickness": null,
+  "quality": "uncirculated",
+  "edge": "sectoral corrugation",
+  "mintage": 4000,
+  "categoryId": 5928,
+  "category": "Spiritual Treasures of Ukraine",
+  "generalDescription": "The coin of 125 Hryvnia denomination is dedicated to the icon of the Holy Mother called Orante in the St.Sophia Cathedral in the city of Kyiv",
+  "averseDescription": "On the obverse of all the coins from this series, in the center, there is a depiction of St.Sophia Cathedral, the temple of Kyiv Rus period, the pearl of the old Russian architecture of 11th century. The depiction is framed with beads decoration. Under it there are inscriptions: the period of cathedral foundation - 11th century, respective face value and the year of coin issue year. Above, around the coin circumference there is an inscription: УКРАЇНА (Ukraine)",
+  "reverseDescription": "On the coin reverse of all the coins from this series in the center of the circle made of vegetable ornament, there is a depiction of the Blessed Virgin Orante, the Cathedral`s main mosaic. The figure of the Blessed Virgin Orante splits the horizontally located inscription: Orante. Below, above the vegetable ornament, there are inscriptions of the metal, its fineness and the coin weight in fineness.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=41",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=41"
+}

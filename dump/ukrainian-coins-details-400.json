@@ -1,0 +1,20 @@
+{
+  "id": 400,
+  "name": "Hryhorii Kvitka-Osnovianenko",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "18 November 2008",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The commemorative coin `Hryhorii Kvitka-Osnovianenko` with the face value of 2 hryvnias is dedicated to a writer, cultural and public figure, the founder of the household comedy genre in the Ukrainian literature of classics whose the most popular works are `Witch of Konotop`, `A Marriage Arrangement in Honcharivka`, `Khaliavskii the Gentleman`, `Shelmenko as Captain`s Batman`, etc",
+  "averseDescription": "On the coin obverse there are depicted: above - the Small State Emblem of Ukraine and the semicircular legend Національний банк України (National Bank of Ukraine), a townscape, typical for the Eastern Ukraine of the 19th century; below there are the inscription 2/ГРИВНІ (2/Hryvnias), the coin issue year 2008 (on the right) and the logotype of the National Bank of Ukraine Mint (on the left).",
+  "reverseDescription": "On the coin reverse there are Kvitka-Osnovianenko`s portrait and the legends: ГРИГОРІЙ КВІТКА-ОСНОВ’ЯНЕНКО (Hryhorii Kvitka-Osnovianenko) above in a semicircle, and 1778-1843 below.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=400",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=400"
+}

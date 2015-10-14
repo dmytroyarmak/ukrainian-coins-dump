@@ -1,0 +1,20 @@
+{
+  "id": 562,
+  "name": "Kacha - a Phase of the National Aviation History",
+  "metal": "nickel silver",
+  "denomination": "5 hryvnias",
+  "date": "22 November 2012",
+  "weight": 16.54,
+  "diameter": 35,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The coin is dedicated to the centenary of the urban-type settlement of Kacha, 28 km distant from Sevastopol (to the north), which is the cradle of the national aviation. Here the first rules of flying and airmanship were set, the first high-skilled national personnel for aviation was trained, the first military aircrafts soared into the sky, the aerobatics were performed and so on.",
+  "averseDescription": "Obverse: above, there is an image of the Small Coat of Arms of Ukraine and the following semicircular legend: НАЦІОНАЛЬНИЙ/БАНК/УКРАЇНИ (National/ Bank/of Ukraine); to the left there is the coin issue year - 2012 with the logo of the National Bank of Ukraine beneath it; in the center there is the coat of arms of Kacha; to the right, against a map of the airfield, the is the following legend: 5/ ГРИВЕНЬ (5/ hryvnias).",
+  "reverseDescription": "Reverse: there is a symbolic composition: against a background of stars, a winged man holds a plane in outstretched arms; below the composition there is the following legend: КАЧА - ЕТАП ІСТОРІЇ/ВІТЧИЗНЯНОЇ АВІАЦІЇ (Kacha - a stage in the history of/domestic aviation); above the composition there is the following legend: 1912 - 2012.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=562",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=562"
+}

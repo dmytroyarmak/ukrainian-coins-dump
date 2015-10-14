@@ -1,0 +1,20 @@
+{
+  "id": 129,
+  "name": "Livadia Palace",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "18 September 2003",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 3000,
+  "categoryId": 5925,
+  "category": "Architectural monuments of Ukraine",
+  "generalDescription": "Dedicated to the Great Livadia Palace, an exquisite architectural monument of the new Renaissance and the former tsar`s summer residence. It was founded at the beginning of 20th century according to the design project of the architect M.Krasnov. In Livadia in February 1945 there was held the Yalta conference of the heads of states-allies in anti-Hitler coalition.",
+  "averseDescription": "On the coin obverse there is depicted a fragment of the gate in the Italian courtyard and a lion statue. Above there is the inscription УКРАЇНА (Ukraine), the small National Emblem of Ukraine, the designation of the metal, its fineness and its weight in fineness. Below there are inscriptions: 10 (to the left) and ГРИВЕНЬ o 2003 (hryvnia/ 2003). There is also placed the logotype of the NBU Mint",
+  "reverseDescription": "On the coin reverse against the background of mountains silhouette there is engraved the palace and the semicircular inscription ЛІВАДІЙСЬКИЙ ПАЛАЦ (Livadia palace)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=129",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=129"
+}

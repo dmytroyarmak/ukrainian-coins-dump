@@ -1,0 +1,20 @@
+{
+  "id": 476,
+  "name": "Stipa Ucrainica",
+  "metal": "silver (Ag 925)",
+  "denomination": "10 hryvnias",
+  "date": "29 June 2010",
+  "weight": 31.1,
+  "diameter": 38.6,
+  "thickness": null,
+  "quality": "proof",
+  "edge": "corrugated",
+  "mintage": 8000,
+  "categoryId": 5935,
+  "category": "Flora and Fauna",
+  "generalDescription": "The coin is dedicated to the feather grass Stipa ucrainica, a sui generis symbol of the Ukrainian steppe flora, included in the Red List of Threatened Species of Ukraine.",
+  "averseDescription": "On the coin obverse there is depicted the Small Coat of Arms of Ukraine within the ornamental wreath formed by images of some species of flora and fauna together with the legends: on the silver coin - НАЦІОНАЛЬНИЙ/ БАНК / УКРАЇНИ /10 / ГРИВЕНЬ / 2010 (National / Bank/ of Ukraine / 10 /hryvnias) as well as the indications of the coin metal and its fineness - Ag 925 and the coin weight in fineness 31,1; there is also the logo of the National Bank of Ukraine Mint.",
+  "reverseDescription": "On the coin reverse there is depicted the feather grass with two bow-shaped inscriptions: КОВИЛА УКРАЇНСЬКА above and STIPA UCRAINICA (the same in Latin) below.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=476",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=476"
+}

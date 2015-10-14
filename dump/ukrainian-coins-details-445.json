@@ -1,0 +1,20 @@
+{
+  "id": 445,
+  "name": "Volodymyr Ivasiuk",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "29 September 2009",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The commemorative coin `Volodymyr Ivasiuk` with the face value of 2 hryvnias is dedicated to Volodymyr Mykhailovych Ivasiuk - a composer, poet, singer, one of the pioneers of Ukrainian pop music. In the 1980-90-ies Volodymyr Ivasiuk became a symbol of Ukrainian renascence and his works were widely acclaimed not only in Ukraine but also abroad.",
+  "averseDescription": "On the obverse there are: the Small Coat of Arms of Ukraine with the inscription thereunder Національний банк України (National Bank of Ukraine) above, the composition representing a conventionalized flower of Chervona Ruta (a flower of the Ukrainian legends related to Ivan Kupala (St.John the Baptist) Day) against the background of an ornamental pattern (to the left), electric musical instruments (to the right) and the coin face value and issue year 2/ГРИВНІ/2009 (2/hryvnias/2009) below.",
+  "reverseDescription": "On the reverse there are Volodymyr Ivasiuk`s portrait amid the viburnum leaves against the background of a conventionalized vinyl record and the inscriptions: the semicircular ВОЛОДИМИР ІВАСЮК (Volodymyr Ivasiuk) and 1949-1979 - years of his life.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=445",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=445"
+}

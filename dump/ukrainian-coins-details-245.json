@@ -1,0 +1,20 @@
+{
+  "id": 245,
+  "name": "Coins of Ukraine",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "12 March 1997",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 250000,
+  "categoryId": 5939,
+  "category": "Other coins",
+  "generalDescription": "The coin is dedicated to the currency reform in Ukraine and putting into circulation the national currency - the hryvnia and kopiika - 1/100 of the hryvnia.",
+  "averseDescription": "On the coin obverse there is depicted the small National Emblem of Ukraine in the middle of the beads circumference decoration, framed with cranberry sprays. Above the Emblem there is the year of coin issue -1996. Around the coin circumference there is the inscription: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine). Under the National Emblem there is a two line inscription: ДВІ ГРИВНІ (2 hryvnia)",
+  "reverseDescription": "On the coin reverse there are depictions of change coins of 1, 2, 5, 10, 25, 50 Kopiyka - and 1 Hryvnia denominations. Above there is a two line iscription: МОНЕТИ УКРАЇНИ (Coins of Ukraine)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=245",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=245"
+}

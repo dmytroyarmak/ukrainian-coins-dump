@@ -1,0 +1,20 @@
+{
+  "id": 379,
+  "name": "Yevhen Petrushevych",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "23 May 2008",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 35000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to Yevhen Petrushevych (1863 – 1940), a Ukrainian lawyer, a figure of the Ukrainian national-liberation movement in Halychyna, one of the founders of the Western-Ukrainian Peoples Republic, chairman of the Ukrainian National Council, the parliament of the republic (actually, the WUPR president",
+  "averseDescription": "On the coin obverse in the centre there is the small National Emblem of Ukraine, underneath – 2008, the coin mintage year; around the coin circumference there are inscriptions: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) (above), ДВІ ГРИВНІ (two Hrivnias) (beneath) and the logotype of the Mint of the National Bank of Ukraine.",
+  "reverseDescription": "On the coin reverse there is a portrait of Yevhen Petrushevych, on the right: 1863/1940, his years of life, on the left - the lion of Halych and beneath there is a semicircular inscription: ЄВГЕН ПЕТРУШЕВИЧ (Yevhen Petrushevych).",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=379",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=379"
+}

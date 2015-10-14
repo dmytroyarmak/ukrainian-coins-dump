@@ -1,0 +1,20 @@
+{
+  "id": 292,
+  "name": "Illia Mechnikov",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "29 December 2005",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 20000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin is dedicated to 160th anniversary of Illia Mechnikov (1845 – 1916), an outstanding, world-famous scientist and the Nobel Prize winner (1908). Mechnikov is one of the founders of evolution embryology, immunology and microbiology, who had discovered the phagocytosis phenomenon, had developed the phagocytic theory of immunity (1883). And even now ideas of the scientist have contributed to development of various fields of biology and medicine.",
+  "averseDescription": "On the coin obverse on the right there is depicted a cell under a microscope - a conventionalized phagocytosis process; on the left there is 2005, the coin issue year and the small National Emblem of Ukraine. Around the coin circumference there are the inscriptions: НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (National Bank of Ukraine) (on the left), the NBU Mint logotype and ДВІ ГРИВНІ (2/ hryvnia) (beneath).",
+  "reverseDescription": "On the coin reverse there is a portrait of Illia Mechnikov (displaced to the right) and 1845/1916, his years of life; left there is a semicircular inscription: ІЛЛЯ МЕЧНИКОВ (Illia Mechnikov)",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=292",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=292"
+}

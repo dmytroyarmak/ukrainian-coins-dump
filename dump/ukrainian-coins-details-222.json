@@ -1,0 +1,20 @@
+{
+  "id": 222,
+  "name": "5 Years of the Constitution of Ukraine",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "26 June 2001",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "ordinary",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5933,
+  "category": "Rebirth of Ukrainian Statehood",
+  "generalDescription": "The coin is dedicated to the fundamental Law of Ukraine, adopted by the Verkhovna Rada of Ukraine on 28 June, 1996",
+  "averseDescription": "On the coin obverse, in its upper part there is the small National Emblem of Ukraine under which there is an inscription УКРАЇНА (Ukraine); between two fragments of a conventionalized vegetable- and flower-ornament there are the three line inscription: 2, ГРИВНІ, 2001 (2 /hryvnia/2001), and the Mint logotype of the National Bank of Ukraine",
+  "reverseDescription": "On the coin reverse in the centre there is depicted an open book with the three line inscription: 5 РОКІВ КОНСТИТУЦІЇ (5 Years of the Constitution) within the frame of a vegetable composition of wheatears and cranberry sprays; above it there is the building of the Verkhovna Rada of Ukraine; beneath - 28 / ЧЕРВНЯ / 1996 (28/June/ 1996), the date of adoption of the Constitution",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=222",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=222"
+}

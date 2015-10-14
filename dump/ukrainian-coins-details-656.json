@@ -1,0 +1,20 @@
+{
+  "id": 656,
+  "name": "Petro Prokopovych",
+  "metal": "nickel silver",
+  "denomination": "2 hryvnias",
+  "date": "8 July 2015",
+  "weight": 12.8,
+  "diameter": 31,
+  "thickness": null,
+  "quality": "special uncirculated",
+  "edge": "corrugated",
+  "mintage": 30000,
+  "categoryId": 5914,
+  "category": "Outstanding Personalities of Ukraine",
+  "generalDescription": "The coin commemorates the 240th anniversary of the birth of Petro Prokopovych, the inventor of the world`s first moveable-frame beehive, the founder of the national science of beekeeping and rational apiculture in Europe. Petro Prokopovych designed the frame as a separate moveable part of the beehive which made it possible to harvest pure honey without damaging the bees. This represented a landmark in the history of beekeeping.",
+  "averseDescription": "Obverse: above there is the semicircular inscription НАЦІОНАЛЬНИЙ БАНК УКРАЇНИ (the National Bank of Ukraine); to the left - the Small Coat of Arms of Ukraine; there is depicted the following conventionalized composition: in the center there is Petro Prokopovych`s frame hive with the bees flying out of it, an ancient hive and bee cells (to the left); below against the lustreless background there is engraved the face value - 2 ГРИВНІ (2 hryvnias), to the left - the legend 2015 (the coin issue year); to the right on the lustre surface there is the mark of the Mint of the National Bank of Ukraine.",
+  "reverseDescription": "On the reverse: there is depicted Petro Prokopovych`s portrait with the following inscriptions below: ПЕТРО/ПРОКОПОВИЧ (PETRO/PROKOPOVYCH), 1775/1850; to the right there are depicted the bee cells with the bee on them.",
+  "averseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=0&id=656",
+  "reverseImgUrl": "http://www.bank.gov.ua/control/en/currentmoney/image?g=2&s=1&id=656"
+}
